@@ -1,5 +1,7 @@
 # Game-Icons.net Font
 
+It has become a popular technique to encode scalable vector icons as fonts. Once these icons are converted to a font, they can be conveniently inserted into your own text using any application that supports fonts, just like the wingding or symbol fonts that came with your operating system.
+
 This repository contains font versions of the 3000+ scalable vector icons from [Game-icons.net](http://game-icons.net) made using [FontCustom](https://github.com/FontCustom/fontcustom), as well as a script to download the latest icons and generate a new font. The original icons and the contents of this repository are provided under the Creative Commons [Attribution 3.0 Unported (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/) license.
 
 ## Usage
