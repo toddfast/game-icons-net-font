@@ -1,0 +1,4885 @@
+/*
+  Icon Font: Game-Icons-net
+*/
+
+@font-face {
+  font-family: "Game-Icons-net";
+  src: url("./Game-Icons-net.eot");
+  src: url("./Game-Icons-net.eot?#iefix") format("embedded-opentype"),
+       url("./Game-Icons-net.woff") format("woff"),
+       url("./Game-Icons-net.ttf") format("truetype"),
+       url("./Game-Icons-net.svg#Game-Icons-net") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Game-Icons-net";
+    src: url("./Game-Icons-net.svg#Game-Icons-net") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.icon-abstract-001:before,
+.icon-abstract-002:before,
+.icon-abstract-003:before,
+.icon-abstract-004:before,
+.icon-abstract-005:before,
+.icon-abstract-006:before,
+.icon-abstract-007:before,
+.icon-abstract-008:before,
+.icon-abstract-009:before,
+.icon-abstract-010:before,
+.icon-abstract-011:before,
+.icon-abstract-012:before,
+.icon-abstract-013:before,
+.icon-abstract-014:before,
+.icon-abstract-015:before,
+.icon-abstract-016:before,
+.icon-abstract-017:before,
+.icon-abstract-018:before,
+.icon-abstract-019:before,
+.icon-abstract-020:before,
+.icon-abstract-021:before,
+.icon-abstract-022:before,
+.icon-abstract-023:before,
+.icon-abstract-024:before,
+.icon-abstract-025:before,
+.icon-abstract-026:before,
+.icon-abstract-027:before,
+.icon-abstract-028:before,
+.icon-abstract-029:before,
+.icon-abstract-030:before,
+.icon-abstract-031:before,
+.icon-abstract-032:before,
+.icon-abstract-033:before,
+.icon-abstract-034:before,
+.icon-abstract-035:before,
+.icon-abstract-036:before,
+.icon-abstract-037:before,
+.icon-abstract-038:before,
+.icon-abstract-039:before,
+.icon-abstract-040:before,
+.icon-abstract-041:before,
+.icon-abstract-042:before,
+.icon-abstract-043:before,
+.icon-abstract-044:before,
+.icon-abstract-045:before,
+.icon-abstract-046:before,
+.icon-abstract-047:before,
+.icon-abstract-048:before,
+.icon-abstract-049:before,
+.icon-abstract-050:before,
+.icon-abstract-051:before,
+.icon-abstract-052:before,
+.icon-abstract-053:before,
+.icon-abstract-054:before,
+.icon-abstract-055:before,
+.icon-abstract-056:before,
+.icon-abstract-057:before,
+.icon-abstract-058:before,
+.icon-abstract-059:before,
+.icon-abstract-060:before,
+.icon-abstract-061:before,
+.icon-abstract-062:before,
+.icon-abstract-063:before,
+.icon-abstract-064:before,
+.icon-abstract-065:before,
+.icon-abstract-066:before,
+.icon-abstract-067:before,
+.icon-abstract-068:before,
+.icon-abstract-069:before,
+.icon-abstract-070:before,
+.icon-abstract-071:before,
+.icon-abstract-072:before,
+.icon-abstract-073:before,
+.icon-abstract-074:before,
+.icon-abstract-075:before,
+.icon-abstract-076:before,
+.icon-abstract-077:before,
+.icon-abstract-078:before,
+.icon-abstract-079:before,
+.icon-abstract-080:before,
+.icon-abstract-081:before,
+.icon-abstract-082:before,
+.icon-abstract-083:before,
+.icon-abstract-084:before,
+.icon-abstract-085:before,
+.icon-abstract-086:before,
+.icon-abstract-087:before,
+.icon-abstract-088:before,
+.icon-abstract-089:before,
+.icon-abstract-090:before,
+.icon-abstract-091:before,
+.icon-abstract-092:before,
+.icon-abstract-093:before,
+.icon-abstract-094:before,
+.icon-abstract-095:before,
+.icon-abstract-096:before,
+.icon-abstract-097:before,
+.icon-abstract-098:before,
+.icon-abstract-099:before,
+.icon-abstract-100:before,
+.icon-abstract-101:before,
+.icon-abstract-102:before,
+.icon-abstract-103:before,
+.icon-abstract-104:before,
+.icon-abstract-105:before,
+.icon-abstract-106:before,
+.icon-abstract-107:before,
+.icon-abstract-108:before,
+.icon-abstract-109:before,
+.icon-abstract-110:before,
+.icon-abstract-111:before,
+.icon-abstract-112:before,
+.icon-abstract-113:before,
+.icon-abstract-114:before,
+.icon-abstract-115:before,
+.icon-abstract-116:before,
+.icon-abstract-117:before,
+.icon-abstract-118:before,
+.icon-abstract-119:before,
+.icon-abstract-120:before,
+.icon-abstract-121:before,
+.icon-ace:before,
+.icon-achievement:before,
+.icon-acid:before,
+.icon-acid-blob:before,
+.icon-acid-tube:before,
+.icon-acorn:before,
+.icon-acoustic-megaphone:before,
+.icon-aerial-signal:before,
+.icon-aerodynamic-harpoon:before,
+.icon-aerosol:before,
+.icon-africa:before,
+.icon-afterburn:before,
+.icon-ages:before,
+.icon-air-balloon:before,
+.icon-air-force:before,
+.icon-air-zigzag:before,
+.icon-airplane:before,
+.icon-alarm-clock:before,
+.icon-alien-fire:before,
+.icon-alien-skull:before,
+.icon-alien-stare:before,
+.icon-all-for-one:before,
+.icon-all-seeing-eye:before,
+.icon-allied-star:before,
+.icon-alligator-clip:before,
+.icon-ambulance:before,
+.icon-american-football-ball:before,
+.icon-american-football-helmet:before,
+.icon-american-shield:before,
+.icon-ammo-box:before,
+.icon-ammonite:before,
+.icon-ammonite-fossil:before,
+.icon-amphora:before,
+.icon-amplitude:before,
+.icon-amputation:before,
+.icon-anarchy:before,
+.icon-anatomy:before,
+.icon-anchor:before,
+.icon-ancient-ruins:before,
+.icon-android-mask:before,
+.icon-andromeda-chain:before,
+.icon-angel-outfit:before,
+.icon-angel-wings:before,
+.icon-angler-fish:before,
+.icon-angry-eyes:before,
+.icon-angular-spider:before,
+.icon-animal-hide:before,
+.icon-animal-skull:before,
+.icon-ankh:before,
+.icon-annexation:before,
+.icon-anthem:before,
+.icon-anticlockwise-rotation:before,
+.icon-anubis:before,
+.icon-anvil:before,
+.icon-anvil-impact:before,
+.icon-apc:before,
+.icon-apple-maggot:before,
+.icon-apple-seeds:before,
+.icon-aquarium:before,
+.icon-aquarius:before,
+.icon-aqueduct:before,
+.icon-arc-triomphe:before,
+.icon-archery-target:before,
+.icon-architect-mask:before,
+.icon-arcing-bolt:before,
+.icon-arena:before,
+.icon-aries:before,
+.icon-arm:before,
+.icon-armadillo-tail:before,
+.icon-armor-vest:before,
+.icon-armored-pants:before,
+.icon-armoured-shell:before,
+.icon-arrow-cluster:before,
+.icon-arrow-cursor:before,
+.icon-arrow-dunk:before,
+.icon-arrow-flights:before,
+.icon-arrow-scope:before,
+.icon-arrowed:before,
+.icon-arrowhead:before,
+.icon-arrows-shield:before,
+.icon-arson:before,
+.icon-artificial-hive:before,
+.icon-artificial-intelligence:before,
+.icon-assassin-pocket:before,
+.icon-asteroid:before,
+.icon-astronaut-helmet:before,
+.icon-at-sea:before,
+.icon-atlas:before,
+.icon-atom:before,
+.icon-atomic-slashes:before,
+.icon-attached-shield:before,
+.icon-aubergine:before,
+.icon-audio-cassette:before,
+.icon-aura:before,
+.icon-australia:before,
+.icon-auto-repair:before,
+.icon-autogun:before,
+.icon-automatic-sas:before,
+.icon-awareness:before,
+.icon-axe-in-stump:before,
+.icon-axe-swing:before,
+.icon-babyfoot-players:before,
+.icon-back-forth:before,
+.icon-back-pain:before,
+.icon-backbone-shell:before,
+.icon-backgammon:before,
+.icon-backpack:before,
+.icon-backstab:before,
+.icon-backup:before,
+.icon-bad-gnome:before,
+.icon-balkenkreuz:before,
+.icon-ball-heart:before,
+.icon-ballista:before,
+.icon-balloons:before,
+.icon-banana:before,
+.icon-banana-peel:before,
+.icon-bandage-roll:before,
+.icon-bandaged:before,
+.icon-bank:before,
+.icon-banknote:before,
+.icon-barbarian:before,
+.icon-barbed-arrow:before,
+.icon-barbed-coil:before,
+.icon-barbed-nails:before,
+.icon-barbed-spear:before,
+.icon-barbed-star:before,
+.icon-barbed-sun:before,
+.icon-barbed-wire:before,
+.icon-barbute:before,
+.icon-barefoot:before,
+.icon-barn:before,
+.icon-barrel:before,
+.icon-baseball-bat:before,
+.icon-basketball-ball:before,
+.icon-basketball-basket:before,
+.icon-bat:before,
+.icon-bat-blade:before,
+.icon-bat-wing:before,
+.icon-baton:before,
+.icon-battered-axe:before,
+.icon-batteries:before,
+.icon-battery-0:before,
+.icon-battery-100:before,
+.icon-battery-25:before,
+.icon-battery-50:before,
+.icon-battery-75:before,
+.icon-battery-minus:before,
+.icon-battery-pack:before,
+.icon-battery-pack-alt:before,
+.icon-battery-plus:before,
+.icon-battle-axe:before,
+.icon-battle-gear:before,
+.icon-battleship:before,
+.icon-batwing-emblem:before,
+.icon-bayonet:before,
+.icon-beach-ball:before,
+.icon-beam-wake:before,
+.icon-beams-aura:before,
+.icon-beanstalk:before,
+.icon-bear-head:before,
+.icon-beard:before,
+.icon-beast-eye:before,
+.icon-bed:before,
+.icon-bed-lamp:before,
+.icon-bee:before,
+.icon-beech:before,
+.icon-beehive:before,
+.icon-beer-bottle:before,
+.icon-beer-stein:before,
+.icon-beetle-shell:before,
+.icon-behold:before,
+.icon-bell-shield:before,
+.icon-belt:before,
+.icon-belt-buckles:before,
+.icon-bestial-fangs:before,
+.icon-beveled-star:before,
+.icon-biceps:before,
+.icon-big-diamond-ring:before,
+.icon-big-egg:before,
+.icon-big-wave:before,
+.icon-bindle:before,
+.icon-binoculars:before,
+.icon-biohazard:before,
+.icon-bird-claw:before,
+.icon-bird-limb:before,
+.icon-bird-mask:before,
+.icon-bird-twitter:before,
+.icon-black-bar:before,
+.icon-black-book:before,
+.icon-black-cat:before,
+.icon-black-flag:before,
+.icon-black-hand-shield:before,
+.icon-black-hole-bolas:before,
+.icon-black-knight-helm:before,
+.icon-blackball:before,
+.icon-blackcurrant:before,
+.icon-blade-bite:before,
+.icon-blade-fall:before,
+.icon-blast:before,
+.icon-blaster:before,
+.icon-bleeding-eye:before,
+.icon-bleeding-heart:before,
+.icon-bleeding-wound:before,
+.icon-blindfold:before,
+.icon-block-house:before,
+.icon-blood:before,
+.icon-bloody-stash:before,
+.icon-bloody-sword:before,
+.icon-blunderbuss:before,
+.icon-bo:before,
+.icon-boar-tusks:before,
+.icon-body-height:before,
+.icon-body-swapping:before,
+.icon-boiling-bubbles:before,
+.icon-bolas:before,
+.icon-bolt-saw:before,
+.icon-bolt-shield:before,
+.icon-bolter-gun:before,
+.icon-bomber:before,
+.icon-bombing-run:before,
+.icon-bone-gnawer:before,
+.icon-bone-knife:before,
+.icon-book-aura:before,
+.icon-book-cover:before,
+.icon-book-cover-2:before,
+.icon-book-storm:before,
+.icon-bookmark:before,
+.icon-bookmarklet:before,
+.icon-bookshelf:before,
+.icon-boomerang:before,
+.icon-boomerang-sun:before,
+.icon-boot-prints:before,
+.icon-boot-stomp:before,
+.icon-boots:before,
+.icon-bordered-shield:before,
+.icon-boss-key:before,
+.icon-bottle-vapors:before,
+.icon-bottled-bolt:before,
+.icon-bottom-right-3d-arrow:before,
+.icon-boulder-dash:before,
+.icon-bowen-knot:before,
+.icon-bowie-knife:before,
+.icon-bowie-knife-2:before,
+.icon-bowl-spiral:before,
+.icon-bowling-pin:before,
+.icon-bowling-propulsion:before,
+.icon-bowman:before,
+.icon-box-trap:before,
+.icon-boxing-glove:before,
+.icon-boxing-glove-surprise:before,
+.icon-bracer:before,
+.icon-bracers:before,
+.icon-brain:before,
+.icon-brain-freeze:before,
+.icon-brain-stem:before,
+.icon-brainstorm:before,
+.icon-branch-arrow:before,
+.icon-brandy-bottle:before,
+.icon-brass-eye:before,
+.icon-brass-knuckles:before,
+.icon-bread:before,
+.icon-breastplate:before,
+.icon-brick-pile:before,
+.icon-brick-wall:before,
+.icon-bridge:before,
+.icon-briefcase:before,
+.icon-bright-explosion:before,
+.icon-broad-dagger:before,
+.icon-broadhead-arrow:before,
+.icon-broadsword:before,
+.icon-brodie-helmet:before,
+.icon-broken-bone:before,
+.icon-broken-bottle:before,
+.icon-broken-heart:before,
+.icon-broken-heart-zone:before,
+.icon-broken-shield:before,
+.icon-broken-skull:before,
+.icon-broken-tablet:before,
+.icon-broom:before,
+.icon-brutal-helm:before,
+.icon-bubble-field:before,
+.icon-bubbles:before,
+.icon-bubbling-beam:before,
+.icon-bubbling-bowl:before,
+.icon-bubbling-flask:before,
+.icon-bud:before,
+.icon-bugle-call:before,
+.icon-bulb:before,
+.icon-bull:before,
+.icon-bull-horns:before,
+.icon-bullets:before,
+.icon-bullseye:before,
+.icon-buoy:before,
+.icon-burn:before,
+.icon-burning-blobs:before,
+.icon-burning-book:before,
+.icon-burning-dot:before,
+.icon-burning-embers:before,
+.icon-burning-eye:before,
+.icon-burning-meteor:before,
+.icon-burning-passion:before,
+.icon-burning-round-shot:before,
+.icon-burning-tree:before,
+.icon-burst-blob:before,
+.icon-butterfly:before,
+.icon-butterfly-knife:before,
+.icon-butterfly-warning:before,
+.icon-button-finger:before,
+.icon-c96:before,
+.icon-cactus:before,
+.icon-caduceus:before,
+.icon-caesar:before,
+.icon-caged-ball:before,
+.icon-cake-slice:before,
+.icon-caldera:before,
+.icon-calendar:before,
+.icon-camel-head:before,
+.icon-campfire:before,
+.icon-camping-tent:before,
+.icon-cancel:before,
+.icon-cancer:before,
+.icon-candle-flame:before,
+.icon-candle-holder:before,
+.icon-candle-light:before,
+.icon-candle-skull:before,
+.icon-candlebright:before,
+.icon-candlestick-phone:before,
+.icon-candy-canes:before,
+.icon-cannister:before,
+.icon-cannon:before,
+.icon-cannon-ball:before,
+.icon-cannon-shot:before,
+.icon-cape:before,
+.icon-capitol:before,
+.icon-capricorn:before,
+.icon-car-key:before,
+.icon-card-10-clubs:before,
+.icon-card-10-diamonds:before,
+.icon-card-10-hearts:before,
+.icon-card-10-spades:before,
+.icon-card-2-clubs:before,
+.icon-card-2-diamonds:before,
+.icon-card-2-hearts:before,
+.icon-card-2-spades:before,
+.icon-card-3-clubs:before,
+.icon-card-3-diamonds:before,
+.icon-card-3-hearts:before,
+.icon-card-3-spades:before,
+.icon-card-4-clubs:before,
+.icon-card-4-diamonds:before,
+.icon-card-4-hearts:before,
+.icon-card-4-spades:before,
+.icon-card-5-clubs:before,
+.icon-card-5-diamonds:before,
+.icon-card-5-hearts:before,
+.icon-card-5-spades:before,
+.icon-card-6-clubs:before,
+.icon-card-6-diamonds:before,
+.icon-card-6-hearts:before,
+.icon-card-6-spades:before,
+.icon-card-7-clubs:before,
+.icon-card-7-diamonds:before,
+.icon-card-7-hearts:before,
+.icon-card-7-spades:before,
+.icon-card-8-clubs:before,
+.icon-card-8-diamonds:before,
+.icon-card-8-hearts:before,
+.icon-card-8-spades:before,
+.icon-card-9-clubs:before,
+.icon-card-9-diamonds:before,
+.icon-card-9-hearts:before,
+.icon-card-9-spades:before,
+.icon-card-ace-clubs:before,
+.icon-card-ace-diamonds:before,
+.icon-card-ace-hearts:before,
+.icon-card-ace-spades:before,
+.icon-card-discard:before,
+.icon-card-draw:before,
+.icon-card-jack-clubs:before,
+.icon-card-jack-diamonds:before,
+.icon-card-jack-hearts:before,
+.icon-card-jack-spades:before,
+.icon-card-king-clubs:before,
+.icon-card-king-diamonds:before,
+.icon-card-king-hearts:before,
+.icon-card-king-spades:before,
+.icon-card-pick:before,
+.icon-card-queen-clubs:before,
+.icon-card-queen-diamonds:before,
+.icon-card-queen-hearts:before,
+.icon-card-queen-spades:before,
+.icon-card-random:before,
+.icon-cardboard-box:before,
+.icon-cargo-crane:before,
+.icon-carillon:before,
+.icon-carnivore-mouth:before,
+.icon-carnivorous-plant:before,
+.icon-carpet-bombing:before,
+.icon-carrier:before,
+.icon-carrion:before,
+.icon-carrot:before,
+.icon-cartwheel:before,
+.icon-cash:before,
+.icon-castle:before,
+.icon-castle-2:before,
+.icon-castle-ruins:before,
+.icon-catapult:before,
+.icon-cauldron:before,
+.icon-cavalry:before,
+.icon-cave-entrance:before,
+.icon-cctv-camera:before,
+.icon-ceiling-barnacle:before,
+.icon-celebration-fire:before,
+.icon-cement-shoes:before,
+.icon-centipede:before,
+.icon-chain-lightning:before,
+.icon-chain-mail:before,
+.icon-chained-arrow-heads:before,
+.icon-chained-heart:before,
+.icon-chaingun:before,
+.icon-chainsaw:before,
+.icon-chalice-drops:before,
+.icon-charging-bull:before,
+.icon-chariot:before,
+.icon-charm:before,
+.icon-chart:before,
+.icon-checkbox-tree:before,
+.icon-checked-shield:before,
+.icon-checkered-flag:before,
+.icon-checklist:before,
+.icon-cheerful:before,
+.icon-cheese-wedge:before,
+.icon-chef-toque:before,
+.icon-chemical-arrow:before,
+.icon-chemical-bolt:before,
+.icon-chemical-drop:before,
+.icon-chemical-tank:before,
+.icon-cherry:before,
+.icon-chess-bishop:before,
+.icon-chess-king:before,
+.icon-chess-knight:before,
+.icon-chess-pawn:before,
+.icon-chess-queen:before,
+.icon-chess-rook:before,
+.icon-chest:before,
+.icon-chewed-heart:before,
+.icon-chicken:before,
+.icon-chicken-leg:before,
+.icon-church:before,
+.icon-cigarette:before,
+.icon-circle-claws:before,
+.icon-circle-sparks:before,
+.icon-circuitry:before,
+.icon-circular-saw:before,
+.icon-circular-sawblade:before,
+.icon-city-car:before,
+.icon-clapperboard:before,
+.icon-claw:before,
+.icon-claw-hammer:before,
+.icon-claw-slashes:before,
+.icon-claw-string:before,
+.icon-click:before,
+.icon-cloak:before,
+.icon-cloak-dagger:before,
+.icon-clockwise-rotation:before,
+.icon-clockwork:before,
+.icon-closed-doors:before,
+.icon-cloud-ring:before,
+.icon-cloudy-fork:before,
+.icon-clout:before,
+.icon-clover:before,
+.icon-clover-2:before,
+.icon-clover-spiked:before,
+.icon-cluster-bomb:before,
+.icon-cobra:before,
+.icon-cobweb:before,
+.icon-coffee-beans:before,
+.icon-coffee-cup:before,
+.icon-coffee-mug:before,
+.icon-coffin:before,
+.icon-cog:before,
+.icon-cog-lock:before,
+.icon-cogsplosion:before,
+.icon-coiling-curl:before,
+.icon-coins:before,
+.icon-cold-heart:before,
+.icon-coliseum:before,
+.icon-coma:before,
+.icon-comb:before,
+.icon-comet-spark:before,
+.icon-compact-disc:before,
+.icon-compass:before,
+.icon-computer-fan:before,
+.icon-computing:before,
+.icon-concentration-orb:before,
+.icon-concentric-crescents:before,
+.icon-condor-emblem:before,
+.icon-condylura-skull:before,
+.icon-confrontation:before,
+.icon-console-controller:before,
+.icon-contract:before,
+.icon-conversation:before,
+.icon-convict:before,
+.icon-convince:before,
+.icon-cooking-pot:before,
+.icon-cool-spices:before,
+.icon-corked-tube:before,
+.icon-corn:before,
+.icon-corner-explosion:before,
+.icon-corner-flag:before,
+.icon-corporal:before,
+.icon-corset:before,
+.icon-cowboy-boot:before,
+.icon-cowboy-holster:before,
+.icon-cowled:before,
+.icon-crab:before,
+.icon-crab-claw:before,
+.icon-cracked-ball-dunk:before,
+.icon-cracked-disc:before,
+.icon-cracked-glass:before,
+.icon-cracked-helm:before,
+.icon-cracked-mask:before,
+.icon-cracked-saber:before,
+.icon-cracked-shield:before,
+.icon-crags:before,
+.icon-crenulated-shield:before,
+.icon-crescent-blade:before,
+.icon-crescent-blade-2:before,
+.icon-crested-helmet:before,
+.icon-cricket:before,
+.icon-croc-jaws:before,
+.icon-croc-sword:before,
+.icon-croissant:before,
+.icon-croissants-pupil:before,
+.icon-cross-mark:before,
+.icon-crossbow:before,
+.icon-crossed-air-flows:before,
+.icon-crossed-axes:before,
+.icon-crossed-bones:before,
+.icon-crossed-chains:before,
+.icon-crossed-claws:before,
+.icon-crossed-pistols:before,
+.icon-crossed-sabres:before,
+.icon-crossed-slashes:before,
+.icon-crossed-swords:before,
+.icon-crosshair:before,
+.icon-crosshair-arrow:before,
+.icon-crow-dive:before,
+.icon-crow-nest:before,
+.icon-crowbar:before,
+.icon-crown:before,
+.icon-crown-coin:before,
+.icon-crown-of-thorns:before,
+.icon-crowned-explosion:before,
+.icon-crowned-heart:before,
+.icon-crowned-skull:before,
+.icon-crucifix:before,
+.icon-cruiser:before,
+.icon-crumbling-ball:before,
+.icon-crush:before,
+.icon-cryo-chamber:before,
+.icon-crystal-ball:before,
+.icon-crystal-bars:before,
+.icon-crystal-cluster:before,
+.icon-crystal-eye:before,
+.icon-crystal-growth:before,
+.icon-crystal-shine:before,
+.icon-crystal-wand:before,
+.icon-crystalize:before,
+.icon-cubeforce:before,
+.icon-cubes:before,
+.icon-cultist:before,
+.icon-cupcake:before,
+.icon-cupidon-arrow:before,
+.icon-curled-leaf:before,
+.icon-curled-tentacle:before,
+.icon-curling-vines:before,
+.icon-curly-wing:before,
+.icon-cursed-star:before,
+.icon-curvy-knife:before,
+.icon-cut-diamond:before,
+.icon-cut-palm:before,
+.icon-cycle:before,
+.icon-cyclops:before,
+.icon-d10:before,
+.icon-d12:before,
+.icon-daemon-skull:before,
+.icon-dagger-rose:before,
+.icon-daggers:before,
+.icon-daisy:before,
+.icon-dark-squad:before,
+.icon-database:before,
+.icon-dead-eye:before,
+.icon-dead-head:before,
+.icon-dead-wood:before,
+.icon-deadly-strike:before,
+.icon-death-note:before,
+.icon-death-skull:before,
+.icon-death-zone:before,
+.icon-deathcab:before,
+.icon-decapitation:before,
+.icon-defensive-wall:before,
+.icon-defibrilate:before,
+.icon-delighted:before,
+.icon-demolish:before,
+.icon-dervish-swords:before,
+.icon-desert-skull:before,
+.icon-deshret-red-crown:before,
+.icon-desk-lamp:before,
+.icon-despair:before,
+.icon-detour:before,
+.icon-diablo-skull:before,
+.icon-diagram:before,
+.icon-diamond-hard:before,
+.icon-diamond-ring:before,
+.icon-diamonds-smile:before,
+.icon-dice-eight-faces-eight:before,
+.icon-dice-six-faces-five:before,
+.icon-dice-six-faces-four:before,
+.icon-dice-six-faces-one:before,
+.icon-dice-six-faces-six:before,
+.icon-dice-six-faces-three:before,
+.icon-dice-six-faces-two:before,
+.icon-dice-twenty-faces-twenty:before,
+.icon-dig-dug:before,
+.icon-dig-hole:before,
+.icon-dinosaur-bones:before,
+.icon-dinosaur-egg:before,
+.icon-dinosaur-rex:before,
+.icon-direction-sign:before,
+.icon-disintegrate:before,
+.icon-distraction:before,
+.icon-divergence:before,
+.icon-divert:before,
+.icon-divided-spiral:before,
+.icon-divided-square:before,
+.icon-diving-dagger:before,
+.icon-diving-helmet:before,
+.icon-dna1:before,
+.icon-dna2:before,
+.icon-doctor-face:before,
+.icon-dodge:before,
+.icon-dodging:before,
+.icon-dolphin:before,
+.icon-domino-mask:before,
+.icon-donkey:before,
+.icon-double-dragon:before,
+.icon-double-face-mask:before,
+.icon-double-quaver:before,
+.icon-double-shot:before,
+.icon-doubled:before,
+.icon-dough-roller:before,
+.icon-dove:before,
+.icon-dozen:before,
+.icon-dragon-balls:before,
+.icon-dragon-breath:before,
+.icon-dragon-head:before,
+.icon-dragon-head-2:before,
+.icon-dragon-spiral:before,
+.icon-dragonfly:before,
+.icon-drakkar:before,
+.icon-drakkar-dragon:before,
+.icon-drama-masks:before,
+.icon-dread:before,
+.icon-dread-skull:before,
+.icon-dreadnought:before,
+.icon-dress:before,
+.icon-drill:before,
+.icon-drink-me:before,
+.icon-dripping-blade:before,
+.icon-dripping-goo:before,
+.icon-dripping-honey:before,
+.icon-dripping-knife:before,
+.icon-dripping-star:before,
+.icon-dripping-stone:before,
+.icon-dripping-sword:before,
+.icon-dripping-tube:before,
+.icon-drop:before,
+.icon-drop-weapon:before,
+.icon-droplet-splash:before,
+.icon-droplets:before,
+.icon-drowning:before,
+.icon-drum:before,
+.icon-duality:before,
+.icon-duality-mask:before,
+.icon-duck:before,
+.icon-duel:before,
+.icon-dust-cloud:before,
+.icon-dwarf-face:before,
+.icon-dwarf-helmet:before,
+.icon-dwennimmen:before,
+.icon-dynamite:before,
+.icon-eagle-emblem:before,
+.icon-earth-africa-europe:before,
+.icon-earth-america:before,
+.icon-earth-asia-oceania:before,
+.icon-earth-crack:before,
+.icon-earth-spit:before,
+.icon-earwig:before,
+.icon-echo-ripples:before,
+.icon-eclipse:before,
+.icon-eclipse-flare:before,
+.icon-edge-crack:before,
+.icon-edged-shield:before,
+.icon-egg-clutch:before,
+.icon-egg-defense:before,
+.icon-egg-pod:before,
+.icon-egyptian-pyramids:before,
+.icon-egyptian-sphinx:before,
+.icon-eight-ball:before,
+.icon-elderberry:before,
+.icon-electric:before,
+.icon-electric-whip:before,
+.icon-electrical-crescent:before,
+.icon-elephant-head:before,
+.icon-elf-ear:before,
+.icon-ember-shot:before,
+.icon-embrassed-energy:before,
+.icon-embryo:before,
+.icon-emerald:before,
+.icon-empty-chessboard:before,
+.icon-empty-hourglass:before,
+.icon-energise:before,
+.icon-energy-arrow:before,
+.icon-energy-breath:before,
+.icon-energy-shield:before,
+.icon-energy-sword:before,
+.icon-engagement-ring:before,
+.icon-enlightenment:before,
+.icon-enrage:before,
+.icon-ent-mouth:before,
+.icon-entry-door:before,
+.icon-envelope:before,
+.icon-erlenmeyer:before,
+.icon-ermine:before,
+.icon-eruption:before,
+.icon-eskimo:before,
+.icon-european-flag:before,
+.icon-evil-bat:before,
+.icon-evil-book:before,
+.icon-evil-eyes:before,
+.icon-evil-fork:before,
+.icon-evil-hand:before,
+.icon-evil-moon:before,
+.icon-evil-tree:before,
+.icon-evil-wings:before,
+.icon-exit-door:before,
+.icon-expand:before,
+.icon-expander:before,
+.icon-explosion-rays:before,
+.icon-explosive-materials:before,
+.icon-explosive-meeting:before,
+.icon-extra-lucid:before,
+.icon-eye-of-horus:before,
+.icon-eye-shield:before,
+.icon-eyeball:before,
+.icon-eyedropper:before,
+.icon-eyestalk:before,
+.icon-factory:before,
+.icon-fairy:before,
+.icon-fairy-wand:before,
+.icon-falcon-moon:before,
+.icon-fall-down:before,
+.icon-falling:before,
+.icon-falling-blob:before,
+.icon-falling-boulder:before,
+.icon-falling-eye:before,
+.icon-falling-leaf:before,
+.icon-falling-ovoid:before,
+.icon-falling-rocks:before,
+.icon-famas:before,
+.icon-fanged-skull:before,
+.icon-fangs:before,
+.icon-farmer:before,
+.icon-fast-arrow:before,
+.icon-fat:before,
+.icon-feather:before,
+.icon-feather-wound:before,
+.icon-feathered-wing:before,
+.icon-fedora:before,
+.icon-feline:before,
+.icon-female:before,
+.icon-fetus:before,
+.icon-fez:before,
+.icon-field:before,
+.icon-finger-print:before,
+.icon-fire:before,
+.icon-fire-ace:before,
+.icon-fire-axe:before,
+.icon-fire-bomb:before,
+.icon-fire-bottle:before,
+.icon-fire-bowl:before,
+.icon-fire-breath:before,
+.icon-fire-dash:before,
+.icon-fire-extinguisher:before,
+.icon-fire-punch:before,
+.icon-fire-ray:before,
+.icon-fire-ring:before,
+.icon-fire-shield:before,
+.icon-fire-silhouette:before,
+.icon-fire-tail:before,
+.icon-fire-wave:before,
+.icon-fire-zone:before,
+.icon-fireball:before,
+.icon-fireflake:before,
+.icon-firework-rocket:before,
+.icon-fish-corpse:before,
+.icon-fish-smoking:before,
+.icon-fishbone:before,
+.icon-fishhook-fork:before,
+.icon-fishing:before,
+.icon-fishing-hook:before,
+.icon-fishing-net:before,
+.icon-fishing-pole:before,
+.icon-fission:before,
+.icon-fist:before,
+.icon-fist-2:before,
+.icon-fizzing-flask:before,
+.icon-flail:before,
+.icon-flake:before,
+.icon-flame:before,
+.icon-flame-claws:before,
+.icon-flame-spin:before,
+.icon-flame-tunnel:before,
+.icon-flamed-leaf:before,
+.icon-flamer:before,
+.icon-flaming-arrow:before,
+.icon-flaming-claw:before,
+.icon-flaming-sheet:before,
+.icon-flaming-trident:before,
+.icon-flanged-mace:before,
+.icon-flash-grenade:before,
+.icon-flashlight:before,
+.icon-flat-hammer:before,
+.icon-flat-star:before,
+.icon-flatbed:before,
+.icon-fleshy-mass:before,
+.icon-fleur-de-lys:before,
+.icon-flexible-star:before,
+.icon-floating-crystal:before,
+.icon-floor-polisher:before,
+.icon-flower-pot:before,
+.icon-flower-twirl:before,
+.icon-flowers:before,
+.icon-fluffy-cloud:before,
+.icon-fluffy-flame:before,
+.icon-fluffy-swirl:before,
+.icon-fluffy-trefoil:before,
+.icon-fluffy-wing:before,
+.icon-flying-dagger:before,
+.icon-flying-flag:before,
+.icon-flying-fox:before,
+.icon-flying-trout:before,
+.icon-foam:before,
+.icon-focused-lightning:before,
+.icon-folded-paper:before,
+.icon-food-chain:before,
+.icon-foot-plaster:before,
+.icon-foot-trip:before,
+.icon-footprint:before,
+.icon-footsteps:before,
+.icon-forearm:before,
+.icon-forest:before,
+.icon-forward-field:before,
+.icon-forward-sun:before,
+.icon-fossil:before,
+.icon-fountain:before,
+.icon-fountain-pen:before,
+.icon-fox-head:before,
+.icon-fox-tail:before,
+.icon-fragmented-meteor:before,
+.icon-fragmented-sword:before,
+.icon-fragrance:before,
+.icon-frankenstein-creature:before,
+.icon-frayed-arrow:before,
+.icon-freedom-dove:before,
+.icon-freemasonry:before,
+.icon-fried-eggs:before,
+.icon-frog:before,
+.icon-front-teeth:before,
+.icon-frontal-lobe:before,
+.icon-frostfire:before,
+.icon-frozen-arrow:before,
+.icon-frozen-block:before,
+.icon-frozen-orb:before,
+.icon-fruit-bowl:before,
+.icon-fruiting:before,
+.icon-fulguro-punch:before,
+.icon-full-motorcycle-helmet:before,
+.icon-fur-boot:before,
+.icon-galea:before,
+.icon-galleon:before,
+.icon-gamepad:before,
+.icon-gamepad-cross:before,
+.icon-garlic:before,
+.icon-gas-mask:before,
+.icon-gas-mask-2:before,
+.icon-gas-pump:before,
+.icon-gate:before,
+.icon-gauls-helm:before,
+.icon-gauntlet:before,
+.icon-gavel:before,
+.icon-gaze:before,
+.icon-gear-hammer:before,
+.icon-gears:before,
+.icon-gecko:before,
+.icon-gem-chain:before,
+.icon-gem-necklace:before,
+.icon-gem-pendant:before,
+.icon-gemini:before,
+.icon-gems:before,
+.icon-ghost:before,
+.icon-giant:before,
+.icon-gibbet:before,
+.icon-gift-of-knowledge:before,
+.icon-gift-trap:before,
+.icon-gladius:before,
+.icon-glass-heart:before,
+.icon-glass-shot:before,
+.icon-glider:before,
+.icon-globe:before,
+.icon-gloop:before,
+.icon-gloves:before,
+.icon-glowing-hands:before,
+.icon-gluttonous-smile:before,
+.icon-gluttony:before,
+.icon-gold-bar:before,
+.icon-gold-mine:before,
+.icon-gold-scarab:before,
+.icon-gold-stack:before,
+.icon-golf-flag:before,
+.icon-goo-explosion:before,
+.icon-goo-skull:before,
+.icon-goo-spurt:before,
+.icon-gooey-daemon:before,
+.icon-gooey-eyed-sun:before,
+.icon-gooey-impact:before,
+.icon-gooey-molecule:before,
+.icon-gooey-sword:before,
+.icon-goose:before,
+.icon-gps:before,
+.icon-grab:before,
+.icon-graduate-cap:before,
+.icon-grapes:before,
+.icon-grapple:before,
+.icon-grasping-claws:before,
+.icon-grass:before,
+.icon-graveyard:before,
+.icon-grease-trap:before,
+.icon-great-war-tank:before,
+.icon-greaves:before,
+.icon-greek-sphinx:before,
+.icon-greek-temple:before,
+.icon-grenade:before,
+.icon-grenade-2:before,
+.icon-grim-reaper:before,
+.icon-ground-sprout:before,
+.icon-groundbreaker:before,
+.icon-grouped-drops:before,
+.icon-guarded-tower:before,
+.icon-guards:before,
+.icon-guillotine:before,
+.icon-guitar:before,
+.icon-gun-rose:before,
+.icon-gunshot:before,
+.icon-halberd:before,
+.icon-halberd-shuriken:before,
+.icon-half-body-crawling:before,
+.icon-half-heart:before,
+.icon-half-tornado:before,
+.icon-halt:before,
+.icon-ham-shank:before,
+.icon-hammer-drop:before,
+.icon-hammer-nails:before,
+.icon-hammer-sickle:before,
+.icon-hand:before,
+.icon-hand-2:before,
+.icon-hand-grip:before,
+.icon-hand-of-god:before,
+.icon-hand-saw:before,
+.icon-handcuffs:before,
+.icon-hang-glider:before,
+.icon-hanging-spider:before,
+.icon-harpoon-chain:before,
+.icon-harpoon-trident:before,
+.icon-harpy:before,
+.icon-harry-potter-skull:before,
+.icon-hasty-grave:before,
+.icon-hatchets:before,
+.icon-haunting:before,
+.icon-hawk-emblem:before,
+.icon-hazard-sign:before,
+.icon-head-shot:before,
+.icon-headphones:before,
+.icon-headshot:before,
+.icon-headshot-2:before,
+.icon-health-decrease:before,
+.icon-health-increase:before,
+.icon-health-normal:before,
+.icon-heart-beats:before,
+.icon-heart-bottle:before,
+.icon-heart-drop:before,
+.icon-heart-inside:before,
+.icon-heart-organ:before,
+.icon-heart-tower:before,
+.icon-heart-wings:before,
+.icon-heartburn:before,
+.icon-heat-haze:before,
+.icon-heavy-arrow:before,
+.icon-heavy-fall:before,
+.icon-heavy-fighter:before,
+.icon-heavy-helm:before,
+.icon-heavy-lightning:before,
+.icon-heavy-rain:before,
+.icon-heavy-thorny-triskelion:before,
+.icon-heavy-timer:before,
+.icon-hedjet-white-crown:before,
+.icon-helicopter:before,
+.icon-helicopter-tail:before,
+.icon-hell-crosses:before,
+.icon-helmet:before,
+.icon-helmet-head-shot:before,
+.icon-help:before,
+.icon-hexagonal-nut:before,
+.icon-hexes:before,
+.icon-hidden:before,
+.icon-high-five:before,
+.icon-high-grass:before,
+.icon-high-heel:before,
+.icon-high-shot:before,
+.icon-high-tide:before,
+.icon-hill-conquest:before,
+.icon-hill-fort:before,
+.icon-hills:before,
+.icon-histogram:before,
+.icon-hive:before,
+.icon-hockey:before,
+.icon-hole-ladder:before,
+.icon-holosphere:before,
+.icon-holy-grail:before,
+.icon-holy-hand-grenade:before,
+.icon-holy-oak:before,
+.icon-holy-symbol:before,
+.icon-holy-water:before,
+.icon-honeycomb:before,
+.icon-honeypot:before,
+.icon-hood:before,
+.icon-hoof:before,
+.icon-horizontal-flip:before,
+.icon-horn-internal:before,
+.icon-horned-helm:before,
+.icon-horned-skull:before,
+.icon-horse-head:before,
+.icon-horse-head-2:before,
+.icon-horseshoe:before,
+.icon-horus:before,
+.icon-hospital-cross:before,
+.icon-hot-spices:before,
+.icon-hot-surface:before,
+.icon-hound:before,
+.icon-hourglass:before,
+.icon-house:before,
+.icon-human-ear:before,
+.icon-hunting-horn:before,
+.icon-hydra:before,
+.icon-hydra-shot:before,
+.icon-hypersonic-bolt:before,
+.icon-hypersonic-melon:before,
+.icon-hypodermic-test:before,
+.icon-i-beam:before,
+.icon-i-brick:before,
+.icon-icarus:before,
+.icon-ice-bolt:before,
+.icon-ice-bomb:before,
+.icon-ice-cream-cone:before,
+.icon-ice-cube:before,
+.icon-ice-golem:before,
+.icon-ice-pop:before,
+.icon-ice-shield:before,
+.icon-ice-spear:before,
+.icon-iceberg:before,
+.icon-icebergs:before,
+.icon-icicles-fence:before,
+.icon-id-card:before,
+.icon-idea:before,
+.icon-ifrit:before,
+.icon-igloo:before,
+.icon-imbricated-arrows:before,
+.icon-imp:before,
+.icon-imp-laugh:before,
+.icon-impact-point:before,
+.icon-implosion:before,
+.icon-imprisoned:before,
+.icon-incense:before,
+.icon-incisors:before,
+.icon-incoming-rocket:before,
+.icon-indian-palace:before,
+.icon-infested-mass:before,
+.icon-infinity:before,
+.icon-info:before,
+.icon-ink-swirl:before,
+.icon-inner-self:before,
+.icon-insect-jaws:before,
+.icon-interdiction:before,
+.icon-interlaced-tentacles:before,
+.icon-interleaved-arrows:before,
+.icon-internal-injury:before,
+.icon-internal-organ:before,
+.icon-interstellar-path:before,
+.icon-invisible:before,
+.icon-invisible-face:before,
+.icon-ion-cannon-blast:before,
+.icon-ionic-column:before,
+.icon-iron-cross:before,
+.icon-iron-hulled-warship:before,
+.icon-iron-mask:before,
+.icon-island:before,
+.icon-j-brick:before,
+.icon-james-bond-aperture:before,
+.icon-jawbone:before,
+.icon-jeep:before,
+.icon-jeep-2:before,
+.icon-jellyfish:before,
+.icon-jerrycan:before,
+.icon-jester-hat:before,
+.icon-jet-fighter:before,
+.icon-jet-pack:before,
+.icon-jetpack:before,
+.icon-jewel-crown:before,
+.icon-jeweled-chalice:before,
+.icon-jigsaw-box:before,
+.icon-jigsaw-piece:before,
+.icon-joint:before,
+.icon-journey:before,
+.icon-joystick:before,
+.icon-jug:before,
+.icon-juggler:before,
+.icon-jump-across:before,
+.icon-jupiter:before,
+.icon-justice-star:before,
+.icon-kaleidoscope-pearls:before,
+.icon-katana:before,
+.icon-kevlar:before,
+.icon-kevlar-vest:before,
+.icon-key:before,
+.icon-key-2:before,
+.icon-keyboard:before,
+.icon-keyring:before,
+.icon-kimono:before,
+.icon-kindle:before,
+.icon-king:before,
+.icon-kitchen-knives:before,
+.icon-kite:before,
+.icon-klingon:before,
+.icon-knapsack:before,
+.icon-kneeling:before,
+.icon-knife-fork:before,
+.icon-knife-thrust:before,
+.icon-knockout:before,
+.icon-knot:before,
+.icon-l-brick:before,
+.icon-ladder:before,
+.icon-lamellar:before,
+.icon-lamprey-mouth:before,
+.icon-land-mine:before,
+.icon-lantern:before,
+.icon-lantern-flame:before,
+.icon-large-wound:before,
+.icon-laser-blast:before,
+.icon-laser-burst:before,
+.icon-laser-gun:before,
+.icon-laser-precision:before,
+.icon-laser-sparks:before,
+.icon-laser-warning:before,
+.icon-laserburn:before,
+.icon-lasso:before,
+.icon-laurel-crown:before,
+.icon-laurels:before,
+.icon-lava:before,
+.icon-law-star:before,
+.icon-layered-armor:before,
+.icon-lead-pipe:before,
+.icon-leaf-skeleton:before,
+.icon-leaf-swirl:before,
+.icon-leaky-skull:before,
+.icon-leather-boot:before,
+.icon-leather-vest:before,
+.icon-led:before,
+.icon-lee-enfield:before,
+.icon-leeching-worm:before,
+.icon-leo:before,
+.icon-letter-bomb:before,
+.icon-level-four:before,
+.icon-level-four-advanced:before,
+.icon-level-three:before,
+.icon-level-three-advanced:before,
+.icon-level-two:before,
+.icon-level-two-advanced:before,
+.icon-lever:before,
+.icon-libra:before,
+.icon-life-buoy:before,
+.icon-life-in-the-balance:before,
+.icon-life-support:before,
+.icon-life-tap:before,
+.icon-lift:before,
+.icon-light-bulb:before,
+.icon-light-fighter:before,
+.icon-light-sabers:before,
+.icon-light-thorny-triskelion:before,
+.icon-lighthouse:before,
+.icon-lightning-arc:before,
+.icon-lightning-bow:before,
+.icon-lightning-branches:before,
+.icon-lightning-dissipation:before,
+.icon-lightning-electron:before,
+.icon-lightning-frequency:before,
+.icon-lightning-helix:before,
+.icon-lightning-mask:before,
+.icon-lightning-saber:before,
+.icon-lightning-shadow:before,
+.icon-lightning-shield:before,
+.icon-lightning-shout:before,
+.icon-lightning-slashes:before,
+.icon-lightning-storm:before,
+.icon-lightning-tear:before,
+.icon-lightning-tree:before,
+.icon-lightning-trio:before,
+.icon-lily-pads:before,
+.icon-linden-leaf:before,
+.icon-linked-rings:before,
+.icon-lion:before,
+.icon-lips:before,
+.icon-lit-candelabra:before,
+.icon-lizard-tongue:before,
+.icon-lizardman:before,
+.icon-load:before,
+.icon-lob-arrow:before,
+.icon-lock-picking:before,
+.icon-lock-spy:before,
+.icon-locked-chest:before,
+.icon-locked-fortress:before,
+.icon-log:before,
+.icon-logging:before,
+.icon-long-antennae-bug:before,
+.icon-long-legged-spider:before,
+.icon-look-at:before,
+.icon-lotus:before,
+.icon-lotus-flower:before,
+.icon-love-howl:before,
+.icon-love-injection:before,
+.icon-love-song:before,
+.icon-low-tide:before,
+.icon-luchador:before,
+.icon-lucifer-cannon:before,
+.icon-luger:before,
+.icon-lunar-module:before,
+.icon-lunar-wand:before,
+.icon-lungs:before,
+.icon-lynx-head:before,
+.icon-lyre:before,
+.icon-mace-head:before,
+.icon-machete:before,
+.icon-mad-scientist:before,
+.icon-maggot:before,
+.icon-magic-gate:before,
+.icon-magic-lamp:before,
+.icon-magic-palm:before,
+.icon-magic-portal:before,
+.icon-magic-potion:before,
+.icon-magic-shield:before,
+.icon-magic-swirl:before,
+.icon-magic-trident:before,
+.icon-magick-trick:before,
+.icon-magnet:before,
+.icon-magnet-blast:before,
+.icon-magnifying-glass:before,
+.icon-mail-shirt:before,
+.icon-mailbox:before,
+.icon-mailed-fist:before,
+.icon-male:before,
+.icon-manacles:before,
+.icon-mantrap:before,
+.icon-maple-leaf:before,
+.icon-marbles:before,
+.icon-marrow-drain:before,
+.icon-martini:before,
+.icon-masked-spider:before,
+.icon-mass-driver:before,
+.icon-match-head:before,
+.icon-materials-science:before,
+.icon-mayan-pyramid:before,
+.icon-maze:before,
+.icon-maze-cornea:before,
+.icon-maze-saw:before,
+.icon-meat:before,
+.icon-meat-cleaver:before,
+.icon-meat-hook:before,
+.icon-mecha-head:before,
+.icon-mechanical-arm:before,
+.icon-medal:before,
+.icon-medal-skull:before,
+.icon-medical-pack:before,
+.icon-medical-pack-alt:before,
+.icon-medieval-gate:before,
+.icon-medieval-pavilion:before,
+.icon-meditation:before,
+.icon-meeple:before,
+.icon-megabot:before,
+.icon-megaphone:before,
+.icon-menhir:before,
+.icon-mesh-ball:before,
+.icon-metal-bar:before,
+.icon-metal-disc:before,
+.icon-metal-hand:before,
+.icon-metal-scales:before,
+.icon-meteor-impact:before,
+.icon-metroid:before,
+.icon-microchip:before,
+.icon-microphone:before,
+.icon-microscope:before,
+.icon-microscope-lens:before,
+.icon-middle-arrow:before,
+.icon-midnight-claw:before,
+.icon-mighty-boosh:before,
+.icon-mine-explosion:before,
+.icon-mine-wagon:before,
+.icon-mineral-heart:before,
+.icon-minerals:before,
+.icon-minigun:before,
+.icon-mining:before,
+.icon-minions:before,
+.icon-minotaur:before,
+.icon-miracle-medecine:before,
+.icon-mirror-mirror:before,
+.icon-missile-mech:before,
+.icon-missile-pod:before,
+.icon-missile-swarm:before,
+.icon-mite:before,
+.icon-mite-alt:before,
+.icon-moebius-star:before,
+.icon-moebius-triangle:before,
+.icon-molecule:before,
+.icon-molecule-2:before,
+.icon-molotov:before,
+.icon-money-stack:before,
+.icon-monk-face:before,
+.icon-monkey:before,
+.icon-monkey-wrench:before,
+.icon-monster-grasp:before,
+.icon-moon:before,
+.icon-moon-claws:before,
+.icon-morbid-humour:before,
+.icon-mortar:before,
+.icon-mountain-cave:before,
+.icon-mountains:before,
+.icon-mountaintop:before,
+.icon-mounted-knight:before,
+.icon-mouse:before,
+.icon-mouse-2:before,
+.icon-mouth-watering:before,
+.icon-move:before,
+.icon-movement-sensor:before,
+.icon-mp5:before,
+.icon-mp5-2:before,
+.icon-mucous-pillar:before,
+.icon-muscle-fat:before,
+.icon-muscle-up:before,
+.icon-mushroom:before,
+.icon-mushroom-cloud:before,
+.icon-mushroom-gills:before,
+.icon-music-spell:before,
+.icon-musket:before,
+.icon-mute:before,
+.icon-nailed-foot:before,
+.icon-nailed-head:before,
+.icon-nails:before,
+.icon-nautilus-shell:before,
+.icon-neck-bite:before,
+.icon-necklace:before,
+.icon-needle-drill:before,
+.icon-needle-jaws:before,
+.icon-nested-eclipses:before,
+.icon-nested-hearts:before,
+.icon-nested-hexagons:before,
+.icon-new-born:before,
+.icon-night-sky:before,
+.icon-night-vision:before,
+.icon-ninja-mask:before,
+.icon-ninja-star:before,
+.icon-nodular:before,
+.icon-nose-front:before,
+.icon-nose-side:before,
+.icon-nothing-to-say:before,
+.icon-nuclear:before,
+.icon-nuclear-bomb:before,
+.icon-nunchaku:before,
+.icon-o-brick:before,
+.icon-oak:before,
+.icon-oat:before,
+.icon-obelisk:before,
+.icon-observatory:before,
+.icon-ocarina:before,
+.icon-octogonal-eye:before,
+.icon-octopus:before,
+.icon-offshore-platform:before,
+.icon-oil-drum:before,
+.icon-oil-rig:before,
+.icon-old-king:before,
+.icon-old-wagon:before,
+.icon-olive:before,
+.icon-omega:before,
+.icon-on-target:before,
+.icon-one-eyed:before,
+.icon-open-book:before,
+.icon-open-chest:before,
+.icon-open-palm:before,
+.icon-open-treasure-chest:before,
+.icon-open-wound:before,
+.icon-ophiuchus:before,
+.icon-oppression:before,
+.icon-orange:before,
+.icon-orb-direction:before,
+.icon-orb-wand:before,
+.icon-orbit:before,
+.icon-orbital:before,
+.icon-orc-head:before,
+.icon-ore:before,
+.icon-ouroboros:before,
+.icon-over-infinity:before,
+.icon-overdose:before,
+.icon-overdrive:before,
+.icon-overhead:before,
+.icon-overkill:before,
+.icon-overlord-helm:before,
+.icon-overmind:before,
+.icon-owl:before,
+.icon-oyster-pearl:before,
+.icon-p90:before,
+.icon-paddles:before,
+.icon-padlock:before,
+.icon-paint-roller:before,
+.icon-palette:before,
+.icon-palisade:before,
+.icon-palm:before,
+.icon-palm-tree:before,
+.icon-pan-flute:before,
+.icon-panda:before,
+.icon-panzerfaust:before,
+.icon-paper:before,
+.icon-paper-arrow:before,
+.icon-paper-bomb:before,
+.icon-paper-clip:before,
+.icon-paper-lantern:before,
+.icon-paper-plane:before,
+.icon-paper-windmill:before,
+.icon-papers:before,
+.icon-parachute:before,
+.icon-paranoia:before,
+.icon-parmecia:before,
+.icon-parrot-head:before,
+.icon-pauldrons:before,
+.icon-paw:before,
+.icon-paw-front:before,
+.icon-paw-heart:before,
+.icon-paw-print:before,
+.icon-pawn:before,
+.icon-pawprint:before,
+.icon-pc:before,
+.icon-peaks:before,
+.icon-pear:before,
+.icon-pegasus:before,
+.icon-pencil:before,
+.icon-pendulum-swing:before,
+.icon-pentacle:before,
+.icon-pentagram-rose:before,
+.icon-perfume-bottle:before,
+.icon-perpendicular-rings:before,
+.icon-perspective-dice-six-faces-five:before,
+.icon-perspective-dice-six-faces-four:before,
+.icon-perspective-dice-six-faces-one:before,
+.icon-perspective-dice-six-faces-random:before,
+.icon-perspective-dice-six-faces-six:before,
+.icon-perspective-dice-six-faces-three:before,
+.icon-perspective-dice-six-faces-two:before,
+.icon-pestle-mortar:before,
+.icon-pharoah:before,
+.icon-phone:before,
+.icon-photo-camera:before,
+.icon-phrygian-cap:before,
+.icon-piano-keys:before,
+.icon-pickelhaube:before,
+.icon-pie-chart:before,
+.icon-pie-slice:before,
+.icon-piece-skull:before,
+.icon-pierced-body:before,
+.icon-pierced-heart:before,
+.icon-pig:before,
+.icon-pig-face:before,
+.icon-piggy-bank:before,
+.icon-pikeman:before,
+.icon-pill:before,
+.icon-pill-drop:before,
+.icon-pillow:before,
+.icon-pin:before,
+.icon-pinball-flipper:before,
+.icon-pincers:before,
+.icon-pine-tree:before,
+.icon-pineapple:before,
+.icon-ping-pong-bat:before,
+.icon-pipes:before,
+.icon-piranha:before,
+.icon-pirate-coat:before,
+.icon-pirate-grave:before,
+.icon-pirate-hat:before,
+.icon-pirate-hook:before,
+.icon-pirate-skull:before,
+.icon-pisces:before,
+.icon-pistol-gun:before,
+.icon-pizza-cutter:before,
+.icon-pizza-slice:before,
+.icon-plain-arrow:before,
+.icon-plain-dagger:before,
+.icon-plane-wing:before,
+.icon-planet-core:before,
+.icon-planks:before,
+.icon-plasma-bolt:before,
+.icon-plastron:before,
+.icon-plate-claw:before,
+.icon-plow:before,
+.icon-plug:before,
+.icon-pocket-bow:before,
+.icon-pocket-watch:before,
+.icon-podium:before,
+.icon-pointing:before,
+.icon-pointy-hat:before,
+.icon-pointy-sword:before,
+.icon-poison:before,
+.icon-poison-bottle:before,
+.icon-poison-cloud:before,
+.icon-poison-gas:before,
+.icon-pokecog:before,
+.icon-poker-hand:before,
+.icon-polar-bear:before,
+.icon-police-badge:before,
+.icon-police-officer-head:before,
+.icon-police-target:before,
+.icon-pollen-dust:before,
+.icon-polo-shirt:before,
+.icon-pope-crown:before,
+.icon-portal:before,
+.icon-portculis:before,
+.icon-position-marker:before,
+.icon-potion-ball:before,
+.icon-pounce:before,
+.icon-pouring-chalice:before,
+.icon-powder:before,
+.icon-power-button:before,
+.icon-power-lightning:before,
+.icon-prayer:before,
+.icon-praying-mantis:before,
+.icon-present:before,
+.icon-pretty-fangs:before,
+.icon-pretzel:before,
+.icon-prisoner:before,
+.icon-private:before,
+.icon-private-first-class:before,
+.icon-processor:before,
+.icon-profit:before,
+.icon-protection-glasses:before,
+.icon-pschent-double-crown:before,
+.icon-psychic-waves:before,
+.icon-pteruges:before,
+.icon-public-speaker:before,
+.icon-pull:before,
+.icon-pulley-hook:before,
+.icon-pulse:before,
+.icon-pummeled:before,
+.icon-pumpkin-lantern:before,
+.icon-pumpkin-mask:before,
+.icon-punch:before,
+.icon-punch-blast:before,
+.icon-puppet:before,
+.icon-push:before,
+.icon-puzzle:before,
+.icon-pyromaniac:before,
+.icon-quake-stomp:before,
+.icon-queen-crown:before,
+.icon-quick-slash:before,
+.icon-quicksand:before,
+.icon-quill:before,
+.icon-quill-ink:before,
+.icon-quiver:before,
+.icon-rabbit:before,
+.icon-race-car:before,
+.icon-radar-dish:before,
+.icon-radar-sweep:before,
+.icon-radial-balance:before,
+.icon-radioactive:before,
+.icon-ragged-wound:before,
+.icon-railway:before,
+.icon-rainbow-star:before,
+.icon-raining:before,
+.icon-raise-skeleton:before,
+.icon-raise-zombie:before,
+.icon-rake:before,
+.icon-rally-the-troops:before,
+.icon-ram:before,
+.icon-rank-1:before,
+.icon-rank-2:before,
+.icon-rank-3:before,
+.icon-rapidshare-arrow:before,
+.icon-raspberry:before,
+.icon-raven:before,
+.icon-ray-gun:before,
+.icon-razor-blade:before,
+.icon-reactor:before,
+.icon-read:before,
+.icon-reaper-scythe:before,
+.icon-recycle:before,
+.icon-regeneration:before,
+.icon-relic-blade:before,
+.icon-resonance:before,
+.icon-reticule:before,
+.icon-retro-controller:before,
+.icon-return-arrow:before,
+.icon-revolt:before,
+.icon-revolver:before,
+.icon-rhinoceros-horn:before,
+.icon-ribbon:before,
+.icon-ribbon-medal:before,
+.icon-ribcage:before,
+.icon-rifle:before,
+.icon-ring:before,
+.icon-ringed-beam:before,
+.icon-ringed-planet:before,
+.icon-ringing-bell:before,
+.icon-riot-shield:before,
+.icon-river:before,
+.icon-roast-chicken:before,
+.icon-robber:before,
+.icon-robber-mask:before,
+.icon-robe:before,
+.icon-robin-hood-hat:before,
+.icon-robot-golem:before,
+.icon-robot-leg:before,
+.icon-rock:before,
+.icon-rock-2:before,
+.icon-rocket:before,
+.icon-rocket-flight:before,
+.icon-rocket-thruster:before,
+.icon-rogue:before,
+.icon-rolling-bomb:before,
+.icon-rolling-dices:before,
+.icon-roman-shield:before,
+.icon-roman-toga:before,
+.icon-root-tip:before,
+.icon-rope-coil:before,
+.icon-ropeway:before,
+.icon-rosa-shield:before,
+.icon-rose:before,
+.icon-rough-wound:before,
+.icon-round-bottom-flask:before,
+.icon-round-shield:before,
+.icon-round-star:before,
+.icon-round-straw-bale:before,
+.icon-round-struck:before,
+.icon-royal-love:before,
+.icon-rss:before,
+.icon-rss-2:before,
+.icon-rugby-conversion:before,
+.icon-run:before,
+.icon-rune-stone:before,
+.icon-rune-sword:before,
+.icon-rupee:before,
+.icon-s-brick:before,
+.icon-saber-slash:before,
+.icon-saber-tooth:before,
+.icon-sabers-choc:before,
+.icon-sacrificial-dagger:before,
+.icon-sad-crab:before,
+.icon-saddle:before,
+.icon-safety-pin:before,
+.icon-sagittarius:before,
+.icon-sai:before,
+.icon-sailboat:before,
+.icon-salamander:before,
+.icon-salmon:before,
+.icon-saloon-doors:before,
+.icon-salt-shaker:before,
+.icon-sands-of-time:before,
+.icon-saphir:before,
+.icon-sattelite:before,
+.icon-save:before,
+.icon-saw-claw:before,
+.icon-sawed-off-shotgun:before,
+.icon-scale-mail:before,
+.icon-scales:before,
+.icon-scallop:before,
+.icon-scalpel:before,
+.icon-scalpel-strike:before,
+.icon-scar-wound:before,
+.icon-scarab-beetle:before,
+.icon-scarecrow:before,
+.icon-scissors:before,
+.icon-scissors-2:before,
+.icon-scooter:before,
+.icon-scorpio:before,
+.icon-scorpion:before,
+.icon-scorpion-tail:before,
+.icon-screaming:before,
+.icon-screen-impact:before,
+.icon-screwdriver:before,
+.icon-scroll-unfurled:before,
+.icon-scythe:before,
+.icon-sea-creature:before,
+.icon-sea-dragon:before,
+.icon-sea-serpent:before,
+.icon-sea-star:before,
+.icon-seahorse:before,
+.icon-seated-mouse:before,
+.icon-select:before,
+.icon-self-love:before,
+.icon-semi-closed-eye:before,
+.icon-sensuousness:before,
+.icon-sentry-gun:before,
+.icon-sergeant:before,
+.icon-serrated-slash:before,
+.icon-seven-pointed-star:before,
+.icon-sewing-needle:before,
+.icon-sextant:before,
+.icon-shadow-follower:before,
+.icon-shadow-grasp:before,
+.icon-shaking-hands:before,
+.icon-shambling-zombie:before,
+.icon-shard-sword:before,
+.icon-shark-fin:before,
+.icon-shark-jaws:before,
+.icon-sharp-axe:before,
+.icon-sharp-crown:before,
+.icon-sharp-halberd:before,
+.icon-sharp-lips:before,
+.icon-sharp-smile:before,
+.icon-sharped-teeth-skull:before,
+.icon-shatter:before,
+.icon-shattered-glass:before,
+.icon-shattered-sword:before,
+.icon-sheep:before,
+.icon-sheikah-eye:before,
+.icon-shield:before,
+.icon-shield-bounces:before,
+.icon-shield-disabled:before,
+.icon-shield-echoes:before,
+.icon-shield-reflect:before,
+.icon-shieldcomb:before,
+.icon-shining-claw:before,
+.icon-shining-heart:before,
+.icon-shining-sword:before,
+.icon-shinto-shrine:before,
+.icon-shiny-apple:before,
+.icon-shiny-entrance:before,
+.icon-shiny-iris:before,
+.icon-shiny-purse:before,
+.icon-ship-wheel:before,
+.icon-ship-wreck:before,
+.icon-shirt:before,
+.icon-shop:before,
+.icon-shopping-cart:before,
+.icon-shorts:before,
+.icon-shotgun:before,
+.icon-shotgun-rounds:before,
+.icon-shoulder-scales:before,
+.icon-shouting:before,
+.icon-shrug:before,
+.icon-shuriken:before,
+.icon-shut-rose:before,
+.icon-shuttlecock:before,
+.icon-sickle:before,
+.icon-sideswipe:before,
+.icon-siege-ram:before,
+.icon-siege-tower:before,
+.icon-sight-disabled:before,
+.icon-silence:before,
+.icon-silenced:before,
+.icon-sing:before,
+.icon-sinking-trap:before,
+.icon-sinusoidal-beam:before,
+.icon-siren:before,
+.icon-six-eyes:before,
+.icon-skeletal-hand:before,
+.icon-skeleton:before,
+.icon-skeleton-inside:before,
+.icon-skeleton-key:before,
+.icon-skid-mark:before,
+.icon-skull-bolt:before,
+.icon-skull-crack:before,
+.icon-skull-crossed-bones:before,
+.icon-skull-in-jar:before,
+.icon-skull-mask:before,
+.icon-skull-ring:before,
+.icon-skull-shield:before,
+.icon-skull-signet:before,
+.icon-slap:before,
+.icon-slashed-shield:before,
+.icon-slavery-whip:before,
+.icon-sleepy:before,
+.icon-sleeveless-jacket:before,
+.icon-sliced-bread:before,
+.icon-slicing-arrow:before,
+.icon-slingshot:before,
+.icon-slow-blob:before,
+.icon-sly:before,
+.icon-small-fire:before,
+.icon-smartphone:before,
+.icon-smash-arrows:before,
+.icon-smitten:before,
+.icon-smoking-finger:before,
+.icon-smoking-pipe:before,
+.icon-snail:before,
+.icon-snake:before,
+.icon-snake-bite:before,
+.icon-snake-totem:before,
+.icon-snatch:before,
+.icon-sniffing-dog:before,
+.icon-snitch-quidditch-ball:before,
+.icon-snorkel:before,
+.icon-snow-bottle:before,
+.icon-snowflake-1:before,
+.icon-snowflake-2:before,
+.icon-snowing:before,
+.icon-snowman:before,
+.icon-soap-experiment:before,
+.icon-soccer-ball:before,
+.icon-soccer-field:before,
+.icon-socks:before,
+.icon-solar-power:before,
+.icon-solar-system:before,
+.icon-sombrero:before,
+.icon-sonic-boom:before,
+.icon-sonic-lightning:before,
+.icon-sonic-screech:before,
+.icon-sonic-shout:before,
+.icon-sound-waves:before,
+.icon-south-africa-flag:before,
+.icon-space-shuttle:before,
+.icon-space-suit:before,
+.icon-spade:before,
+.icon-spade-skull:before,
+.icon-spanner:before,
+.icon-sparkling-sabre:before,
+.icon-sparky-bomb:before,
+.icon-sparrow:before,
+.icon-spartan:before,
+.icon-spartan-helmet:before,
+.icon-spatter:before,
+.icon-spawn-node:before,
+.icon-speaker:before,
+.icon-speaker-off:before,
+.icon-spear-feather:before,
+.icon-spear-hook:before,
+.icon-spears:before,
+.icon-spectacle-lenses:before,
+.icon-spectacles:before,
+.icon-spectre:before,
+.icon-speed-boat:before,
+.icon-speedometer:before,
+.icon-sperm-whale:before,
+.icon-spider-alt:before,
+.icon-spider-bot:before,
+.icon-spider-face:before,
+.icon-spider-web:before,
+.icon-spikeball:before,
+.icon-spiked-armor:before,
+.icon-spiked-collar:before,
+.icon-spiked-fence:before,
+.icon-spiked-halo:before,
+.icon-spiked-mace:before,
+.icon-spiked-shell:before,
+.icon-spiked-snail:before,
+.icon-spiked-tentacle:before,
+.icon-spikes:before,
+.icon-spikes-full:before,
+.icon-spikes-half:before,
+.icon-spikes-init:before,
+.icon-spiky-eclipse:before,
+.icon-spiky-explosion:before,
+.icon-spiky-field:before,
+.icon-spiky-pit:before,
+.icon-spill:before,
+.icon-spinal-coil:before,
+.icon-spine-arrow:before,
+.icon-spinning-blades:before,
+.icon-spinning-sword:before,
+.icon-spinning-top:before,
+.icon-spiral-arrow:before,
+.icon-spiral-bloom:before,
+.icon-spiral-bottle:before,
+.icon-spiral-shell:before,
+.icon-spiral-thrust:before,
+.icon-splash:before,
+.icon-splash-2:before,
+.icon-splashy-stream:before,
+.icon-split-body:before,
+.icon-split-cross:before,
+.icon-splurt:before,
+.icon-spoon:before,
+.icon-spoted-flower:before,
+.icon-spotted-arrowhead:before,
+.icon-spotted-bug:before,
+.icon-spotted-mushroom:before,
+.icon-spotted-wound:before,
+.icon-spoutnik:before,
+.icon-spray:before,
+.icon-sprint:before,
+.icon-sprout:before,
+.icon-sprout-disc:before,
+.icon-spy:before,
+.icon-spyglass:before,
+.icon-square-bottle:before,
+.icon-squib:before,
+.icon-squid:before,
+.icon-squid-head:before,
+.icon-stack:before,
+.icon-stag-head:before,
+.icon-stahlhelm:before,
+.icon-stairs:before,
+.icon-stake-hammer:before,
+.icon-stalagtite:before,
+.icon-standing-potion:before,
+.icon-star-cycle:before,
+.icon-star-prominences:before,
+.icon-star-pupil:before,
+.icon-star-sattelites:before,
+.icon-star-swirl:before,
+.icon-stars-stack:before,
+.icon-staryu:before,
+.icon-static:before,
+.icon-static-waves:before,
+.icon-steak:before,
+.icon-steam-locomotive:before,
+.icon-steampunk-goggles:before,
+.icon-steel-claws:before,
+.icon-steel-claws-2:before,
+.icon-steel-door:before,
+.icon-steeltoe-boots:before,
+.icon-steelwing-emblem:before,
+.icon-steering-wheel:before,
+.icon-stethoscope:before,
+.icon-steyr-aug:before,
+.icon-stick-grenade:before,
+.icon-stick-splitting:before,
+.icon-sticking-plaster:before,
+.icon-stigmata:before,
+.icon-stiletto:before,
+.icon-stitched-wound:before,
+.icon-stomach:before,
+.icon-stomp:before,
+.icon-stone-axe:before,
+.icon-stone-block:before,
+.icon-stone-bridge:before,
+.icon-stone-crafting:before,
+.icon-stone-pile:before,
+.icon-stone-spear:before,
+.icon-stone-sphere:before,
+.icon-stone-tablet:before,
+.icon-stone-throne:before,
+.icon-stone-tower:before,
+.icon-stoned-skull:before,
+.icon-stopwatch:before,
+.icon-stopwatch-2:before,
+.icon-strafe:before,
+.icon-strawberry:before,
+.icon-striking-arrows:before,
+.icon-striking-balls:before,
+.icon-striking-clamps:before,
+.icon-striking-diamonds:before,
+.icon-striking-splinter:before,
+.icon-strong:before,
+.icon-stun-grenade:before,
+.icon-submarine:before,
+.icon-suckered-tentacle:before,
+.icon-suicide:before,
+.icon-suitcase:before,
+.icon-suits:before,
+.icon-sun:before,
+.icon-sun-cloud:before,
+.icon-sun-radiations:before,
+.icon-sun-spear:before,
+.icon-sunbeams:before,
+.icon-sundial:before,
+.icon-sunglasses:before,
+.icon-sunken-eye:before,
+.icon-sunrise:before,
+.icon-super-mushroom:before,
+.icon-supersonic-arrow:before,
+.icon-supersonic-bullet:before,
+.icon-surprised:before,
+.icon-surprised-skull:before,
+.icon-suspicious:before,
+.icon-sverd-i-fjell:before,
+.icon-swallow:before,
+.icon-swamp:before,
+.icon-swan:before,
+.icon-swan-breeze:before,
+.icon-swap-bag:before,
+.icon-swirl-ring:before,
+.icon-swirl-string:before,
+.icon-swirled-shell:before,
+.icon-switch-weapon:before,
+.icon-sword-array:before,
+.icon-sword-break:before,
+.icon-sword-clash:before,
+.icon-sword-hilt:before,
+.icon-sword-in-stone:before,
+.icon-sword-slice:before,
+.icon-sword-smithing:before,
+.icon-sword-spade:before,
+.icon-sword-spin:before,
+.icon-swordman:before,
+.icon-swordwoman:before,
+.icon-syringe:before,
+.icon-syringe-2:before,
+.icon-t-brick:before,
+.icon-table:before,
+.icon-tabletop-players:before,
+.icon-tank:before,
+.icon-tank-tread:before,
+.icon-tap:before,
+.icon-target-arrows:before,
+.icon-target-dummy:before,
+.icon-target-laser:before,
+.icon-target-shot:before,
+.icon-targeted:before,
+.icon-targeting:before,
+.icon-tattered-banner:before,
+.icon-taurus:before,
+.icon-teapot:before,
+.icon-tear-tracks:before,
+.icon-techno-heart:before,
+.icon-telefrag:before,
+.icon-telepathy:before,
+.icon-teleport:before,
+.icon-templar-heart:before,
+.icon-templar-shield:before,
+.icon-temptation:before,
+.icon-tennis-ball:before,
+.icon-tentacle-heart:before,
+.icon-tentacle-strike:before,
+.icon-tentacles-skull:before,
+.icon-tentacurl:before,
+.icon-terror:before,
+.icon-tesla:before,
+.icon-tesla-coil:before,
+.icon-tesla-turret:before,
+.icon-test-tubes:before,
+.icon-theater-curtains:before,
+.icon-thermometer-cold:before,
+.icon-thermometer-hot:before,
+.icon-thermometer-scale:before,
+.icon-think:before,
+.icon-third-eye:before,
+.icon-thor-fist:before,
+.icon-thor-hammer:before,
+.icon-thorn-helix:before,
+.icon-thorned-arrow:before,
+.icon-thorny-tentacle:before,
+.icon-thorny-vine:before,
+.icon-three-keys:before,
+.icon-three-leaves:before,
+.icon-throne-king:before,
+.icon-thrown-charcoal:before,
+.icon-thrown-daggers:before,
+.icon-thrown-knife:before,
+.icon-thrown-spear:before,
+.icon-thrust:before,
+.icon-thumb-down:before,
+.icon-thumb-up:before,
+.icon-thunder-blade:before,
+.icon-thunder-skull:before,
+.icon-thunder-struck:before,
+.icon-thunderball:before,
+.icon-tic-tac-toe:before,
+.icon-tick:before,
+.icon-tie:before,
+.icon-tied-scroll:before,
+.icon-tiger:before,
+.icon-time-bomb:before,
+.icon-time-trap:before,
+.icon-tinker:before,
+.icon-tipi:before,
+.icon-toad-teeth:before,
+.icon-tomahawk:before,
+.icon-tombstone:before,
+.icon-tombstone-2:before,
+.icon-tooth:before,
+.icon-top-hat:before,
+.icon-top-paw:before,
+.icon-torch:before,
+.icon-tornado:before,
+.icon-tornado-discs:before,
+.icon-torpedo:before,
+.icon-tortoise:before,
+.icon-totem:before,
+.icon-totem-head:before,
+.icon-toucan:before,
+.icon-tower-bridge:before,
+.icon-tower-fall:before,
+.icon-trade:before,
+.icon-traffic-cone:before,
+.icon-traffic-lights-green:before,
+.icon-traffic-lights-orange:before,
+.icon-traffic-lights-ready-to-go:before,
+.icon-traffic-lights-red:before,
+.icon-trample:before,
+.icon-transform:before,
+.icon-transfuse:before,
+.icon-transportation-rings:before,
+.icon-trash-can:before,
+.icon-tread:before,
+.icon-treasure-map:before,
+.icon-trebuchet:before,
+.icon-tree-beehive:before,
+.icon-tree-branch:before,
+.icon-trefoil-lily:before,
+.icon-trefoil-shuriken:before,
+.icon-trench-spade:before,
+.icon-tribal-mask:before,
+.icon-trident:before,
+.icon-triforce:before,
+.icon-trigger-hurt:before,
+.icon-trilobite:before,
+.icon-triorb:before,
+.icon-triple-beak:before,
+.icon-triple-claws:before,
+.icon-triple-corn:before,
+.icon-triple-lock:before,
+.icon-triple-needle:before,
+.icon-triple-plier:before,
+.icon-triple-scratches:before,
+.icon-triple-skulls:before,
+.icon-triple-yin:before,
+.icon-tripwire:before,
+.icon-triquetra:before,
+.icon-trireme:before,
+.icon-trojan-horse:before,
+.icon-troll:before,
+.icon-tron-arrow:before,
+.icon-trophy:before,
+.icon-tropical-fish:before,
+.icon-trousers:before,
+.icon-trousers-2:before,
+.icon-trowel:before,
+.icon-truck:before,
+.icon-tumor:before,
+.icon-tune-pitch:before,
+.icon-turd:before,
+.icon-turret:before,
+.icon-turtle:before,
+.icon-turtle-shell:before,
+.icon-tv:before,
+.icon-twirly-flower:before,
+.icon-twister:before,
+.icon-two-feathers:before,
+.icon-two-shadows:before,
+.icon-tyre:before,
+.icon-ubisoft-sun:before,
+.icon-udder:before,
+.icon-ufo:before,
+.icon-ultrasound:before,
+.icon-umbrella:before,
+.icon-umbrella-bayonet:before,
+.icon-uncertainty:before,
+.icon-underhand:before,
+.icon-unfriendly-fire:before,
+.icon-unicorn:before,
+.icon-union-jack:before,
+.icon-unlit-bomb:before,
+.icon-unlit-candelabra:before,
+.icon-unlocking:before,
+.icon-unplugged:before,
+.icon-unstable-orb:before,
+.icon-unstable-projectile:before,
+.icon-usa-flag:before,
+.icon-usable:before,
+.icon-uzi:before,
+.icon-valley:before,
+.icon-van-damme-split:before,
+.icon-vanilla-flower:before,
+.icon-velocipede:before,
+.icon-vertical-banner:before,
+.icon-vertical-flip:before,
+.icon-vial:before,
+.icon-vibrating-ball:before,
+.icon-viking-church:before,
+.icon-viking-head:before,
+.icon-viking-helmet:before,
+.icon-viking-longhouse:before,
+.icon-viking-shield:before,
+.icon-vile-fluid:before,
+.icon-village:before,
+.icon-vine-flower:before,
+.icon-vine-leaf:before,
+.icon-vine-whip:before,
+.icon-vintage-robot:before,
+.icon-viola:before,
+.icon-virgo:before,
+.icon-virus:before,
+.icon-visored-helm:before,
+.icon-volcano:before,
+.icon-volleyball-ball:before,
+.icon-vomiting:before,
+.icon-voodoo-doll:before,
+.icon-vortex:before,
+.icon-vote:before,
+.icon-vulture:before,
+.icon-walkie-talkie:before,
+.icon-walking-boot:before,
+.icon-walrus-head:before,
+.icon-war-axe:before,
+.icon-warlock-eye:before,
+.icon-warp-pipe:before,
+.icon-wasp-sting:before,
+.icon-watch:before,
+.icon-watchtower:before,
+.icon-water-bolt:before,
+.icon-water-drop:before,
+.icon-water-fountain:before,
+.icon-water-splash:before,
+.icon-watering-can:before,
+.icon-watermelon:before,
+.icon-wave-crest:before,
+.icon-wave-strike:before,
+.icon-wavy-chains:before,
+.icon-wavy-itinerary:before,
+.icon-wax-seal:before,
+.icon-web-spit:before,
+.icon-weight:before,
+.icon-weight-crush:before,
+.icon-weight-lifting-down:before,
+.icon-weight-lifting-up:before,
+.icon-well:before,
+.icon-werewolf:before,
+.icon-western-hat:before,
+.icon-wheat:before,
+.icon-wheelbarrow:before,
+.icon-whip:before,
+.icon-whiplash:before,
+.icon-whirlwind:before,
+.icon-whistle:before,
+.icon-white-book:before,
+.icon-white-cat:before,
+.icon-white-tower:before,
+.icon-wide-arrow-dunk:before,
+.icon-wildfires:before,
+.icon-william-tell:before,
+.icon-wind-hole:before,
+.icon-wind-slap:before,
+.icon-wind-turbine:before,
+.icon-windmill:before,
+.icon-windpump:before,
+.icon-windy-stripes:before,
+.icon-wine-glass:before,
+.icon-wing-cloak:before,
+.icon-winged-arrow:before,
+.icon-winged-emblem:before,
+.icon-winged-leg:before,
+.icon-winged-shield:before,
+.icon-winged-sword:before,
+.icon-wingfoot:before,
+.icon-witch-flight:before,
+.icon-wizard-staff:before,
+.icon-wolf-head:before,
+.icon-wolf-howl:before,
+.icon-wolf-trap:before,
+.icon-wolverine-claws:before,
+.icon-woman-elf-face:before,
+.icon-wood-axe:before,
+.icon-wood-club:before,
+.icon-wood-pile:before,
+.icon-wooden-clogs:before,
+.icon-wooden-crate:before,
+.icon-wooden-door:before,
+.icon-wooden-helmet:before,
+.icon-wooden-pegleg:before,
+.icon-wooden-sign:before,
+.icon-world:before,
+.icon-worm-mouth:before,
+.icon-worried-eyes:before,
+.icon-wrapped-heart:before,
+.icon-wrapped-sweet:before,
+.icon-wrapping-star:before,
+.icon-wrecking-ball:before,
+.icon-wrench:before,
+.icon-wyvern:before,
+.icon-yin-yang:before,
+.icon-z-brick:before,
+.icon-zebra-shield:before,
+.icon-zeppelin:before,
+.icon-zeus-sword:before,
+.icon-zig-arrow:before,
+.icon-zigzag-cage:before,
+.icon-zigzag-leaf:before,
+.icon-zigzag-tune:before {
+  display: inline-block;
+  font-family: "Game-Icons-net";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icon-abstract-001:before { content: "\f100"; }
+.icon-abstract-002:before { content: "\f101"; }
+.icon-abstract-003:before { content: "\f102"; }
+.icon-abstract-004:before { content: "\f103"; }
+.icon-abstract-005:before { content: "\f104"; }
+.icon-abstract-006:before { content: "\f105"; }
+.icon-abstract-007:before { content: "\f106"; }
+.icon-abstract-008:before { content: "\f107"; }
+.icon-abstract-009:before { content: "\f108"; }
+.icon-abstract-010:before { content: "\f109"; }
+.icon-abstract-011:before { content: "\f10a"; }
+.icon-abstract-012:before { content: "\f10b"; }
+.icon-abstract-013:before { content: "\f10c"; }
+.icon-abstract-014:before { content: "\f10d"; }
+.icon-abstract-015:before { content: "\f10e"; }
+.icon-abstract-016:before { content: "\f10f"; }
+.icon-abstract-017:before { content: "\f110"; }
+.icon-abstract-018:before { content: "\f111"; }
+.icon-abstract-019:before { content: "\f112"; }
+.icon-abstract-020:before { content: "\f113"; }
+.icon-abstract-021:before { content: "\f114"; }
+.icon-abstract-022:before { content: "\f115"; }
+.icon-abstract-023:before { content: "\f116"; }
+.icon-abstract-024:before { content: "\f117"; }
+.icon-abstract-025:before { content: "\f118"; }
+.icon-abstract-026:before { content: "\f119"; }
+.icon-abstract-027:before { content: "\f11a"; }
+.icon-abstract-028:before { content: "\f11b"; }
+.icon-abstract-029:before { content: "\f11c"; }
+.icon-abstract-030:before { content: "\f11d"; }
+.icon-abstract-031:before { content: "\f11e"; }
+.icon-abstract-032:before { content: "\f11f"; }
+.icon-abstract-033:before { content: "\f120"; }
+.icon-abstract-034:before { content: "\f121"; }
+.icon-abstract-035:before { content: "\f122"; }
+.icon-abstract-036:before { content: "\f123"; }
+.icon-abstract-037:before { content: "\f124"; }
+.icon-abstract-038:before { content: "\f125"; }
+.icon-abstract-039:before { content: "\f126"; }
+.icon-abstract-040:before { content: "\f127"; }
+.icon-abstract-041:before { content: "\f128"; }
+.icon-abstract-042:before { content: "\f129"; }
+.icon-abstract-043:before { content: "\f12a"; }
+.icon-abstract-044:before { content: "\f12b"; }
+.icon-abstract-045:before { content: "\f12c"; }
+.icon-abstract-046:before { content: "\f12d"; }
+.icon-abstract-047:before { content: "\f12e"; }
+.icon-abstract-048:before { content: "\f12f"; }
+.icon-abstract-049:before { content: "\f130"; }
+.icon-abstract-050:before { content: "\f131"; }
+.icon-abstract-051:before { content: "\f132"; }
+.icon-abstract-052:before { content: "\f133"; }
+.icon-abstract-053:before { content: "\f134"; }
+.icon-abstract-054:before { content: "\f135"; }
+.icon-abstract-055:before { content: "\f136"; }
+.icon-abstract-056:before { content: "\f137"; }
+.icon-abstract-057:before { content: "\f138"; }
+.icon-abstract-058:before { content: "\f139"; }
+.icon-abstract-059:before { content: "\f13a"; }
+.icon-abstract-060:before { content: "\f13b"; }
+.icon-abstract-061:before { content: "\f13c"; }
+.icon-abstract-062:before { content: "\f13d"; }
+.icon-abstract-063:before { content: "\f13e"; }
+.icon-abstract-064:before { content: "\f13f"; }
+.icon-abstract-065:before { content: "\f140"; }
+.icon-abstract-066:before { content: "\f141"; }
+.icon-abstract-067:before { content: "\f142"; }
+.icon-abstract-068:before { content: "\f143"; }
+.icon-abstract-069:before { content: "\f144"; }
+.icon-abstract-070:before { content: "\f145"; }
+.icon-abstract-071:before { content: "\f146"; }
+.icon-abstract-072:before { content: "\f147"; }
+.icon-abstract-073:before { content: "\f148"; }
+.icon-abstract-074:before { content: "\f149"; }
+.icon-abstract-075:before { content: "\f14a"; }
+.icon-abstract-076:before { content: "\f14b"; }
+.icon-abstract-077:before { content: "\f14c"; }
+.icon-abstract-078:before { content: "\f14d"; }
+.icon-abstract-079:before { content: "\f14e"; }
+.icon-abstract-080:before { content: "\f14f"; }
+.icon-abstract-081:before { content: "\f150"; }
+.icon-abstract-082:before { content: "\f151"; }
+.icon-abstract-083:before { content: "\f152"; }
+.icon-abstract-084:before { content: "\f153"; }
+.icon-abstract-085:before { content: "\f154"; }
+.icon-abstract-086:before { content: "\f155"; }
+.icon-abstract-087:before { content: "\f156"; }
+.icon-abstract-088:before { content: "\f157"; }
+.icon-abstract-089:before { content: "\f158"; }
+.icon-abstract-090:before { content: "\f159"; }
+.icon-abstract-091:before { content: "\f15a"; }
+.icon-abstract-092:before { content: "\f15b"; }
+.icon-abstract-093:before { content: "\f15c"; }
+.icon-abstract-094:before { content: "\f15d"; }
+.icon-abstract-095:before { content: "\f15e"; }
+.icon-abstract-096:before { content: "\f15f"; }
+.icon-abstract-097:before { content: "\f160"; }
+.icon-abstract-098:before { content: "\f161"; }
+.icon-abstract-099:before { content: "\f162"; }
+.icon-abstract-100:before { content: "\f163"; }
+.icon-abstract-101:before { content: "\f164"; }
+.icon-abstract-102:before { content: "\f165"; }
+.icon-abstract-103:before { content: "\f166"; }
+.icon-abstract-104:before { content: "\f167"; }
+.icon-abstract-105:before { content: "\f168"; }
+.icon-abstract-106:before { content: "\f169"; }
+.icon-abstract-107:before { content: "\f16a"; }
+.icon-abstract-108:before { content: "\f16b"; }
+.icon-abstract-109:before { content: "\f16c"; }
+.icon-abstract-110:before { content: "\f16d"; }
+.icon-abstract-111:before { content: "\f16e"; }
+.icon-abstract-112:before { content: "\f16f"; }
+.icon-abstract-113:before { content: "\f170"; }
+.icon-abstract-114:before { content: "\f171"; }
+.icon-abstract-115:before { content: "\f172"; }
+.icon-abstract-116:before { content: "\f173"; }
+.icon-abstract-117:before { content: "\f174"; }
+.icon-abstract-118:before { content: "\f175"; }
+.icon-abstract-119:before { content: "\f176"; }
+.icon-abstract-120:before { content: "\f177"; }
+.icon-abstract-121:before { content: "\f178"; }
+.icon-ace:before { content: "\f179"; }
+.icon-achievement:before { content: "\f17a"; }
+.icon-acid:before { content: "\f17b"; }
+.icon-acid-blob:before { content: "\f17c"; }
+.icon-acid-tube:before { content: "\f17d"; }
+.icon-acorn:before { content: "\f17e"; }
+.icon-acoustic-megaphone:before { content: "\f17f"; }
+.icon-aerial-signal:before { content: "\f180"; }
+.icon-aerodynamic-harpoon:before { content: "\f181"; }
+.icon-aerosol:before { content: "\f182"; }
+.icon-africa:before { content: "\f183"; }
+.icon-afterburn:before { content: "\f184"; }
+.icon-ages:before { content: "\f185"; }
+.icon-air-balloon:before { content: "\f186"; }
+.icon-air-force:before { content: "\f187"; }
+.icon-air-zigzag:before { content: "\f188"; }
+.icon-airplane:before { content: "\f189"; }
+.icon-alarm-clock:before { content: "\f18a"; }
+.icon-alien-fire:before { content: "\f18b"; }
+.icon-alien-skull:before { content: "\f18c"; }
+.icon-alien-stare:before { content: "\f18d"; }
+.icon-all-for-one:before { content: "\f18e"; }
+.icon-all-seeing-eye:before { content: "\f18f"; }
+.icon-allied-star:before { content: "\f190"; }
+.icon-alligator-clip:before { content: "\f191"; }
+.icon-ambulance:before { content: "\f192"; }
+.icon-american-football-ball:before { content: "\f193"; }
+.icon-american-football-helmet:before { content: "\f194"; }
+.icon-american-shield:before { content: "\f195"; }
+.icon-ammo-box:before { content: "\f196"; }
+.icon-ammonite:before { content: "\f197"; }
+.icon-ammonite-fossil:before { content: "\f198"; }
+.icon-amphora:before { content: "\f199"; }
+.icon-amplitude:before { content: "\f19a"; }
+.icon-amputation:before { content: "\f19b"; }
+.icon-anarchy:before { content: "\f19c"; }
+.icon-anatomy:before { content: "\f19d"; }
+.icon-anchor:before { content: "\f19e"; }
+.icon-ancient-ruins:before { content: "\f19f"; }
+.icon-android-mask:before { content: "\f1a0"; }
+.icon-andromeda-chain:before { content: "\f1a1"; }
+.icon-angel-outfit:before { content: "\f1a2"; }
+.icon-angel-wings:before { content: "\f1a3"; }
+.icon-angler-fish:before { content: "\f1a4"; }
+.icon-angry-eyes:before { content: "\f1a5"; }
+.icon-angular-spider:before { content: "\f1a6"; }
+.icon-animal-hide:before { content: "\f1a7"; }
+.icon-animal-skull:before { content: "\f1a8"; }
+.icon-ankh:before { content: "\f1a9"; }
+.icon-annexation:before { content: "\f1aa"; }
+.icon-anthem:before { content: "\f1ab"; }
+.icon-anticlockwise-rotation:before { content: "\f1ac"; }
+.icon-anubis:before { content: "\f1ad"; }
+.icon-anvil:before { content: "\f1ae"; }
+.icon-anvil-impact:before { content: "\f1af"; }
+.icon-apc:before { content: "\f1b0"; }
+.icon-apple-maggot:before { content: "\f1b1"; }
+.icon-apple-seeds:before { content: "\f1b2"; }
+.icon-aquarium:before { content: "\f1b3"; }
+.icon-aquarius:before { content: "\f1b4"; }
+.icon-aqueduct:before { content: "\f1b5"; }
+.icon-arc-triomphe:before { content: "\f1b6"; }
+.icon-archery-target:before { content: "\f1b7"; }
+.icon-architect-mask:before { content: "\f1b8"; }
+.icon-arcing-bolt:before { content: "\f1b9"; }
+.icon-arena:before { content: "\f1ba"; }
+.icon-aries:before { content: "\f1bb"; }
+.icon-arm:before { content: "\f1bc"; }
+.icon-armadillo-tail:before { content: "\f1bd"; }
+.icon-armor-vest:before { content: "\f1be"; }
+.icon-armored-pants:before { content: "\f1bf"; }
+.icon-armoured-shell:before { content: "\f1c0"; }
+.icon-arrow-cluster:before { content: "\f1c1"; }
+.icon-arrow-cursor:before { content: "\f1c2"; }
+.icon-arrow-dunk:before { content: "\f1c3"; }
+.icon-arrow-flights:before { content: "\f1c4"; }
+.icon-arrow-scope:before { content: "\f1c5"; }
+.icon-arrowed:before { content: "\f1c6"; }
+.icon-arrowhead:before { content: "\f1c7"; }
+.icon-arrows-shield:before { content: "\f1c8"; }
+.icon-arson:before { content: "\f1c9"; }
+.icon-artificial-hive:before { content: "\f1ca"; }
+.icon-artificial-intelligence:before { content: "\f1cb"; }
+.icon-assassin-pocket:before { content: "\f1cc"; }
+.icon-asteroid:before { content: "\f1cd"; }
+.icon-astronaut-helmet:before { content: "\f1ce"; }
+.icon-at-sea:before { content: "\f1cf"; }
+.icon-atlas:before { content: "\f1d0"; }
+.icon-atom:before { content: "\f1d1"; }
+.icon-atomic-slashes:before { content: "\f1d2"; }
+.icon-attached-shield:before { content: "\f1d3"; }
+.icon-aubergine:before { content: "\f1d4"; }
+.icon-audio-cassette:before { content: "\f1d5"; }
+.icon-aura:before { content: "\f1d6"; }
+.icon-australia:before { content: "\f1d7"; }
+.icon-auto-repair:before { content: "\f1d8"; }
+.icon-autogun:before { content: "\f1d9"; }
+.icon-automatic-sas:before { content: "\f1da"; }
+.icon-awareness:before { content: "\f1db"; }
+.icon-axe-in-stump:before { content: "\f1dc"; }
+.icon-axe-swing:before { content: "\f1dd"; }
+.icon-babyfoot-players:before { content: "\f1de"; }
+.icon-back-forth:before { content: "\f1df"; }
+.icon-back-pain:before { content: "\f1e0"; }
+.icon-backbone-shell:before { content: "\f1e1"; }
+.icon-backgammon:before { content: "\f1e2"; }
+.icon-backpack:before { content: "\f1e3"; }
+.icon-backstab:before { content: "\f1e4"; }
+.icon-backup:before { content: "\f1e5"; }
+.icon-bad-gnome:before { content: "\f1e6"; }
+.icon-balkenkreuz:before { content: "\f1e7"; }
+.icon-ball-heart:before { content: "\f1e8"; }
+.icon-ballista:before { content: "\f1e9"; }
+.icon-balloons:before { content: "\f1ea"; }
+.icon-banana:before { content: "\f1eb"; }
+.icon-banana-peel:before { content: "\f1ec"; }
+.icon-bandage-roll:before { content: "\f1ed"; }
+.icon-bandaged:before { content: "\f1ee"; }
+.icon-bank:before { content: "\f1ef"; }
+.icon-banknote:before { content: "\f1f0"; }
+.icon-barbarian:before { content: "\f1f1"; }
+.icon-barbed-arrow:before { content: "\f1f2"; }
+.icon-barbed-coil:before { content: "\f1f3"; }
+.icon-barbed-nails:before { content: "\f1f4"; }
+.icon-barbed-spear:before { content: "\f1f5"; }
+.icon-barbed-star:before { content: "\f1f6"; }
+.icon-barbed-sun:before { content: "\f1f7"; }
+.icon-barbed-wire:before { content: "\f1f8"; }
+.icon-barbute:before { content: "\f1f9"; }
+.icon-barefoot:before { content: "\f1fa"; }
+.icon-barn:before { content: "\f1fb"; }
+.icon-barrel:before { content: "\f1fc"; }
+.icon-baseball-bat:before { content: "\f1fd"; }
+.icon-basketball-ball:before { content: "\f1fe"; }
+.icon-basketball-basket:before { content: "\f1ff"; }
+.icon-bat:before { content: "\f200"; }
+.icon-bat-blade:before { content: "\f201"; }
+.icon-bat-wing:before { content: "\f202"; }
+.icon-baton:before { content: "\f203"; }
+.icon-battered-axe:before { content: "\f204"; }
+.icon-batteries:before { content: "\f205"; }
+.icon-battery-0:before { content: "\f206"; }
+.icon-battery-100:before { content: "\f207"; }
+.icon-battery-25:before { content: "\f208"; }
+.icon-battery-50:before { content: "\f209"; }
+.icon-battery-75:before { content: "\f20a"; }
+.icon-battery-minus:before { content: "\f20b"; }
+.icon-battery-pack:before { content: "\f20c"; }
+.icon-battery-pack-alt:before { content: "\f20d"; }
+.icon-battery-plus:before { content: "\f20e"; }
+.icon-battle-axe:before { content: "\f20f"; }
+.icon-battle-gear:before { content: "\f210"; }
+.icon-battleship:before { content: "\f211"; }
+.icon-batwing-emblem:before { content: "\f212"; }
+.icon-bayonet:before { content: "\f213"; }
+.icon-beach-ball:before { content: "\f214"; }
+.icon-beam-wake:before { content: "\f215"; }
+.icon-beams-aura:before { content: "\f216"; }
+.icon-beanstalk:before { content: "\f217"; }
+.icon-bear-head:before { content: "\f218"; }
+.icon-beard:before { content: "\f219"; }
+.icon-beast-eye:before { content: "\f21a"; }
+.icon-bed:before { content: "\f21b"; }
+.icon-bed-lamp:before { content: "\f21c"; }
+.icon-bee:before { content: "\f21d"; }
+.icon-beech:before { content: "\f21e"; }
+.icon-beehive:before { content: "\f21f"; }
+.icon-beer-bottle:before { content: "\f220"; }
+.icon-beer-stein:before { content: "\f221"; }
+.icon-beetle-shell:before { content: "\f222"; }
+.icon-behold:before { content: "\f223"; }
+.icon-bell-shield:before { content: "\f224"; }
+.icon-belt:before { content: "\f225"; }
+.icon-belt-buckles:before { content: "\f226"; }
+.icon-bestial-fangs:before { content: "\f227"; }
+.icon-beveled-star:before { content: "\f228"; }
+.icon-biceps:before { content: "\f229"; }
+.icon-big-diamond-ring:before { content: "\f22a"; }
+.icon-big-egg:before { content: "\f22b"; }
+.icon-big-wave:before { content: "\f22c"; }
+.icon-bindle:before { content: "\f22d"; }
+.icon-binoculars:before { content: "\f22e"; }
+.icon-biohazard:before { content: "\f22f"; }
+.icon-bird-claw:before { content: "\f230"; }
+.icon-bird-limb:before { content: "\f231"; }
+.icon-bird-mask:before { content: "\f232"; }
+.icon-bird-twitter:before { content: "\f233"; }
+.icon-black-bar:before { content: "\f234"; }
+.icon-black-book:before { content: "\f235"; }
+.icon-black-cat:before { content: "\f236"; }
+.icon-black-flag:before { content: "\f237"; }
+.icon-black-hand-shield:before { content: "\f238"; }
+.icon-black-hole-bolas:before { content: "\f239"; }
+.icon-black-knight-helm:before { content: "\f23a"; }
+.icon-blackball:before { content: "\f23b"; }
+.icon-blackcurrant:before { content: "\f23c"; }
+.icon-blade-bite:before { content: "\f23d"; }
+.icon-blade-fall:before { content: "\f23e"; }
+.icon-blast:before { content: "\f23f"; }
+.icon-blaster:before { content: "\f240"; }
+.icon-bleeding-eye:before { content: "\f241"; }
+.icon-bleeding-heart:before { content: "\f242"; }
+.icon-bleeding-wound:before { content: "\f243"; }
+.icon-blindfold:before { content: "\f244"; }
+.icon-block-house:before { content: "\f245"; }
+.icon-blood:before { content: "\f246"; }
+.icon-bloody-stash:before { content: "\f247"; }
+.icon-bloody-sword:before { content: "\f248"; }
+.icon-blunderbuss:before { content: "\f249"; }
+.icon-bo:before { content: "\f24a"; }
+.icon-boar-tusks:before { content: "\f24b"; }
+.icon-body-height:before { content: "\f24c"; }
+.icon-body-swapping:before { content: "\f24d"; }
+.icon-boiling-bubbles:before { content: "\f24e"; }
+.icon-bolas:before { content: "\f24f"; }
+.icon-bolt-saw:before { content: "\f250"; }
+.icon-bolt-shield:before { content: "\f251"; }
+.icon-bolter-gun:before { content: "\f252"; }
+.icon-bomber:before { content: "\f253"; }
+.icon-bombing-run:before { content: "\f254"; }
+.icon-bone-gnawer:before { content: "\f255"; }
+.icon-bone-knife:before { content: "\f256"; }
+.icon-book-aura:before { content: "\f257"; }
+.icon-book-cover:before { content: "\f258"; }
+.icon-book-cover-2:before { content: "\f259"; }
+.icon-book-storm:before { content: "\f25a"; }
+.icon-bookmark:before { content: "\f25b"; }
+.icon-bookmarklet:before { content: "\f25c"; }
+.icon-bookshelf:before { content: "\f25d"; }
+.icon-boomerang:before { content: "\f25e"; }
+.icon-boomerang-sun:before { content: "\f25f"; }
+.icon-boot-prints:before { content: "\f260"; }
+.icon-boot-stomp:before { content: "\f261"; }
+.icon-boots:before { content: "\f262"; }
+.icon-bordered-shield:before { content: "\f263"; }
+.icon-boss-key:before { content: "\f264"; }
+.icon-bottle-vapors:before { content: "\f265"; }
+.icon-bottled-bolt:before { content: "\f266"; }
+.icon-bottom-right-3d-arrow:before { content: "\f267"; }
+.icon-boulder-dash:before { content: "\f268"; }
+.icon-bowen-knot:before { content: "\f269"; }
+.icon-bowie-knife:before { content: "\f26a"; }
+.icon-bowie-knife-2:before { content: "\f26b"; }
+.icon-bowl-spiral:before { content: "\f26c"; }
+.icon-bowling-pin:before { content: "\f26d"; }
+.icon-bowling-propulsion:before { content: "\f26e"; }
+.icon-bowman:before { content: "\f26f"; }
+.icon-box-trap:before { content: "\f270"; }
+.icon-boxing-glove:before { content: "\f271"; }
+.icon-boxing-glove-surprise:before { content: "\f272"; }
+.icon-bracer:before { content: "\f273"; }
+.icon-bracers:before { content: "\f274"; }
+.icon-brain:before { content: "\f275"; }
+.icon-brain-freeze:before { content: "\f276"; }
+.icon-brain-stem:before { content: "\f277"; }
+.icon-brainstorm:before { content: "\f278"; }
+.icon-branch-arrow:before { content: "\f279"; }
+.icon-brandy-bottle:before { content: "\f27a"; }
+.icon-brass-eye:before { content: "\f27b"; }
+.icon-brass-knuckles:before { content: "\f27c"; }
+.icon-bread:before { content: "\f27d"; }
+.icon-breastplate:before { content: "\f27e"; }
+.icon-brick-pile:before { content: "\f27f"; }
+.icon-brick-wall:before { content: "\f280"; }
+.icon-bridge:before { content: "\f281"; }
+.icon-briefcase:before { content: "\f282"; }
+.icon-bright-explosion:before { content: "\f283"; }
+.icon-broad-dagger:before { content: "\f284"; }
+.icon-broadhead-arrow:before { content: "\f285"; }
+.icon-broadsword:before { content: "\f286"; }
+.icon-brodie-helmet:before { content: "\f287"; }
+.icon-broken-bone:before { content: "\f288"; }
+.icon-broken-bottle:before { content: "\f289"; }
+.icon-broken-heart:before { content: "\f28a"; }
+.icon-broken-heart-zone:before { content: "\f28b"; }
+.icon-broken-shield:before { content: "\f28c"; }
+.icon-broken-skull:before { content: "\f28d"; }
+.icon-broken-tablet:before { content: "\f28e"; }
+.icon-broom:before { content: "\f28f"; }
+.icon-brutal-helm:before { content: "\f290"; }
+.icon-bubble-field:before { content: "\f291"; }
+.icon-bubbles:before { content: "\f292"; }
+.icon-bubbling-beam:before { content: "\f293"; }
+.icon-bubbling-bowl:before { content: "\f294"; }
+.icon-bubbling-flask:before { content: "\f295"; }
+.icon-bud:before { content: "\f296"; }
+.icon-bugle-call:before { content: "\f297"; }
+.icon-bulb:before { content: "\f298"; }
+.icon-bull:before { content: "\f299"; }
+.icon-bull-horns:before { content: "\f29a"; }
+.icon-bullets:before { content: "\f29b"; }
+.icon-bullseye:before { content: "\f29c"; }
+.icon-buoy:before { content: "\f29d"; }
+.icon-burn:before { content: "\f29e"; }
+.icon-burning-blobs:before { content: "\f29f"; }
+.icon-burning-book:before { content: "\f2a0"; }
+.icon-burning-dot:before { content: "\f2a1"; }
+.icon-burning-embers:before { content: "\f2a2"; }
+.icon-burning-eye:before { content: "\f2a3"; }
+.icon-burning-meteor:before { content: "\f2a4"; }
+.icon-burning-passion:before { content: "\f2a5"; }
+.icon-burning-round-shot:before { content: "\f2a6"; }
+.icon-burning-tree:before { content: "\f2a7"; }
+.icon-burst-blob:before { content: "\f2a8"; }
+.icon-butterfly:before { content: "\f2a9"; }
+.icon-butterfly-knife:before { content: "\f2aa"; }
+.icon-butterfly-warning:before { content: "\f2ab"; }
+.icon-button-finger:before { content: "\f2ac"; }
+.icon-c96:before { content: "\f2ad"; }
+.icon-cactus:before { content: "\f2ae"; }
+.icon-caduceus:before { content: "\f2af"; }
+.icon-caesar:before { content: "\f2b0"; }
+.icon-caged-ball:before { content: "\f2b1"; }
+.icon-cake-slice:before { content: "\f2b2"; }
+.icon-caldera:before { content: "\f2b3"; }
+.icon-calendar:before { content: "\f2b4"; }
+.icon-camel-head:before { content: "\f2b5"; }
+.icon-campfire:before { content: "\f2b6"; }
+.icon-camping-tent:before { content: "\f2b7"; }
+.icon-cancel:before { content: "\f2b8"; }
+.icon-cancer:before { content: "\f2b9"; }
+.icon-candle-flame:before { content: "\f2ba"; }
+.icon-candle-holder:before { content: "\f2bb"; }
+.icon-candle-light:before { content: "\f2bc"; }
+.icon-candle-skull:before { content: "\f2bd"; }
+.icon-candlebright:before { content: "\f2be"; }
+.icon-candlestick-phone:before { content: "\f2bf"; }
+.icon-candy-canes:before { content: "\f2c0"; }
+.icon-cannister:before { content: "\f2c1"; }
+.icon-cannon:before { content: "\f2c2"; }
+.icon-cannon-ball:before { content: "\f2c3"; }
+.icon-cannon-shot:before { content: "\f2c4"; }
+.icon-cape:before { content: "\f2c5"; }
+.icon-capitol:before { content: "\f2c6"; }
+.icon-capricorn:before { content: "\f2c7"; }
+.icon-car-key:before { content: "\f2c8"; }
+.icon-card-10-clubs:before { content: "\f2c9"; }
+.icon-card-10-diamonds:before { content: "\f2ca"; }
+.icon-card-10-hearts:before { content: "\f2cb"; }
+.icon-card-10-spades:before { content: "\f2cc"; }
+.icon-card-2-clubs:before { content: "\f2cd"; }
+.icon-card-2-diamonds:before { content: "\f2ce"; }
+.icon-card-2-hearts:before { content: "\f2cf"; }
+.icon-card-2-spades:before { content: "\f2d0"; }
+.icon-card-3-clubs:before { content: "\f2d1"; }
+.icon-card-3-diamonds:before { content: "\f2d2"; }
+.icon-card-3-hearts:before { content: "\f2d3"; }
+.icon-card-3-spades:before { content: "\f2d4"; }
+.icon-card-4-clubs:before { content: "\f2d5"; }
+.icon-card-4-diamonds:before { content: "\f2d6"; }
+.icon-card-4-hearts:before { content: "\f2d7"; }
+.icon-card-4-spades:before { content: "\f2d8"; }
+.icon-card-5-clubs:before { content: "\f2d9"; }
+.icon-card-5-diamonds:before { content: "\f2da"; }
+.icon-card-5-hearts:before { content: "\f2db"; }
+.icon-card-5-spades:before { content: "\f2dc"; }
+.icon-card-6-clubs:before { content: "\f2dd"; }
+.icon-card-6-diamonds:before { content: "\f2de"; }
+.icon-card-6-hearts:before { content: "\f2df"; }
+.icon-card-6-spades:before { content: "\f2e0"; }
+.icon-card-7-clubs:before { content: "\f2e1"; }
+.icon-card-7-diamonds:before { content: "\f2e2"; }
+.icon-card-7-hearts:before { content: "\f2e3"; }
+.icon-card-7-spades:before { content: "\f2e4"; }
+.icon-card-8-clubs:before { content: "\f2e5"; }
+.icon-card-8-diamonds:before { content: "\f2e6"; }
+.icon-card-8-hearts:before { content: "\f2e7"; }
+.icon-card-8-spades:before { content: "\f2e8"; }
+.icon-card-9-clubs:before { content: "\f2e9"; }
+.icon-card-9-diamonds:before { content: "\f2ea"; }
+.icon-card-9-hearts:before { content: "\f2eb"; }
+.icon-card-9-spades:before { content: "\f2ec"; }
+.icon-card-ace-clubs:before { content: "\f2ed"; }
+.icon-card-ace-diamonds:before { content: "\f2ee"; }
+.icon-card-ace-hearts:before { content: "\f2ef"; }
+.icon-card-ace-spades:before { content: "\f2f0"; }
+.icon-card-discard:before { content: "\f2f1"; }
+.icon-card-draw:before { content: "\f2f2"; }
+.icon-card-jack-clubs:before { content: "\f2f3"; }
+.icon-card-jack-diamonds:before { content: "\f2f4"; }
+.icon-card-jack-hearts:before { content: "\f2f5"; }
+.icon-card-jack-spades:before { content: "\f2f6"; }
+.icon-card-king-clubs:before { content: "\f2f7"; }
+.icon-card-king-diamonds:before { content: "\f2f8"; }
+.icon-card-king-hearts:before { content: "\f2f9"; }
+.icon-card-king-spades:before { content: "\f2fa"; }
+.icon-card-pick:before { content: "\f2fb"; }
+.icon-card-queen-clubs:before { content: "\f2fc"; }
+.icon-card-queen-diamonds:before { content: "\f2fd"; }
+.icon-card-queen-hearts:before { content: "\f2fe"; }
+.icon-card-queen-spades:before { content: "\f2ff"; }
+.icon-card-random:before { content: "\f300"; }
+.icon-cardboard-box:before { content: "\f301"; }
+.icon-cargo-crane:before { content: "\f302"; }
+.icon-carillon:before { content: "\f303"; }
+.icon-carnivore-mouth:before { content: "\f304"; }
+.icon-carnivorous-plant:before { content: "\f305"; }
+.icon-carpet-bombing:before { content: "\f306"; }
+.icon-carrier:before { content: "\f307"; }
+.icon-carrion:before { content: "\f308"; }
+.icon-carrot:before { content: "\f309"; }
+.icon-cartwheel:before { content: "\f30a"; }
+.icon-cash:before { content: "\f30b"; }
+.icon-castle:before { content: "\f30c"; }
+.icon-castle-2:before { content: "\f30d"; }
+.icon-castle-ruins:before { content: "\f30e"; }
+.icon-catapult:before { content: "\f30f"; }
+.icon-cauldron:before { content: "\f310"; }
+.icon-cavalry:before { content: "\f311"; }
+.icon-cave-entrance:before { content: "\f312"; }
+.icon-cctv-camera:before { content: "\f313"; }
+.icon-ceiling-barnacle:before { content: "\f314"; }
+.icon-celebration-fire:before { content: "\f315"; }
+.icon-cement-shoes:before { content: "\f316"; }
+.icon-centipede:before { content: "\f317"; }
+.icon-chain-lightning:before { content: "\f318"; }
+.icon-chain-mail:before { content: "\f319"; }
+.icon-chained-arrow-heads:before { content: "\f31a"; }
+.icon-chained-heart:before { content: "\f31b"; }
+.icon-chaingun:before { content: "\f31c"; }
+.icon-chainsaw:before { content: "\f31d"; }
+.icon-chalice-drops:before { content: "\f31e"; }
+.icon-charging-bull:before { content: "\f31f"; }
+.icon-chariot:before { content: "\f320"; }
+.icon-charm:before { content: "\f321"; }
+.icon-chart:before { content: "\f322"; }
+.icon-checkbox-tree:before { content: "\f323"; }
+.icon-checked-shield:before { content: "\f324"; }
+.icon-checkered-flag:before { content: "\f325"; }
+.icon-checklist:before { content: "\f326"; }
+.icon-cheerful:before { content: "\f327"; }
+.icon-cheese-wedge:before { content: "\f328"; }
+.icon-chef-toque:before { content: "\f329"; }
+.icon-chemical-arrow:before { content: "\f32a"; }
+.icon-chemical-bolt:before { content: "\f32b"; }
+.icon-chemical-drop:before { content: "\f32c"; }
+.icon-chemical-tank:before { content: "\f32d"; }
+.icon-cherry:before { content: "\f32e"; }
+.icon-chess-bishop:before { content: "\f32f"; }
+.icon-chess-king:before { content: "\f330"; }
+.icon-chess-knight:before { content: "\f331"; }
+.icon-chess-pawn:before { content: "\f332"; }
+.icon-chess-queen:before { content: "\f333"; }
+.icon-chess-rook:before { content: "\f334"; }
+.icon-chest:before { content: "\f335"; }
+.icon-chewed-heart:before { content: "\f336"; }
+.icon-chicken:before { content: "\f337"; }
+.icon-chicken-leg:before { content: "\f338"; }
+.icon-church:before { content: "\f339"; }
+.icon-cigarette:before { content: "\f33a"; }
+.icon-circle-claws:before { content: "\f33b"; }
+.icon-circle-sparks:before { content: "\f33c"; }
+.icon-circuitry:before { content: "\f33d"; }
+.icon-circular-saw:before { content: "\f33e"; }
+.icon-circular-sawblade:before { content: "\f33f"; }
+.icon-city-car:before { content: "\f340"; }
+.icon-clapperboard:before { content: "\f341"; }
+.icon-claw:before { content: "\f342"; }
+.icon-claw-hammer:before { content: "\f343"; }
+.icon-claw-slashes:before { content: "\f344"; }
+.icon-claw-string:before { content: "\f345"; }
+.icon-click:before { content: "\f346"; }
+.icon-cloak:before { content: "\f347"; }
+.icon-cloak-dagger:before { content: "\f348"; }
+.icon-clockwise-rotation:before { content: "\f349"; }
+.icon-clockwork:before { content: "\f34a"; }
+.icon-closed-doors:before { content: "\f34b"; }
+.icon-cloud-ring:before { content: "\f34c"; }
+.icon-cloudy-fork:before { content: "\f34d"; }
+.icon-clout:before { content: "\f34e"; }
+.icon-clover:before { content: "\f34f"; }
+.icon-clover-2:before { content: "\f350"; }
+.icon-clover-spiked:before { content: "\f351"; }
+.icon-cluster-bomb:before { content: "\f352"; }
+.icon-cobra:before { content: "\f353"; }
+.icon-cobweb:before { content: "\f354"; }
+.icon-coffee-beans:before { content: "\f355"; }
+.icon-coffee-cup:before { content: "\f356"; }
+.icon-coffee-mug:before { content: "\f357"; }
+.icon-coffin:before { content: "\f358"; }
+.icon-cog:before { content: "\f359"; }
+.icon-cog-lock:before { content: "\f35a"; }
+.icon-cogsplosion:before { content: "\f35b"; }
+.icon-coiling-curl:before { content: "\f35c"; }
+.icon-coins:before { content: "\f35d"; }
+.icon-cold-heart:before { content: "\f35e"; }
+.icon-coliseum:before { content: "\f35f"; }
+.icon-coma:before { content: "\f360"; }
+.icon-comb:before { content: "\f361"; }
+.icon-comet-spark:before { content: "\f362"; }
+.icon-compact-disc:before { content: "\f363"; }
+.icon-compass:before { content: "\f364"; }
+.icon-computer-fan:before { content: "\f365"; }
+.icon-computing:before { content: "\f366"; }
+.icon-concentration-orb:before { content: "\f367"; }
+.icon-concentric-crescents:before { content: "\f368"; }
+.icon-condor-emblem:before { content: "\f369"; }
+.icon-condylura-skull:before { content: "\f36a"; }
+.icon-confrontation:before { content: "\f36b"; }
+.icon-console-controller:before { content: "\f36c"; }
+.icon-contract:before { content: "\f36d"; }
+.icon-conversation:before { content: "\f36e"; }
+.icon-convict:before { content: "\f36f"; }
+.icon-convince:before { content: "\f370"; }
+.icon-cooking-pot:before { content: "\f371"; }
+.icon-cool-spices:before { content: "\f372"; }
+.icon-corked-tube:before { content: "\f373"; }
+.icon-corn:before { content: "\f374"; }
+.icon-corner-explosion:before { content: "\f375"; }
+.icon-corner-flag:before { content: "\f376"; }
+.icon-corporal:before { content: "\f377"; }
+.icon-corset:before { content: "\f378"; }
+.icon-cowboy-boot:before { content: "\f379"; }
+.icon-cowboy-holster:before { content: "\f37a"; }
+.icon-cowled:before { content: "\f37b"; }
+.icon-crab:before { content: "\f37c"; }
+.icon-crab-claw:before { content: "\f37d"; }
+.icon-cracked-ball-dunk:before { content: "\f37e"; }
+.icon-cracked-disc:before { content: "\f37f"; }
+.icon-cracked-glass:before { content: "\f380"; }
+.icon-cracked-helm:before { content: "\f381"; }
+.icon-cracked-mask:before { content: "\f382"; }
+.icon-cracked-saber:before { content: "\f383"; }
+.icon-cracked-shield:before { content: "\f384"; }
+.icon-crags:before { content: "\f385"; }
+.icon-crenulated-shield:before { content: "\f386"; }
+.icon-crescent-blade:before { content: "\f387"; }
+.icon-crescent-blade-2:before { content: "\f388"; }
+.icon-crested-helmet:before { content: "\f389"; }
+.icon-cricket:before { content: "\f38a"; }
+.icon-croc-jaws:before { content: "\f38b"; }
+.icon-croc-sword:before { content: "\f38c"; }
+.icon-croissant:before { content: "\f38d"; }
+.icon-croissants-pupil:before { content: "\f38e"; }
+.icon-cross-mark:before { content: "\f38f"; }
+.icon-crossbow:before { content: "\f390"; }
+.icon-crossed-air-flows:before { content: "\f391"; }
+.icon-crossed-axes:before { content: "\f392"; }
+.icon-crossed-bones:before { content: "\f393"; }
+.icon-crossed-chains:before { content: "\f394"; }
+.icon-crossed-claws:before { content: "\f395"; }
+.icon-crossed-pistols:before { content: "\f396"; }
+.icon-crossed-sabres:before { content: "\f397"; }
+.icon-crossed-slashes:before { content: "\f398"; }
+.icon-crossed-swords:before { content: "\f399"; }
+.icon-crosshair:before { content: "\f39a"; }
+.icon-crosshair-arrow:before { content: "\f39b"; }
+.icon-crow-dive:before { content: "\f39c"; }
+.icon-crow-nest:before { content: "\f39d"; }
+.icon-crowbar:before { content: "\f39e"; }
+.icon-crown:before { content: "\f39f"; }
+.icon-crown-coin:before { content: "\f3a0"; }
+.icon-crown-of-thorns:before { content: "\f3a1"; }
+.icon-crowned-explosion:before { content: "\f3a2"; }
+.icon-crowned-heart:before { content: "\f3a3"; }
+.icon-crowned-skull:before { content: "\f3a4"; }
+.icon-crucifix:before { content: "\f3a5"; }
+.icon-cruiser:before { content: "\f3a6"; }
+.icon-crumbling-ball:before { content: "\f3a7"; }
+.icon-crush:before { content: "\f3a8"; }
+.icon-cryo-chamber:before { content: "\f3a9"; }
+.icon-crystal-ball:before { content: "\f3aa"; }
+.icon-crystal-bars:before { content: "\f3ab"; }
+.icon-crystal-cluster:before { content: "\f3ac"; }
+.icon-crystal-eye:before { content: "\f3ad"; }
+.icon-crystal-growth:before { content: "\f3ae"; }
+.icon-crystal-shine:before { content: "\f3af"; }
+.icon-crystal-wand:before { content: "\f3b0"; }
+.icon-crystalize:before { content: "\f3b1"; }
+.icon-cubeforce:before { content: "\f3b2"; }
+.icon-cubes:before { content: "\f3b3"; }
+.icon-cultist:before { content: "\f3b4"; }
+.icon-cupcake:before { content: "\f3b5"; }
+.icon-cupidon-arrow:before { content: "\f3b6"; }
+.icon-curled-leaf:before { content: "\f3b7"; }
+.icon-curled-tentacle:before { content: "\f3b8"; }
+.icon-curling-vines:before { content: "\f3b9"; }
+.icon-curly-wing:before { content: "\f3ba"; }
+.icon-cursed-star:before { content: "\f3bb"; }
+.icon-curvy-knife:before { content: "\f3bc"; }
+.icon-cut-diamond:before { content: "\f3bd"; }
+.icon-cut-palm:before { content: "\f3be"; }
+.icon-cycle:before { content: "\f3bf"; }
+.icon-cyclops:before { content: "\f3c0"; }
+.icon-d10:before { content: "\f3c1"; }
+.icon-d12:before { content: "\f3c2"; }
+.icon-daemon-skull:before { content: "\f3c3"; }
+.icon-dagger-rose:before { content: "\f3c4"; }
+.icon-daggers:before { content: "\f3c5"; }
+.icon-daisy:before { content: "\f3c6"; }
+.icon-dark-squad:before { content: "\f3c7"; }
+.icon-database:before { content: "\f3c8"; }
+.icon-dead-eye:before { content: "\f3c9"; }
+.icon-dead-head:before { content: "\f3ca"; }
+.icon-dead-wood:before { content: "\f3cb"; }
+.icon-deadly-strike:before { content: "\f3cc"; }
+.icon-death-note:before { content: "\f3cd"; }
+.icon-death-skull:before { content: "\f3ce"; }
+.icon-death-zone:before { content: "\f3cf"; }
+.icon-deathcab:before { content: "\f3d0"; }
+.icon-decapitation:before { content: "\f3d1"; }
+.icon-defensive-wall:before { content: "\f3d2"; }
+.icon-defibrilate:before { content: "\f3d3"; }
+.icon-delighted:before { content: "\f3d4"; }
+.icon-demolish:before { content: "\f3d5"; }
+.icon-dervish-swords:before { content: "\f3d6"; }
+.icon-desert-skull:before { content: "\f3d7"; }
+.icon-deshret-red-crown:before { content: "\f3d8"; }
+.icon-desk-lamp:before { content: "\f3d9"; }
+.icon-despair:before { content: "\f3da"; }
+.icon-detour:before { content: "\f3db"; }
+.icon-diablo-skull:before { content: "\f3dc"; }
+.icon-diagram:before { content: "\f3dd"; }
+.icon-diamond-hard:before { content: "\f3de"; }
+.icon-diamond-ring:before { content: "\f3df"; }
+.icon-diamonds-smile:before { content: "\f3e0"; }
+.icon-dice-eight-faces-eight:before { content: "\f3e1"; }
+.icon-dice-six-faces-five:before { content: "\f3e2"; }
+.icon-dice-six-faces-four:before { content: "\f3e3"; }
+.icon-dice-six-faces-one:before { content: "\f3e4"; }
+.icon-dice-six-faces-six:before { content: "\f3e5"; }
+.icon-dice-six-faces-three:before { content: "\f3e6"; }
+.icon-dice-six-faces-two:before { content: "\f3e7"; }
+.icon-dice-twenty-faces-twenty:before { content: "\f3e8"; }
+.icon-dig-dug:before { content: "\f3e9"; }
+.icon-dig-hole:before { content: "\f3ea"; }
+.icon-dinosaur-bones:before { content: "\f3eb"; }
+.icon-dinosaur-egg:before { content: "\f3ec"; }
+.icon-dinosaur-rex:before { content: "\f3ed"; }
+.icon-direction-sign:before { content: "\f3ee"; }
+.icon-disintegrate:before { content: "\f3ef"; }
+.icon-distraction:before { content: "\f3f0"; }
+.icon-divergence:before { content: "\f3f1"; }
+.icon-divert:before { content: "\f3f2"; }
+.icon-divided-spiral:before { content: "\f3f3"; }
+.icon-divided-square:before { content: "\f3f4"; }
+.icon-diving-dagger:before { content: "\f3f5"; }
+.icon-diving-helmet:before { content: "\f3f6"; }
+.icon-dna1:before { content: "\f3f7"; }
+.icon-dna2:before { content: "\f3f8"; }
+.icon-doctor-face:before { content: "\f3f9"; }
+.icon-dodge:before { content: "\f3fa"; }
+.icon-dodging:before { content: "\f3fb"; }
+.icon-dolphin:before { content: "\f3fc"; }
+.icon-domino-mask:before { content: "\f3fd"; }
+.icon-donkey:before { content: "\f3fe"; }
+.icon-double-dragon:before { content: "\f3ff"; }
+.icon-double-face-mask:before { content: "\f400"; }
+.icon-double-quaver:before { content: "\f401"; }
+.icon-double-shot:before { content: "\f402"; }
+.icon-doubled:before { content: "\f403"; }
+.icon-dough-roller:before { content: "\f404"; }
+.icon-dove:before { content: "\f405"; }
+.icon-dozen:before { content: "\f406"; }
+.icon-dragon-balls:before { content: "\f407"; }
+.icon-dragon-breath:before { content: "\f408"; }
+.icon-dragon-head:before { content: "\f409"; }
+.icon-dragon-head-2:before { content: "\f40a"; }
+.icon-dragon-spiral:before { content: "\f40b"; }
+.icon-dragonfly:before { content: "\f40c"; }
+.icon-drakkar:before { content: "\f40d"; }
+.icon-drakkar-dragon:before { content: "\f40e"; }
+.icon-drama-masks:before { content: "\f40f"; }
+.icon-dread:before { content: "\f410"; }
+.icon-dread-skull:before { content: "\f411"; }
+.icon-dreadnought:before { content: "\f412"; }
+.icon-dress:before { content: "\f413"; }
+.icon-drill:before { content: "\f414"; }
+.icon-drink-me:before { content: "\f415"; }
+.icon-dripping-blade:before { content: "\f416"; }
+.icon-dripping-goo:before { content: "\f417"; }
+.icon-dripping-honey:before { content: "\f418"; }
+.icon-dripping-knife:before { content: "\f419"; }
+.icon-dripping-star:before { content: "\f41a"; }
+.icon-dripping-stone:before { content: "\f41b"; }
+.icon-dripping-sword:before { content: "\f41c"; }
+.icon-dripping-tube:before { content: "\f41d"; }
+.icon-drop:before { content: "\f41e"; }
+.icon-drop-weapon:before { content: "\f41f"; }
+.icon-droplet-splash:before { content: "\f420"; }
+.icon-droplets:before { content: "\f421"; }
+.icon-drowning:before { content: "\f422"; }
+.icon-drum:before { content: "\f423"; }
+.icon-duality:before { content: "\f424"; }
+.icon-duality-mask:before { content: "\f425"; }
+.icon-duck:before { content: "\f426"; }
+.icon-duel:before { content: "\f427"; }
+.icon-dust-cloud:before { content: "\f428"; }
+.icon-dwarf-face:before { content: "\f429"; }
+.icon-dwarf-helmet:before { content: "\f42a"; }
+.icon-dwennimmen:before { content: "\f42b"; }
+.icon-dynamite:before { content: "\f42c"; }
+.icon-eagle-emblem:before { content: "\f42d"; }
+.icon-earth-africa-europe:before { content: "\f42e"; }
+.icon-earth-america:before { content: "\f42f"; }
+.icon-earth-asia-oceania:before { content: "\f430"; }
+.icon-earth-crack:before { content: "\f431"; }
+.icon-earth-spit:before { content: "\f432"; }
+.icon-earwig:before { content: "\f433"; }
+.icon-echo-ripples:before { content: "\f434"; }
+.icon-eclipse:before { content: "\f435"; }
+.icon-eclipse-flare:before { content: "\f436"; }
+.icon-edge-crack:before { content: "\f437"; }
+.icon-edged-shield:before { content: "\f438"; }
+.icon-egg-clutch:before { content: "\f439"; }
+.icon-egg-defense:before { content: "\f43a"; }
+.icon-egg-pod:before { content: "\f43b"; }
+.icon-egyptian-pyramids:before { content: "\f43c"; }
+.icon-egyptian-sphinx:before { content: "\f43d"; }
+.icon-eight-ball:before { content: "\f43e"; }
+.icon-elderberry:before { content: "\f43f"; }
+.icon-electric:before { content: "\f440"; }
+.icon-electric-whip:before { content: "\f441"; }
+.icon-electrical-crescent:before { content: "\f442"; }
+.icon-elephant-head:before { content: "\f443"; }
+.icon-elf-ear:before { content: "\f444"; }
+.icon-ember-shot:before { content: "\f445"; }
+.icon-embrassed-energy:before { content: "\f446"; }
+.icon-embryo:before { content: "\f447"; }
+.icon-emerald:before { content: "\f448"; }
+.icon-empty-chessboard:before { content: "\f449"; }
+.icon-empty-hourglass:before { content: "\f44a"; }
+.icon-energise:before { content: "\f44b"; }
+.icon-energy-arrow:before { content: "\f44c"; }
+.icon-energy-breath:before { content: "\f44d"; }
+.icon-energy-shield:before { content: "\f44e"; }
+.icon-energy-sword:before { content: "\f44f"; }
+.icon-engagement-ring:before { content: "\f450"; }
+.icon-enlightenment:before { content: "\f451"; }
+.icon-enrage:before { content: "\f452"; }
+.icon-ent-mouth:before { content: "\f453"; }
+.icon-entry-door:before { content: "\f454"; }
+.icon-envelope:before { content: "\f455"; }
+.icon-erlenmeyer:before { content: "\f456"; }
+.icon-ermine:before { content: "\f457"; }
+.icon-eruption:before { content: "\f458"; }
+.icon-eskimo:before { content: "\f459"; }
+.icon-european-flag:before { content: "\f45a"; }
+.icon-evil-bat:before { content: "\f45b"; }
+.icon-evil-book:before { content: "\f45c"; }
+.icon-evil-eyes:before { content: "\f45d"; }
+.icon-evil-fork:before { content: "\f45e"; }
+.icon-evil-hand:before { content: "\f45f"; }
+.icon-evil-moon:before { content: "\f460"; }
+.icon-evil-tree:before { content: "\f461"; }
+.icon-evil-wings:before { content: "\f462"; }
+.icon-exit-door:before { content: "\f463"; }
+.icon-expand:before { content: "\f464"; }
+.icon-expander:before { content: "\f465"; }
+.icon-explosion-rays:before { content: "\f466"; }
+.icon-explosive-materials:before { content: "\f467"; }
+.icon-explosive-meeting:before { content: "\f468"; }
+.icon-extra-lucid:before { content: "\f469"; }
+.icon-eye-of-horus:before { content: "\f46a"; }
+.icon-eye-shield:before { content: "\f46b"; }
+.icon-eyeball:before { content: "\f46c"; }
+.icon-eyedropper:before { content: "\f46d"; }
+.icon-eyestalk:before { content: "\f46e"; }
+.icon-factory:before { content: "\f46f"; }
+.icon-fairy:before { content: "\f470"; }
+.icon-fairy-wand:before { content: "\f471"; }
+.icon-falcon-moon:before { content: "\f472"; }
+.icon-fall-down:before { content: "\f473"; }
+.icon-falling:before { content: "\f474"; }
+.icon-falling-blob:before { content: "\f475"; }
+.icon-falling-boulder:before { content: "\f476"; }
+.icon-falling-eye:before { content: "\f477"; }
+.icon-falling-leaf:before { content: "\f478"; }
+.icon-falling-ovoid:before { content: "\f479"; }
+.icon-falling-rocks:before { content: "\f47a"; }
+.icon-famas:before { content: "\f47b"; }
+.icon-fanged-skull:before { content: "\f47c"; }
+.icon-fangs:before { content: "\f47d"; }
+.icon-farmer:before { content: "\f47e"; }
+.icon-fast-arrow:before { content: "\f47f"; }
+.icon-fat:before { content: "\f480"; }
+.icon-feather:before { content: "\f481"; }
+.icon-feather-wound:before { content: "\f482"; }
+.icon-feathered-wing:before { content: "\f483"; }
+.icon-fedora:before { content: "\f484"; }
+.icon-feline:before { content: "\f485"; }
+.icon-female:before { content: "\f486"; }
+.icon-fetus:before { content: "\f487"; }
+.icon-fez:before { content: "\f488"; }
+.icon-field:before { content: "\f489"; }
+.icon-finger-print:before { content: "\f48a"; }
+.icon-fire:before { content: "\f48b"; }
+.icon-fire-ace:before { content: "\f48c"; }
+.icon-fire-axe:before { content: "\f48d"; }
+.icon-fire-bomb:before { content: "\f48e"; }
+.icon-fire-bottle:before { content: "\f48f"; }
+.icon-fire-bowl:before { content: "\f490"; }
+.icon-fire-breath:before { content: "\f491"; }
+.icon-fire-dash:before { content: "\f492"; }
+.icon-fire-extinguisher:before { content: "\f493"; }
+.icon-fire-punch:before { content: "\f494"; }
+.icon-fire-ray:before { content: "\f495"; }
+.icon-fire-ring:before { content: "\f496"; }
+.icon-fire-shield:before { content: "\f497"; }
+.icon-fire-silhouette:before { content: "\f498"; }
+.icon-fire-tail:before { content: "\f499"; }
+.icon-fire-wave:before { content: "\f49a"; }
+.icon-fire-zone:before { content: "\f49b"; }
+.icon-fireball:before { content: "\f49c"; }
+.icon-fireflake:before { content: "\f49d"; }
+.icon-firework-rocket:before { content: "\f49e"; }
+.icon-fish-corpse:before { content: "\f49f"; }
+.icon-fish-smoking:before { content: "\f4a0"; }
+.icon-fishbone:before { content: "\f4a1"; }
+.icon-fishhook-fork:before { content: "\f4a2"; }
+.icon-fishing:before { content: "\f4a3"; }
+.icon-fishing-hook:before { content: "\f4a4"; }
+.icon-fishing-net:before { content: "\f4a5"; }
+.icon-fishing-pole:before { content: "\f4a6"; }
+.icon-fission:before { content: "\f4a7"; }
+.icon-fist:before { content: "\f4a8"; }
+.icon-fist-2:before { content: "\f4a9"; }
+.icon-fizzing-flask:before { content: "\f4aa"; }
+.icon-flail:before { content: "\f4ab"; }
+.icon-flake:before { content: "\f4ac"; }
+.icon-flame:before { content: "\f4ad"; }
+.icon-flame-claws:before { content: "\f4ae"; }
+.icon-flame-spin:before { content: "\f4af"; }
+.icon-flame-tunnel:before { content: "\f4b0"; }
+.icon-flamed-leaf:before { content: "\f4b1"; }
+.icon-flamer:before { content: "\f4b2"; }
+.icon-flaming-arrow:before { content: "\f4b3"; }
+.icon-flaming-claw:before { content: "\f4b4"; }
+.icon-flaming-sheet:before { content: "\f4b5"; }
+.icon-flaming-trident:before { content: "\f4b6"; }
+.icon-flanged-mace:before { content: "\f4b7"; }
+.icon-flash-grenade:before { content: "\f4b8"; }
+.icon-flashlight:before { content: "\f4b9"; }
+.icon-flat-hammer:before { content: "\f4ba"; }
+.icon-flat-star:before { content: "\f4bb"; }
+.icon-flatbed:before { content: "\f4bc"; }
+.icon-fleshy-mass:before { content: "\f4bd"; }
+.icon-fleur-de-lys:before { content: "\f4be"; }
+.icon-flexible-star:before { content: "\f4bf"; }
+.icon-floating-crystal:before { content: "\f4c0"; }
+.icon-floor-polisher:before { content: "\f4c1"; }
+.icon-flower-pot:before { content: "\f4c2"; }
+.icon-flower-twirl:before { content: "\f4c3"; }
+.icon-flowers:before { content: "\f4c4"; }
+.icon-fluffy-cloud:before { content: "\f4c5"; }
+.icon-fluffy-flame:before { content: "\f4c6"; }
+.icon-fluffy-swirl:before { content: "\f4c7"; }
+.icon-fluffy-trefoil:before { content: "\f4c8"; }
+.icon-fluffy-wing:before { content: "\f4c9"; }
+.icon-flying-dagger:before { content: "\f4ca"; }
+.icon-flying-flag:before { content: "\f4cb"; }
+.icon-flying-fox:before { content: "\f4cc"; }
+.icon-flying-trout:before { content: "\f4cd"; }
+.icon-foam:before { content: "\f4ce"; }
+.icon-focused-lightning:before { content: "\f4cf"; }
+.icon-folded-paper:before { content: "\f4d0"; }
+.icon-food-chain:before { content: "\f4d1"; }
+.icon-foot-plaster:before { content: "\f4d2"; }
+.icon-foot-trip:before { content: "\f4d3"; }
+.icon-footprint:before { content: "\f4d4"; }
+.icon-footsteps:before { content: "\f4d5"; }
+.icon-forearm:before { content: "\f4d6"; }
+.icon-forest:before { content: "\f4d7"; }
+.icon-forward-field:before { content: "\f4d8"; }
+.icon-forward-sun:before { content: "\f4d9"; }
+.icon-fossil:before { content: "\f4da"; }
+.icon-fountain:before { content: "\f4db"; }
+.icon-fountain-pen:before { content: "\f4dc"; }
+.icon-fox-head:before { content: "\f4dd"; }
+.icon-fox-tail:before { content: "\f4de"; }
+.icon-fragmented-meteor:before { content: "\f4df"; }
+.icon-fragmented-sword:before { content: "\f4e0"; }
+.icon-fragrance:before { content: "\f4e1"; }
+.icon-frankenstein-creature:before { content: "\f4e2"; }
+.icon-frayed-arrow:before { content: "\f4e3"; }
+.icon-freedom-dove:before { content: "\f4e4"; }
+.icon-freemasonry:before { content: "\f4e5"; }
+.icon-fried-eggs:before { content: "\f4e6"; }
+.icon-frog:before { content: "\f4e7"; }
+.icon-front-teeth:before { content: "\f4e8"; }
+.icon-frontal-lobe:before { content: "\f4e9"; }
+.icon-frostfire:before { content: "\f4ea"; }
+.icon-frozen-arrow:before { content: "\f4eb"; }
+.icon-frozen-block:before { content: "\f4ec"; }
+.icon-frozen-orb:before { content: "\f4ed"; }
+.icon-fruit-bowl:before { content: "\f4ee"; }
+.icon-fruiting:before { content: "\f4ef"; }
+.icon-fulguro-punch:before { content: "\f4f0"; }
+.icon-full-motorcycle-helmet:before { content: "\f4f1"; }
+.icon-fur-boot:before { content: "\f4f2"; }
+.icon-galea:before { content: "\f4f3"; }
+.icon-galleon:before { content: "\f4f4"; }
+.icon-gamepad:before { content: "\f4f5"; }
+.icon-gamepad-cross:before { content: "\f4f6"; }
+.icon-garlic:before { content: "\f4f7"; }
+.icon-gas-mask:before { content: "\f4f8"; }
+.icon-gas-mask-2:before { content: "\f4f9"; }
+.icon-gas-pump:before { content: "\f4fa"; }
+.icon-gate:before { content: "\f4fb"; }
+.icon-gauls-helm:before { content: "\f4fc"; }
+.icon-gauntlet:before { content: "\f4fd"; }
+.icon-gavel:before { content: "\f4fe"; }
+.icon-gaze:before { content: "\f4ff"; }
+.icon-gear-hammer:before { content: "\f500"; }
+.icon-gears:before { content: "\f501"; }
+.icon-gecko:before { content: "\f502"; }
+.icon-gem-chain:before { content: "\f503"; }
+.icon-gem-necklace:before { content: "\f504"; }
+.icon-gem-pendant:before { content: "\f505"; }
+.icon-gemini:before { content: "\f506"; }
+.icon-gems:before { content: "\f507"; }
+.icon-ghost:before { content: "\f508"; }
+.icon-giant:before { content: "\f509"; }
+.icon-gibbet:before { content: "\f50a"; }
+.icon-gift-of-knowledge:before { content: "\f50b"; }
+.icon-gift-trap:before { content: "\f50c"; }
+.icon-gladius:before { content: "\f50d"; }
+.icon-glass-heart:before { content: "\f50e"; }
+.icon-glass-shot:before { content: "\f50f"; }
+.icon-glider:before { content: "\f510"; }
+.icon-globe:before { content: "\f511"; }
+.icon-gloop:before { content: "\f512"; }
+.icon-gloves:before { content: "\f513"; }
+.icon-glowing-hands:before { content: "\f514"; }
+.icon-gluttonous-smile:before { content: "\f515"; }
+.icon-gluttony:before { content: "\f516"; }
+.icon-gold-bar:before { content: "\f517"; }
+.icon-gold-mine:before { content: "\f518"; }
+.icon-gold-scarab:before { content: "\f519"; }
+.icon-gold-stack:before { content: "\f51a"; }
+.icon-golf-flag:before { content: "\f51b"; }
+.icon-goo-explosion:before { content: "\f51c"; }
+.icon-goo-skull:before { content: "\f51d"; }
+.icon-goo-spurt:before { content: "\f51e"; }
+.icon-gooey-daemon:before { content: "\f51f"; }
+.icon-gooey-eyed-sun:before { content: "\f520"; }
+.icon-gooey-impact:before { content: "\f521"; }
+.icon-gooey-molecule:before { content: "\f522"; }
+.icon-gooey-sword:before { content: "\f523"; }
+.icon-goose:before { content: "\f524"; }
+.icon-gps:before { content: "\f525"; }
+.icon-grab:before { content: "\f526"; }
+.icon-graduate-cap:before { content: "\f527"; }
+.icon-grapes:before { content: "\f528"; }
+.icon-grapple:before { content: "\f529"; }
+.icon-grasping-claws:before { content: "\f52a"; }
+.icon-grass:before { content: "\f52b"; }
+.icon-graveyard:before { content: "\f52c"; }
+.icon-grease-trap:before { content: "\f52d"; }
+.icon-great-war-tank:before { content: "\f52e"; }
+.icon-greaves:before { content: "\f52f"; }
+.icon-greek-sphinx:before { content: "\f530"; }
+.icon-greek-temple:before { content: "\f531"; }
+.icon-grenade:before { content: "\f532"; }
+.icon-grenade-2:before { content: "\f533"; }
+.icon-grim-reaper:before { content: "\f534"; }
+.icon-ground-sprout:before { content: "\f535"; }
+.icon-groundbreaker:before { content: "\f536"; }
+.icon-grouped-drops:before { content: "\f537"; }
+.icon-guarded-tower:before { content: "\f538"; }
+.icon-guards:before { content: "\f539"; }
+.icon-guillotine:before { content: "\f53a"; }
+.icon-guitar:before { content: "\f53b"; }
+.icon-gun-rose:before { content: "\f53c"; }
+.icon-gunshot:before { content: "\f53d"; }
+.icon-halberd:before { content: "\f53e"; }
+.icon-halberd-shuriken:before { content: "\f53f"; }
+.icon-half-body-crawling:before { content: "\f540"; }
+.icon-half-heart:before { content: "\f541"; }
+.icon-half-tornado:before { content: "\f542"; }
+.icon-halt:before { content: "\f543"; }
+.icon-ham-shank:before { content: "\f544"; }
+.icon-hammer-drop:before { content: "\f545"; }
+.icon-hammer-nails:before { content: "\f546"; }
+.icon-hammer-sickle:before { content: "\f547"; }
+.icon-hand:before { content: "\f548"; }
+.icon-hand-2:before { content: "\f549"; }
+.icon-hand-grip:before { content: "\f54a"; }
+.icon-hand-of-god:before { content: "\f54b"; }
+.icon-hand-saw:before { content: "\f54c"; }
+.icon-handcuffs:before { content: "\f54d"; }
+.icon-hang-glider:before { content: "\f54e"; }
+.icon-hanging-spider:before { content: "\f54f"; }
+.icon-harpoon-chain:before { content: "\f550"; }
+.icon-harpoon-trident:before { content: "\f551"; }
+.icon-harpy:before { content: "\f552"; }
+.icon-harry-potter-skull:before { content: "\f553"; }
+.icon-hasty-grave:before { content: "\f554"; }
+.icon-hatchets:before { content: "\f555"; }
+.icon-haunting:before { content: "\f556"; }
+.icon-hawk-emblem:before { content: "\f557"; }
+.icon-hazard-sign:before { content: "\f558"; }
+.icon-head-shot:before { content: "\f559"; }
+.icon-headphones:before { content: "\f55a"; }
+.icon-headshot:before { content: "\f55b"; }
+.icon-headshot-2:before { content: "\f55c"; }
+.icon-health-decrease:before { content: "\f55d"; }
+.icon-health-increase:before { content: "\f55e"; }
+.icon-health-normal:before { content: "\f55f"; }
+.icon-heart-beats:before { content: "\f560"; }
+.icon-heart-bottle:before { content: "\f561"; }
+.icon-heart-drop:before { content: "\f562"; }
+.icon-heart-inside:before { content: "\f563"; }
+.icon-heart-organ:before { content: "\f564"; }
+.icon-heart-tower:before { content: "\f565"; }
+.icon-heart-wings:before { content: "\f566"; }
+.icon-heartburn:before { content: "\f567"; }
+.icon-heat-haze:before { content: "\f568"; }
+.icon-heavy-arrow:before { content: "\f569"; }
+.icon-heavy-fall:before { content: "\f56a"; }
+.icon-heavy-fighter:before { content: "\f56b"; }
+.icon-heavy-helm:before { content: "\f56c"; }
+.icon-heavy-lightning:before { content: "\f56d"; }
+.icon-heavy-rain:before { content: "\f56e"; }
+.icon-heavy-thorny-triskelion:before { content: "\f56f"; }
+.icon-heavy-timer:before { content: "\f570"; }
+.icon-hedjet-white-crown:before { content: "\f571"; }
+.icon-helicopter:before { content: "\f572"; }
+.icon-helicopter-tail:before { content: "\f573"; }
+.icon-hell-crosses:before { content: "\f574"; }
+.icon-helmet:before { content: "\f575"; }
+.icon-helmet-head-shot:before { content: "\f576"; }
+.icon-help:before { content: "\f577"; }
+.icon-hexagonal-nut:before { content: "\f578"; }
+.icon-hexes:before { content: "\f579"; }
+.icon-hidden:before { content: "\f57a"; }
+.icon-high-five:before { content: "\f57b"; }
+.icon-high-grass:before { content: "\f57c"; }
+.icon-high-heel:before { content: "\f57d"; }
+.icon-high-shot:before { content: "\f57e"; }
+.icon-high-tide:before { content: "\f57f"; }
+.icon-hill-conquest:before { content: "\f580"; }
+.icon-hill-fort:before { content: "\f581"; }
+.icon-hills:before { content: "\f582"; }
+.icon-histogram:before { content: "\f583"; }
+.icon-hive:before { content: "\f584"; }
+.icon-hockey:before { content: "\f585"; }
+.icon-hole-ladder:before { content: "\f586"; }
+.icon-holosphere:before { content: "\f587"; }
+.icon-holy-grail:before { content: "\f588"; }
+.icon-holy-hand-grenade:before { content: "\f589"; }
+.icon-holy-oak:before { content: "\f58a"; }
+.icon-holy-symbol:before { content: "\f58b"; }
+.icon-holy-water:before { content: "\f58c"; }
+.icon-honeycomb:before { content: "\f58d"; }
+.icon-honeypot:before { content: "\f58e"; }
+.icon-hood:before { content: "\f58f"; }
+.icon-hoof:before { content: "\f590"; }
+.icon-horizontal-flip:before { content: "\f591"; }
+.icon-horn-internal:before { content: "\f592"; }
+.icon-horned-helm:before { content: "\f593"; }
+.icon-horned-skull:before { content: "\f594"; }
+.icon-horse-head:before { content: "\f595"; }
+.icon-horse-head-2:before { content: "\f596"; }
+.icon-horseshoe:before { content: "\f597"; }
+.icon-horus:before { content: "\f598"; }
+.icon-hospital-cross:before { content: "\f599"; }
+.icon-hot-spices:before { content: "\f59a"; }
+.icon-hot-surface:before { content: "\f59b"; }
+.icon-hound:before { content: "\f59c"; }
+.icon-hourglass:before { content: "\f59d"; }
+.icon-house:before { content: "\f59e"; }
+.icon-human-ear:before { content: "\f59f"; }
+.icon-hunting-horn:before { content: "\f5a0"; }
+.icon-hydra:before { content: "\f5a1"; }
+.icon-hydra-shot:before { content: "\f5a2"; }
+.icon-hypersonic-bolt:before { content: "\f5a3"; }
+.icon-hypersonic-melon:before { content: "\f5a4"; }
+.icon-hypodermic-test:before { content: "\f5a5"; }
+.icon-i-beam:before { content: "\f5a6"; }
+.icon-i-brick:before { content: "\f5a7"; }
+.icon-icarus:before { content: "\f5a8"; }
+.icon-ice-bolt:before { content: "\f5a9"; }
+.icon-ice-bomb:before { content: "\f5aa"; }
+.icon-ice-cream-cone:before { content: "\f5ab"; }
+.icon-ice-cube:before { content: "\f5ac"; }
+.icon-ice-golem:before { content: "\f5ad"; }
+.icon-ice-pop:before { content: "\f5ae"; }
+.icon-ice-shield:before { content: "\f5af"; }
+.icon-ice-spear:before { content: "\f5b0"; }
+.icon-iceberg:before { content: "\f5b1"; }
+.icon-icebergs:before { content: "\f5b2"; }
+.icon-icicles-fence:before { content: "\f5b3"; }
+.icon-id-card:before { content: "\f5b4"; }
+.icon-idea:before { content: "\f5b5"; }
+.icon-ifrit:before { content: "\f5b6"; }
+.icon-igloo:before { content: "\f5b7"; }
+.icon-imbricated-arrows:before { content: "\f5b8"; }
+.icon-imp:before { content: "\f5b9"; }
+.icon-imp-laugh:before { content: "\f5ba"; }
+.icon-impact-point:before { content: "\f5bb"; }
+.icon-implosion:before { content: "\f5bc"; }
+.icon-imprisoned:before { content: "\f5bd"; }
+.icon-incense:before { content: "\f5be"; }
+.icon-incisors:before { content: "\f5bf"; }
+.icon-incoming-rocket:before { content: "\f5c0"; }
+.icon-indian-palace:before { content: "\f5c1"; }
+.icon-infested-mass:before { content: "\f5c2"; }
+.icon-infinity:before { content: "\f5c3"; }
+.icon-info:before { content: "\f5c4"; }
+.icon-ink-swirl:before { content: "\f5c5"; }
+.icon-inner-self:before { content: "\f5c6"; }
+.icon-insect-jaws:before { content: "\f5c7"; }
+.icon-interdiction:before { content: "\f5c8"; }
+.icon-interlaced-tentacles:before { content: "\f5c9"; }
+.icon-interleaved-arrows:before { content: "\f5ca"; }
+.icon-internal-injury:before { content: "\f5cb"; }
+.icon-internal-organ:before { content: "\f5cc"; }
+.icon-interstellar-path:before { content: "\f5cd"; }
+.icon-invisible:before { content: "\f5ce"; }
+.icon-invisible-face:before { content: "\f5cf"; }
+.icon-ion-cannon-blast:before { content: "\f5d0"; }
+.icon-ionic-column:before { content: "\f5d1"; }
+.icon-iron-cross:before { content: "\f5d2"; }
+.icon-iron-hulled-warship:before { content: "\f5d3"; }
+.icon-iron-mask:before { content: "\f5d4"; }
+.icon-island:before { content: "\f5d5"; }
+.icon-j-brick:before { content: "\f5d6"; }
+.icon-james-bond-aperture:before { content: "\f5d7"; }
+.icon-jawbone:before { content: "\f5d8"; }
+.icon-jeep:before { content: "\f5d9"; }
+.icon-jeep-2:before { content: "\f5da"; }
+.icon-jellyfish:before { content: "\f5db"; }
+.icon-jerrycan:before { content: "\f5dc"; }
+.icon-jester-hat:before { content: "\f5dd"; }
+.icon-jet-fighter:before { content: "\f5de"; }
+.icon-jet-pack:before { content: "\f5df"; }
+.icon-jetpack:before { content: "\f5e0"; }
+.icon-jewel-crown:before { content: "\f5e1"; }
+.icon-jeweled-chalice:before { content: "\f5e2"; }
+.icon-jigsaw-box:before { content: "\f5e3"; }
+.icon-jigsaw-piece:before { content: "\f5e4"; }
+.icon-joint:before { content: "\f5e5"; }
+.icon-journey:before { content: "\f5e6"; }
+.icon-joystick:before { content: "\f5e7"; }
+.icon-jug:before { content: "\f5e8"; }
+.icon-juggler:before { content: "\f5e9"; }
+.icon-jump-across:before { content: "\f5ea"; }
+.icon-jupiter:before { content: "\f5eb"; }
+.icon-justice-star:before { content: "\f5ec"; }
+.icon-kaleidoscope-pearls:before { content: "\f5ed"; }
+.icon-katana:before { content: "\f5ee"; }
+.icon-kevlar:before { content: "\f5ef"; }
+.icon-kevlar-vest:before { content: "\f5f0"; }
+.icon-key:before { content: "\f5f1"; }
+.icon-key-2:before { content: "\f5f2"; }
+.icon-keyboard:before { content: "\f5f3"; }
+.icon-keyring:before { content: "\f5f4"; }
+.icon-kimono:before { content: "\f5f5"; }
+.icon-kindle:before { content: "\f5f6"; }
+.icon-king:before { content: "\f5f7"; }
+.icon-kitchen-knives:before { content: "\f5f8"; }
+.icon-kite:before { content: "\f5f9"; }
+.icon-klingon:before { content: "\f5fa"; }
+.icon-knapsack:before { content: "\f5fb"; }
+.icon-kneeling:before { content: "\f5fc"; }
+.icon-knife-fork:before { content: "\f5fd"; }
+.icon-knife-thrust:before { content: "\f5fe"; }
+.icon-knockout:before { content: "\f5ff"; }
+.icon-knot:before { content: "\f600"; }
+.icon-l-brick:before { content: "\f601"; }
+.icon-ladder:before { content: "\f602"; }
+.icon-lamellar:before { content: "\f603"; }
+.icon-lamprey-mouth:before { content: "\f604"; }
+.icon-land-mine:before { content: "\f605"; }
+.icon-lantern:before { content: "\f606"; }
+.icon-lantern-flame:before { content: "\f607"; }
+.icon-large-wound:before { content: "\f608"; }
+.icon-laser-blast:before { content: "\f609"; }
+.icon-laser-burst:before { content: "\f60a"; }
+.icon-laser-gun:before { content: "\f60b"; }
+.icon-laser-precision:before { content: "\f60c"; }
+.icon-laser-sparks:before { content: "\f60d"; }
+.icon-laser-warning:before { content: "\f60e"; }
+.icon-laserburn:before { content: "\f60f"; }
+.icon-lasso:before { content: "\f610"; }
+.icon-laurel-crown:before { content: "\f611"; }
+.icon-laurels:before { content: "\f612"; }
+.icon-lava:before { content: "\f613"; }
+.icon-law-star:before { content: "\f614"; }
+.icon-layered-armor:before { content: "\f615"; }
+.icon-lead-pipe:before { content: "\f616"; }
+.icon-leaf-skeleton:before { content: "\f617"; }
+.icon-leaf-swirl:before { content: "\f618"; }
+.icon-leaky-skull:before { content: "\f619"; }
+.icon-leather-boot:before { content: "\f61a"; }
+.icon-leather-vest:before { content: "\f61b"; }
+.icon-led:before { content: "\f61c"; }
+.icon-lee-enfield:before { content: "\f61d"; }
+.icon-leeching-worm:before { content: "\f61e"; }
+.icon-leo:before { content: "\f61f"; }
+.icon-letter-bomb:before { content: "\f620"; }
+.icon-level-four:before { content: "\f621"; }
+.icon-level-four-advanced:before { content: "\f622"; }
+.icon-level-three:before { content: "\f623"; }
+.icon-level-three-advanced:before { content: "\f624"; }
+.icon-level-two:before { content: "\f625"; }
+.icon-level-two-advanced:before { content: "\f626"; }
+.icon-lever:before { content: "\f627"; }
+.icon-libra:before { content: "\f628"; }
+.icon-life-buoy:before { content: "\f629"; }
+.icon-life-in-the-balance:before { content: "\f62a"; }
+.icon-life-support:before { content: "\f62b"; }
+.icon-life-tap:before { content: "\f62c"; }
+.icon-lift:before { content: "\f62d"; }
+.icon-light-bulb:before { content: "\f62e"; }
+.icon-light-fighter:before { content: "\f62f"; }
+.icon-light-sabers:before { content: "\f630"; }
+.icon-light-thorny-triskelion:before { content: "\f631"; }
+.icon-lighthouse:before { content: "\f632"; }
+.icon-lightning-arc:before { content: "\f633"; }
+.icon-lightning-bow:before { content: "\f634"; }
+.icon-lightning-branches:before { content: "\f635"; }
+.icon-lightning-dissipation:before { content: "\f636"; }
+.icon-lightning-electron:before { content: "\f637"; }
+.icon-lightning-frequency:before { content: "\f638"; }
+.icon-lightning-helix:before { content: "\f639"; }
+.icon-lightning-mask:before { content: "\f63a"; }
+.icon-lightning-saber:before { content: "\f63b"; }
+.icon-lightning-shadow:before { content: "\f63c"; }
+.icon-lightning-shield:before { content: "\f63d"; }
+.icon-lightning-shout:before { content: "\f63e"; }
+.icon-lightning-slashes:before { content: "\f63f"; }
+.icon-lightning-storm:before { content: "\f640"; }
+.icon-lightning-tear:before { content: "\f641"; }
+.icon-lightning-tree:before { content: "\f642"; }
+.icon-lightning-trio:before { content: "\f643"; }
+.icon-lily-pads:before { content: "\f644"; }
+.icon-linden-leaf:before { content: "\f645"; }
+.icon-linked-rings:before { content: "\f646"; }
+.icon-lion:before { content: "\f647"; }
+.icon-lips:before { content: "\f648"; }
+.icon-lit-candelabra:before { content: "\f649"; }
+.icon-lizard-tongue:before { content: "\f64a"; }
+.icon-lizardman:before { content: "\f64b"; }
+.icon-load:before { content: "\f64c"; }
+.icon-lob-arrow:before { content: "\f64d"; }
+.icon-lock-picking:before { content: "\f64e"; }
+.icon-lock-spy:before { content: "\f64f"; }
+.icon-locked-chest:before { content: "\f650"; }
+.icon-locked-fortress:before { content: "\f651"; }
+.icon-log:before { content: "\f652"; }
+.icon-logging:before { content: "\f653"; }
+.icon-long-antennae-bug:before { content: "\f654"; }
+.icon-long-legged-spider:before { content: "\f655"; }
+.icon-look-at:before { content: "\f656"; }
+.icon-lotus:before { content: "\f657"; }
+.icon-lotus-flower:before { content: "\f658"; }
+.icon-love-howl:before { content: "\f659"; }
+.icon-love-injection:before { content: "\f65a"; }
+.icon-love-song:before { content: "\f65b"; }
+.icon-low-tide:before { content: "\f65c"; }
+.icon-luchador:before { content: "\f65d"; }
+.icon-lucifer-cannon:before { content: "\f65e"; }
+.icon-luger:before { content: "\f65f"; }
+.icon-lunar-module:before { content: "\f660"; }
+.icon-lunar-wand:before { content: "\f661"; }
+.icon-lungs:before { content: "\f662"; }
+.icon-lynx-head:before { content: "\f663"; }
+.icon-lyre:before { content: "\f664"; }
+.icon-mace-head:before { content: "\f665"; }
+.icon-machete:before { content: "\f666"; }
+.icon-mad-scientist:before { content: "\f667"; }
+.icon-maggot:before { content: "\f668"; }
+.icon-magic-gate:before { content: "\f669"; }
+.icon-magic-lamp:before { content: "\f66a"; }
+.icon-magic-palm:before { content: "\f66b"; }
+.icon-magic-portal:before { content: "\f66c"; }
+.icon-magic-potion:before { content: "\f66d"; }
+.icon-magic-shield:before { content: "\f66e"; }
+.icon-magic-swirl:before { content: "\f66f"; }
+.icon-magic-trident:before { content: "\f670"; }
+.icon-magick-trick:before { content: "\f671"; }
+.icon-magnet:before { content: "\f672"; }
+.icon-magnet-blast:before { content: "\f673"; }
+.icon-magnifying-glass:before { content: "\f674"; }
+.icon-mail-shirt:before { content: "\f675"; }
+.icon-mailbox:before { content: "\f676"; }
+.icon-mailed-fist:before { content: "\f677"; }
+.icon-male:before { content: "\f678"; }
+.icon-manacles:before { content: "\f679"; }
+.icon-mantrap:before { content: "\f67a"; }
+.icon-maple-leaf:before { content: "\f67b"; }
+.icon-marbles:before { content: "\f67c"; }
+.icon-marrow-drain:before { content: "\f67d"; }
+.icon-martini:before { content: "\f67e"; }
+.icon-masked-spider:before { content: "\f67f"; }
+.icon-mass-driver:before { content: "\f680"; }
+.icon-match-head:before { content: "\f681"; }
+.icon-materials-science:before { content: "\f682"; }
+.icon-mayan-pyramid:before { content: "\f683"; }
+.icon-maze:before { content: "\f684"; }
+.icon-maze-cornea:before { content: "\f685"; }
+.icon-maze-saw:before { content: "\f686"; }
+.icon-meat:before { content: "\f687"; }
+.icon-meat-cleaver:before { content: "\f688"; }
+.icon-meat-hook:before { content: "\f689"; }
+.icon-mecha-head:before { content: "\f68a"; }
+.icon-mechanical-arm:before { content: "\f68b"; }
+.icon-medal:before { content: "\f68c"; }
+.icon-medal-skull:before { content: "\f68d"; }
+.icon-medical-pack:before { content: "\f68e"; }
+.icon-medical-pack-alt:before { content: "\f68f"; }
+.icon-medieval-gate:before { content: "\f690"; }
+.icon-medieval-pavilion:before { content: "\f691"; }
+.icon-meditation:before { content: "\f692"; }
+.icon-meeple:before { content: "\f693"; }
+.icon-megabot:before { content: "\f694"; }
+.icon-megaphone:before { content: "\f695"; }
+.icon-menhir:before { content: "\f696"; }
+.icon-mesh-ball:before { content: "\f697"; }
+.icon-metal-bar:before { content: "\f698"; }
+.icon-metal-disc:before { content: "\f699"; }
+.icon-metal-hand:before { content: "\f69a"; }
+.icon-metal-scales:before { content: "\f69b"; }
+.icon-meteor-impact:before { content: "\f69c"; }
+.icon-metroid:before { content: "\f69d"; }
+.icon-microchip:before { content: "\f69e"; }
+.icon-microphone:before { content: "\f69f"; }
+.icon-microscope:before { content: "\f6a0"; }
+.icon-microscope-lens:before { content: "\f6a1"; }
+.icon-middle-arrow:before { content: "\f6a2"; }
+.icon-midnight-claw:before { content: "\f6a3"; }
+.icon-mighty-boosh:before { content: "\f6a4"; }
+.icon-mine-explosion:before { content: "\f6a5"; }
+.icon-mine-wagon:before { content: "\f6a6"; }
+.icon-mineral-heart:before { content: "\f6a7"; }
+.icon-minerals:before { content: "\f6a8"; }
+.icon-minigun:before { content: "\f6a9"; }
+.icon-mining:before { content: "\f6aa"; }
+.icon-minions:before { content: "\f6ab"; }
+.icon-minotaur:before { content: "\f6ac"; }
+.icon-miracle-medecine:before { content: "\f6ad"; }
+.icon-mirror-mirror:before { content: "\f6ae"; }
+.icon-missile-mech:before { content: "\f6af"; }
+.icon-missile-pod:before { content: "\f6b0"; }
+.icon-missile-swarm:before { content: "\f6b1"; }
+.icon-mite:before { content: "\f6b2"; }
+.icon-mite-alt:before { content: "\f6b3"; }
+.icon-moebius-star:before { content: "\f6b4"; }
+.icon-moebius-triangle:before { content: "\f6b5"; }
+.icon-molecule:before { content: "\f6b6"; }
+.icon-molecule-2:before { content: "\f6b7"; }
+.icon-molotov:before { content: "\f6b8"; }
+.icon-money-stack:before { content: "\f6b9"; }
+.icon-monk-face:before { content: "\f6ba"; }
+.icon-monkey:before { content: "\f6bb"; }
+.icon-monkey-wrench:before { content: "\f6bc"; }
+.icon-monster-grasp:before { content: "\f6bd"; }
+.icon-moon:before { content: "\f6be"; }
+.icon-moon-claws:before { content: "\f6bf"; }
+.icon-morbid-humour:before { content: "\f6c0"; }
+.icon-mortar:before { content: "\f6c1"; }
+.icon-mountain-cave:before { content: "\f6c2"; }
+.icon-mountains:before { content: "\f6c3"; }
+.icon-mountaintop:before { content: "\f6c4"; }
+.icon-mounted-knight:before { content: "\f6c5"; }
+.icon-mouse:before { content: "\f6c6"; }
+.icon-mouse-2:before { content: "\f6c7"; }
+.icon-mouth-watering:before { content: "\f6c8"; }
+.icon-move:before { content: "\f6c9"; }
+.icon-movement-sensor:before { content: "\f6ca"; }
+.icon-mp5:before { content: "\f6cb"; }
+.icon-mp5-2:before { content: "\f6cc"; }
+.icon-mucous-pillar:before { content: "\f6cd"; }
+.icon-muscle-fat:before { content: "\f6ce"; }
+.icon-muscle-up:before { content: "\f6cf"; }
+.icon-mushroom:before { content: "\f6d0"; }
+.icon-mushroom-cloud:before { content: "\f6d1"; }
+.icon-mushroom-gills:before { content: "\f6d2"; }
+.icon-music-spell:before { content: "\f6d3"; }
+.icon-musket:before { content: "\f6d4"; }
+.icon-mute:before { content: "\f6d5"; }
+.icon-nailed-foot:before { content: "\f6d6"; }
+.icon-nailed-head:before { content: "\f6d7"; }
+.icon-nails:before { content: "\f6d8"; }
+.icon-nautilus-shell:before { content: "\f6d9"; }
+.icon-neck-bite:before { content: "\f6da"; }
+.icon-necklace:before { content: "\f6db"; }
+.icon-needle-drill:before { content: "\f6dc"; }
+.icon-needle-jaws:before { content: "\f6dd"; }
+.icon-nested-eclipses:before { content: "\f6de"; }
+.icon-nested-hearts:before { content: "\f6df"; }
+.icon-nested-hexagons:before { content: "\f6e0"; }
+.icon-new-born:before { content: "\f6e1"; }
+.icon-night-sky:before { content: "\f6e2"; }
+.icon-night-vision:before { content: "\f6e3"; }
+.icon-ninja-mask:before { content: "\f6e4"; }
+.icon-ninja-star:before { content: "\f6e5"; }
+.icon-nodular:before { content: "\f6e6"; }
+.icon-nose-front:before { content: "\f6e7"; }
+.icon-nose-side:before { content: "\f6e8"; }
+.icon-nothing-to-say:before { content: "\f6e9"; }
+.icon-nuclear:before { content: "\f6ea"; }
+.icon-nuclear-bomb:before { content: "\f6eb"; }
+.icon-nunchaku:before { content: "\f6ec"; }
+.icon-o-brick:before { content: "\f6ed"; }
+.icon-oak:before { content: "\f6ee"; }
+.icon-oat:before { content: "\f6ef"; }
+.icon-obelisk:before { content: "\f6f0"; }
+.icon-observatory:before { content: "\f6f1"; }
+.icon-ocarina:before { content: "\f6f2"; }
+.icon-octogonal-eye:before { content: "\f6f3"; }
+.icon-octopus:before { content: "\f6f4"; }
+.icon-offshore-platform:before { content: "\f6f5"; }
+.icon-oil-drum:before { content: "\f6f6"; }
+.icon-oil-rig:before { content: "\f6f7"; }
+.icon-old-king:before { content: "\f6f8"; }
+.icon-old-wagon:before { content: "\f6f9"; }
+.icon-olive:before { content: "\f6fa"; }
+.icon-omega:before { content: "\f6fb"; }
+.icon-on-target:before { content: "\f6fc"; }
+.icon-one-eyed:before { content: "\f6fd"; }
+.icon-open-book:before { content: "\f6fe"; }
+.icon-open-chest:before { content: "\f6ff"; }
+.icon-open-palm:before { content: "\f700"; }
+.icon-open-treasure-chest:before { content: "\f701"; }
+.icon-open-wound:before { content: "\f702"; }
+.icon-ophiuchus:before { content: "\f703"; }
+.icon-oppression:before { content: "\f704"; }
+.icon-orange:before { content: "\f705"; }
+.icon-orb-direction:before { content: "\f706"; }
+.icon-orb-wand:before { content: "\f707"; }
+.icon-orbit:before { content: "\f708"; }
+.icon-orbital:before { content: "\f709"; }
+.icon-orc-head:before { content: "\f70a"; }
+.icon-ore:before { content: "\f70b"; }
+.icon-ouroboros:before { content: "\f70c"; }
+.icon-over-infinity:before { content: "\f70d"; }
+.icon-overdose:before { content: "\f70e"; }
+.icon-overdrive:before { content: "\f70f"; }
+.icon-overhead:before { content: "\f710"; }
+.icon-overkill:before { content: "\f711"; }
+.icon-overlord-helm:before { content: "\f712"; }
+.icon-overmind:before { content: "\f713"; }
+.icon-owl:before { content: "\f714"; }
+.icon-oyster-pearl:before { content: "\f715"; }
+.icon-p90:before { content: "\f716"; }
+.icon-paddles:before { content: "\f717"; }
+.icon-padlock:before { content: "\f718"; }
+.icon-paint-roller:before { content: "\f719"; }
+.icon-palette:before { content: "\f71a"; }
+.icon-palisade:before { content: "\f71b"; }
+.icon-palm:before { content: "\f71c"; }
+.icon-palm-tree:before { content: "\f71d"; }
+.icon-pan-flute:before { content: "\f71e"; }
+.icon-panda:before { content: "\f71f"; }
+.icon-panzerfaust:before { content: "\f720"; }
+.icon-paper:before { content: "\f721"; }
+.icon-paper-arrow:before { content: "\f722"; }
+.icon-paper-bomb:before { content: "\f723"; }
+.icon-paper-clip:before { content: "\f724"; }
+.icon-paper-lantern:before { content: "\f725"; }
+.icon-paper-plane:before { content: "\f726"; }
+.icon-paper-windmill:before { content: "\f727"; }
+.icon-papers:before { content: "\f728"; }
+.icon-parachute:before { content: "\f729"; }
+.icon-paranoia:before { content: "\f72a"; }
+.icon-parmecia:before { content: "\f72b"; }
+.icon-parrot-head:before { content: "\f72c"; }
+.icon-pauldrons:before { content: "\f72d"; }
+.icon-paw:before { content: "\f72e"; }
+.icon-paw-front:before { content: "\f72f"; }
+.icon-paw-heart:before { content: "\f730"; }
+.icon-paw-print:before { content: "\f731"; }
+.icon-pawn:before { content: "\f732"; }
+.icon-pawprint:before { content: "\f733"; }
+.icon-pc:before { content: "\f734"; }
+.icon-peaks:before { content: "\f735"; }
+.icon-pear:before { content: "\f736"; }
+.icon-pegasus:before { content: "\f737"; }
+.icon-pencil:before { content: "\f738"; }
+.icon-pendulum-swing:before { content: "\f739"; }
+.icon-pentacle:before { content: "\f73a"; }
+.icon-pentagram-rose:before { content: "\f73b"; }
+.icon-perfume-bottle:before { content: "\f73c"; }
+.icon-perpendicular-rings:before { content: "\f73d"; }
+.icon-perspective-dice-six-faces-five:before { content: "\f73e"; }
+.icon-perspective-dice-six-faces-four:before { content: "\f73f"; }
+.icon-perspective-dice-six-faces-one:before { content: "\f740"; }
+.icon-perspective-dice-six-faces-random:before { content: "\f741"; }
+.icon-perspective-dice-six-faces-six:before { content: "\f742"; }
+.icon-perspective-dice-six-faces-three:before { content: "\f743"; }
+.icon-perspective-dice-six-faces-two:before { content: "\f744"; }
+.icon-pestle-mortar:before { content: "\f745"; }
+.icon-pharoah:before { content: "\f746"; }
+.icon-phone:before { content: "\f747"; }
+.icon-photo-camera:before { content: "\f748"; }
+.icon-phrygian-cap:before { content: "\f749"; }
+.icon-piano-keys:before { content: "\f74a"; }
+.icon-pickelhaube:before { content: "\f74b"; }
+.icon-pie-chart:before { content: "\f74c"; }
+.icon-pie-slice:before { content: "\f74d"; }
+.icon-piece-skull:before { content: "\f74e"; }
+.icon-pierced-body:before { content: "\f74f"; }
+.icon-pierced-heart:before { content: "\f750"; }
+.icon-pig:before { content: "\f751"; }
+.icon-pig-face:before { content: "\f752"; }
+.icon-piggy-bank:before { content: "\f753"; }
+.icon-pikeman:before { content: "\f754"; }
+.icon-pill:before { content: "\f755"; }
+.icon-pill-drop:before { content: "\f756"; }
+.icon-pillow:before { content: "\f757"; }
+.icon-pin:before { content: "\f758"; }
+.icon-pinball-flipper:before { content: "\f759"; }
+.icon-pincers:before { content: "\f75a"; }
+.icon-pine-tree:before { content: "\f75b"; }
+.icon-pineapple:before { content: "\f75c"; }
+.icon-ping-pong-bat:before { content: "\f75d"; }
+.icon-pipes:before { content: "\f75e"; }
+.icon-piranha:before { content: "\f75f"; }
+.icon-pirate-coat:before { content: "\f760"; }
+.icon-pirate-grave:before { content: "\f761"; }
+.icon-pirate-hat:before { content: "\f762"; }
+.icon-pirate-hook:before { content: "\f763"; }
+.icon-pirate-skull:before { content: "\f764"; }
+.icon-pisces:before { content: "\f765"; }
+.icon-pistol-gun:before { content: "\f766"; }
+.icon-pizza-cutter:before { content: "\f767"; }
+.icon-pizza-slice:before { content: "\f768"; }
+.icon-plain-arrow:before { content: "\f769"; }
+.icon-plain-dagger:before { content: "\f76a"; }
+.icon-plane-wing:before { content: "\f76b"; }
+.icon-planet-core:before { content: "\f76c"; }
+.icon-planks:before { content: "\f76d"; }
+.icon-plasma-bolt:before { content: "\f76e"; }
+.icon-plastron:before { content: "\f76f"; }
+.icon-plate-claw:before { content: "\f770"; }
+.icon-plow:before { content: "\f771"; }
+.icon-plug:before { content: "\f772"; }
+.icon-pocket-bow:before { content: "\f773"; }
+.icon-pocket-watch:before { content: "\f774"; }
+.icon-podium:before { content: "\f775"; }
+.icon-pointing:before { content: "\f776"; }
+.icon-pointy-hat:before { content: "\f777"; }
+.icon-pointy-sword:before { content: "\f778"; }
+.icon-poison:before { content: "\f779"; }
+.icon-poison-bottle:before { content: "\f77a"; }
+.icon-poison-cloud:before { content: "\f77b"; }
+.icon-poison-gas:before { content: "\f77c"; }
+.icon-pokecog:before { content: "\f77d"; }
+.icon-poker-hand:before { content: "\f77e"; }
+.icon-polar-bear:before { content: "\f77f"; }
+.icon-police-badge:before { content: "\f780"; }
+.icon-police-officer-head:before { content: "\f781"; }
+.icon-police-target:before { content: "\f782"; }
+.icon-pollen-dust:before { content: "\f783"; }
+.icon-polo-shirt:before { content: "\f784"; }
+.icon-pope-crown:before { content: "\f785"; }
+.icon-portal:before { content: "\f786"; }
+.icon-portculis:before { content: "\f787"; }
+.icon-position-marker:before { content: "\f788"; }
+.icon-potion-ball:before { content: "\f789"; }
+.icon-pounce:before { content: "\f78a"; }
+.icon-pouring-chalice:before { content: "\f78b"; }
+.icon-powder:before { content: "\f78c"; }
+.icon-power-button:before { content: "\f78d"; }
+.icon-power-lightning:before { content: "\f78e"; }
+.icon-prayer:before { content: "\f78f"; }
+.icon-praying-mantis:before { content: "\f790"; }
+.icon-present:before { content: "\f791"; }
+.icon-pretty-fangs:before { content: "\f792"; }
+.icon-pretzel:before { content: "\f793"; }
+.icon-prisoner:before { content: "\f794"; }
+.icon-private:before { content: "\f795"; }
+.icon-private-first-class:before { content: "\f796"; }
+.icon-processor:before { content: "\f797"; }
+.icon-profit:before { content: "\f798"; }
+.icon-protection-glasses:before { content: "\f799"; }
+.icon-pschent-double-crown:before { content: "\f79a"; }
+.icon-psychic-waves:before { content: "\f79b"; }
+.icon-pteruges:before { content: "\f79c"; }
+.icon-public-speaker:before { content: "\f79d"; }
+.icon-pull:before { content: "\f79e"; }
+.icon-pulley-hook:before { content: "\f79f"; }
+.icon-pulse:before { content: "\f7a0"; }
+.icon-pummeled:before { content: "\f7a1"; }
+.icon-pumpkin-lantern:before { content: "\f7a2"; }
+.icon-pumpkin-mask:before { content: "\f7a3"; }
+.icon-punch:before { content: "\f7a4"; }
+.icon-punch-blast:before { content: "\f7a5"; }
+.icon-puppet:before { content: "\f7a6"; }
+.icon-push:before { content: "\f7a7"; }
+.icon-puzzle:before { content: "\f7a8"; }
+.icon-pyromaniac:before { content: "\f7a9"; }
+.icon-quake-stomp:before { content: "\f7aa"; }
+.icon-queen-crown:before { content: "\f7ab"; }
+.icon-quick-slash:before { content: "\f7ac"; }
+.icon-quicksand:before { content: "\f7ad"; }
+.icon-quill:before { content: "\f7ae"; }
+.icon-quill-ink:before { content: "\f7af"; }
+.icon-quiver:before { content: "\f7b0"; }
+.icon-rabbit:before { content: "\f7b1"; }
+.icon-race-car:before { content: "\f7b2"; }
+.icon-radar-dish:before { content: "\f7b3"; }
+.icon-radar-sweep:before { content: "\f7b4"; }
+.icon-radial-balance:before { content: "\f7b5"; }
+.icon-radioactive:before { content: "\f7b6"; }
+.icon-ragged-wound:before { content: "\f7b7"; }
+.icon-railway:before { content: "\f7b8"; }
+.icon-rainbow-star:before { content: "\f7b9"; }
+.icon-raining:before { content: "\f7ba"; }
+.icon-raise-skeleton:before { content: "\f7bb"; }
+.icon-raise-zombie:before { content: "\f7bc"; }
+.icon-rake:before { content: "\f7bd"; }
+.icon-rally-the-troops:before { content: "\f7be"; }
+.icon-ram:before { content: "\f7bf"; }
+.icon-rank-1:before { content: "\f7c0"; }
+.icon-rank-2:before { content: "\f7c1"; }
+.icon-rank-3:before { content: "\f7c2"; }
+.icon-rapidshare-arrow:before { content: "\f7c3"; }
+.icon-raspberry:before { content: "\f7c4"; }
+.icon-raven:before { content: "\f7c5"; }
+.icon-ray-gun:before { content: "\f7c6"; }
+.icon-razor-blade:before { content: "\f7c7"; }
+.icon-reactor:before { content: "\f7c8"; }
+.icon-read:before { content: "\f7c9"; }
+.icon-reaper-scythe:before { content: "\f7ca"; }
+.icon-recycle:before { content: "\f7cb"; }
+.icon-regeneration:before { content: "\f7cc"; }
+.icon-relic-blade:before { content: "\f7cd"; }
+.icon-resonance:before { content: "\f7ce"; }
+.icon-reticule:before { content: "\f7cf"; }
+.icon-retro-controller:before { content: "\f7d0"; }
+.icon-return-arrow:before { content: "\f7d1"; }
+.icon-revolt:before { content: "\f7d2"; }
+.icon-revolver:before { content: "\f7d3"; }
+.icon-rhinoceros-horn:before { content: "\f7d4"; }
+.icon-ribbon:before { content: "\f7d5"; }
+.icon-ribbon-medal:before { content: "\f7d6"; }
+.icon-ribcage:before { content: "\f7d7"; }
+.icon-rifle:before { content: "\f7d8"; }
+.icon-ring:before { content: "\f7d9"; }
+.icon-ringed-beam:before { content: "\f7da"; }
+.icon-ringed-planet:before { content: "\f7db"; }
+.icon-ringing-bell:before { content: "\f7dc"; }
+.icon-riot-shield:before { content: "\f7dd"; }
+.icon-river:before { content: "\f7de"; }
+.icon-roast-chicken:before { content: "\f7df"; }
+.icon-robber:before { content: "\f7e0"; }
+.icon-robber-mask:before { content: "\f7e1"; }
+.icon-robe:before { content: "\f7e2"; }
+.icon-robin-hood-hat:before { content: "\f7e3"; }
+.icon-robot-golem:before { content: "\f7e4"; }
+.icon-robot-leg:before { content: "\f7e5"; }
+.icon-rock:before { content: "\f7e6"; }
+.icon-rock-2:before { content: "\f7e7"; }
+.icon-rocket:before { content: "\f7e8"; }
+.icon-rocket-flight:before { content: "\f7e9"; }
+.icon-rocket-thruster:before { content: "\f7ea"; }
+.icon-rogue:before { content: "\f7eb"; }
+.icon-rolling-bomb:before { content: "\f7ec"; }
+.icon-rolling-dices:before { content: "\f7ed"; }
+.icon-roman-shield:before { content: "\f7ee"; }
+.icon-roman-toga:before { content: "\f7ef"; }
+.icon-root-tip:before { content: "\f7f0"; }
+.icon-rope-coil:before { content: "\f7f1"; }
+.icon-ropeway:before { content: "\f7f2"; }
+.icon-rosa-shield:before { content: "\f7f3"; }
+.icon-rose:before { content: "\f7f4"; }
+.icon-rough-wound:before { content: "\f7f5"; }
+.icon-round-bottom-flask:before { content: "\f7f6"; }
+.icon-round-shield:before { content: "\f7f7"; }
+.icon-round-star:before { content: "\f7f8"; }
+.icon-round-straw-bale:before { content: "\f7f9"; }
+.icon-round-struck:before { content: "\f7fa"; }
+.icon-royal-love:before { content: "\f7fb"; }
+.icon-rss:before { content: "\f7fc"; }
+.icon-rss-2:before { content: "\f7fd"; }
+.icon-rugby-conversion:before { content: "\f7fe"; }
+.icon-run:before { content: "\f7ff"; }
+.icon-rune-stone:before { content: "\f800"; }
+.icon-rune-sword:before { content: "\f801"; }
+.icon-rupee:before { content: "\f802"; }
+.icon-s-brick:before { content: "\f803"; }
+.icon-saber-slash:before { content: "\f804"; }
+.icon-saber-tooth:before { content: "\f805"; }
+.icon-sabers-choc:before { content: "\f806"; }
+.icon-sacrificial-dagger:before { content: "\f807"; }
+.icon-sad-crab:before { content: "\f808"; }
+.icon-saddle:before { content: "\f809"; }
+.icon-safety-pin:before { content: "\f80a"; }
+.icon-sagittarius:before { content: "\f80b"; }
+.icon-sai:before { content: "\f80c"; }
+.icon-sailboat:before { content: "\f80d"; }
+.icon-salamander:before { content: "\f80e"; }
+.icon-salmon:before { content: "\f80f"; }
+.icon-saloon-doors:before { content: "\f810"; }
+.icon-salt-shaker:before { content: "\f811"; }
+.icon-sands-of-time:before { content: "\f812"; }
+.icon-saphir:before { content: "\f813"; }
+.icon-sattelite:before { content: "\f814"; }
+.icon-save:before { content: "\f815"; }
+.icon-saw-claw:before { content: "\f816"; }
+.icon-sawed-off-shotgun:before { content: "\f817"; }
+.icon-scale-mail:before { content: "\f818"; }
+.icon-scales:before { content: "\f819"; }
+.icon-scallop:before { content: "\f81a"; }
+.icon-scalpel:before { content: "\f81b"; }
+.icon-scalpel-strike:before { content: "\f81c"; }
+.icon-scar-wound:before { content: "\f81d"; }
+.icon-scarab-beetle:before { content: "\f81e"; }
+.icon-scarecrow:before { content: "\f81f"; }
+.icon-scissors:before { content: "\f820"; }
+.icon-scissors-2:before { content: "\f821"; }
+.icon-scooter:before { content: "\f822"; }
+.icon-scorpio:before { content: "\f823"; }
+.icon-scorpion:before { content: "\f824"; }
+.icon-scorpion-tail:before { content: "\f825"; }
+.icon-screaming:before { content: "\f826"; }
+.icon-screen-impact:before { content: "\f827"; }
+.icon-screwdriver:before { content: "\f828"; }
+.icon-scroll-unfurled:before { content: "\f829"; }
+.icon-scythe:before { content: "\f82a"; }
+.icon-sea-creature:before { content: "\f82b"; }
+.icon-sea-dragon:before { content: "\f82c"; }
+.icon-sea-serpent:before { content: "\f82d"; }
+.icon-sea-star:before { content: "\f82e"; }
+.icon-seahorse:before { content: "\f82f"; }
+.icon-seated-mouse:before { content: "\f830"; }
+.icon-select:before { content: "\f831"; }
+.icon-self-love:before { content: "\f832"; }
+.icon-semi-closed-eye:before { content: "\f833"; }
+.icon-sensuousness:before { content: "\f834"; }
+.icon-sentry-gun:before { content: "\f835"; }
+.icon-sergeant:before { content: "\f836"; }
+.icon-serrated-slash:before { content: "\f837"; }
+.icon-seven-pointed-star:before { content: "\f838"; }
+.icon-sewing-needle:before { content: "\f839"; }
+.icon-sextant:before { content: "\f83a"; }
+.icon-shadow-follower:before { content: "\f83b"; }
+.icon-shadow-grasp:before { content: "\f83c"; }
+.icon-shaking-hands:before { content: "\f83d"; }
+.icon-shambling-zombie:before { content: "\f83e"; }
+.icon-shard-sword:before { content: "\f83f"; }
+.icon-shark-fin:before { content: "\f840"; }
+.icon-shark-jaws:before { content: "\f841"; }
+.icon-sharp-axe:before { content: "\f842"; }
+.icon-sharp-crown:before { content: "\f843"; }
+.icon-sharp-halberd:before { content: "\f844"; }
+.icon-sharp-lips:before { content: "\f845"; }
+.icon-sharp-smile:before { content: "\f846"; }
+.icon-sharped-teeth-skull:before { content: "\f847"; }
+.icon-shatter:before { content: "\f848"; }
+.icon-shattered-glass:before { content: "\f849"; }
+.icon-shattered-sword:before { content: "\f84a"; }
+.icon-sheep:before { content: "\f84b"; }
+.icon-sheikah-eye:before { content: "\f84c"; }
+.icon-shield:before { content: "\f84d"; }
+.icon-shield-bounces:before { content: "\f84e"; }
+.icon-shield-disabled:before { content: "\f84f"; }
+.icon-shield-echoes:before { content: "\f850"; }
+.icon-shield-reflect:before { content: "\f851"; }
+.icon-shieldcomb:before { content: "\f852"; }
+.icon-shining-claw:before { content: "\f853"; }
+.icon-shining-heart:before { content: "\f854"; }
+.icon-shining-sword:before { content: "\f855"; }
+.icon-shinto-shrine:before { content: "\f856"; }
+.icon-shiny-apple:before { content: "\f857"; }
+.icon-shiny-entrance:before { content: "\f858"; }
+.icon-shiny-iris:before { content: "\f859"; }
+.icon-shiny-purse:before { content: "\f85a"; }
+.icon-ship-wheel:before { content: "\f85b"; }
+.icon-ship-wreck:before { content: "\f85c"; }
+.icon-shirt:before { content: "\f85d"; }
+.icon-shop:before { content: "\f85e"; }
+.icon-shopping-cart:before { content: "\f85f"; }
+.icon-shorts:before { content: "\f860"; }
+.icon-shotgun:before { content: "\f861"; }
+.icon-shotgun-rounds:before { content: "\f862"; }
+.icon-shoulder-scales:before { content: "\f863"; }
+.icon-shouting:before { content: "\f864"; }
+.icon-shrug:before { content: "\f865"; }
+.icon-shuriken:before { content: "\f866"; }
+.icon-shut-rose:before { content: "\f867"; }
+.icon-shuttlecock:before { content: "\f868"; }
+.icon-sickle:before { content: "\f869"; }
+.icon-sideswipe:before { content: "\f86a"; }
+.icon-siege-ram:before { content: "\f86b"; }
+.icon-siege-tower:before { content: "\f86c"; }
+.icon-sight-disabled:before { content: "\f86d"; }
+.icon-silence:before { content: "\f86e"; }
+.icon-silenced:before { content: "\f86f"; }
+.icon-sing:before { content: "\f870"; }
+.icon-sinking-trap:before { content: "\f871"; }
+.icon-sinusoidal-beam:before { content: "\f872"; }
+.icon-siren:before { content: "\f873"; }
+.icon-six-eyes:before { content: "\f874"; }
+.icon-skeletal-hand:before { content: "\f875"; }
+.icon-skeleton:before { content: "\f876"; }
+.icon-skeleton-inside:before { content: "\f877"; }
+.icon-skeleton-key:before { content: "\f878"; }
+.icon-skid-mark:before { content: "\f879"; }
+.icon-skull-bolt:before { content: "\f87a"; }
+.icon-skull-crack:before { content: "\f87b"; }
+.icon-skull-crossed-bones:before { content: "\f87c"; }
+.icon-skull-in-jar:before { content: "\f87d"; }
+.icon-skull-mask:before { content: "\f87e"; }
+.icon-skull-ring:before { content: "\f87f"; }
+.icon-skull-shield:before { content: "\f880"; }
+.icon-skull-signet:before { content: "\f881"; }
+.icon-slap:before { content: "\f882"; }
+.icon-slashed-shield:before { content: "\f883"; }
+.icon-slavery-whip:before { content: "\f884"; }
+.icon-sleepy:before { content: "\f885"; }
+.icon-sleeveless-jacket:before { content: "\f886"; }
+.icon-sliced-bread:before { content: "\f887"; }
+.icon-slicing-arrow:before { content: "\f888"; }
+.icon-slingshot:before { content: "\f889"; }
+.icon-slow-blob:before { content: "\f88a"; }
+.icon-sly:before { content: "\f88b"; }
+.icon-small-fire:before { content: "\f88c"; }
+.icon-smartphone:before { content: "\f88d"; }
+.icon-smash-arrows:before { content: "\f88e"; }
+.icon-smitten:before { content: "\f88f"; }
+.icon-smoking-finger:before { content: "\f890"; }
+.icon-smoking-pipe:before { content: "\f891"; }
+.icon-snail:before { content: "\f892"; }
+.icon-snake:before { content: "\f893"; }
+.icon-snake-bite:before { content: "\f894"; }
+.icon-snake-totem:before { content: "\f895"; }
+.icon-snatch:before { content: "\f896"; }
+.icon-sniffing-dog:before { content: "\f897"; }
+.icon-snitch-quidditch-ball:before { content: "\f898"; }
+.icon-snorkel:before { content: "\f899"; }
+.icon-snow-bottle:before { content: "\f89a"; }
+.icon-snowflake-1:before { content: "\f89b"; }
+.icon-snowflake-2:before { content: "\f89c"; }
+.icon-snowing:before { content: "\f89d"; }
+.icon-snowman:before { content: "\f89e"; }
+.icon-soap-experiment:before { content: "\f89f"; }
+.icon-soccer-ball:before { content: "\f8a0"; }
+.icon-soccer-field:before { content: "\f8a1"; }
+.icon-socks:before { content: "\f8a2"; }
+.icon-solar-power:before { content: "\f8a3"; }
+.icon-solar-system:before { content: "\f8a4"; }
+.icon-sombrero:before { content: "\f8a5"; }
+.icon-sonic-boom:before { content: "\f8a6"; }
+.icon-sonic-lightning:before { content: "\f8a7"; }
+.icon-sonic-screech:before { content: "\f8a8"; }
+.icon-sonic-shout:before { content: "\f8a9"; }
+.icon-sound-waves:before { content: "\f8aa"; }
+.icon-south-africa-flag:before { content: "\f8ab"; }
+.icon-space-shuttle:before { content: "\f8ac"; }
+.icon-space-suit:before { content: "\f8ad"; }
+.icon-spade:before { content: "\f8ae"; }
+.icon-spade-skull:before { content: "\f8af"; }
+.icon-spanner:before { content: "\f8b0"; }
+.icon-sparkling-sabre:before { content: "\f8b1"; }
+.icon-sparky-bomb:before { content: "\f8b2"; }
+.icon-sparrow:before { content: "\f8b3"; }
+.icon-spartan:before { content: "\f8b4"; }
+.icon-spartan-helmet:before { content: "\f8b5"; }
+.icon-spatter:before { content: "\f8b6"; }
+.icon-spawn-node:before { content: "\f8b7"; }
+.icon-speaker:before { content: "\f8b8"; }
+.icon-speaker-off:before { content: "\f8b9"; }
+.icon-spear-feather:before { content: "\f8ba"; }
+.icon-spear-hook:before { content: "\f8bb"; }
+.icon-spears:before { content: "\f8bc"; }
+.icon-spectacle-lenses:before { content: "\f8bd"; }
+.icon-spectacles:before { content: "\f8be"; }
+.icon-spectre:before { content: "\f8bf"; }
+.icon-speed-boat:before { content: "\f8c0"; }
+.icon-speedometer:before { content: "\f8c1"; }
+.icon-sperm-whale:before { content: "\f8c2"; }
+.icon-spider-alt:before { content: "\f8c3"; }
+.icon-spider-bot:before { content: "\f8c4"; }
+.icon-spider-face:before { content: "\f8c5"; }
+.icon-spider-web:before { content: "\f8c6"; }
+.icon-spikeball:before { content: "\f8c7"; }
+.icon-spiked-armor:before { content: "\f8c8"; }
+.icon-spiked-collar:before { content: "\f8c9"; }
+.icon-spiked-fence:before { content: "\f8ca"; }
+.icon-spiked-halo:before { content: "\f8cb"; }
+.icon-spiked-mace:before { content: "\f8cc"; }
+.icon-spiked-shell:before { content: "\f8cd"; }
+.icon-spiked-snail:before { content: "\f8ce"; }
+.icon-spiked-tentacle:before { content: "\f8cf"; }
+.icon-spikes:before { content: "\f8d0"; }
+.icon-spikes-full:before { content: "\f8d1"; }
+.icon-spikes-half:before { content: "\f8d2"; }
+.icon-spikes-init:before { content: "\f8d3"; }
+.icon-spiky-eclipse:before { content: "\f8d4"; }
+.icon-spiky-explosion:before { content: "\f8d5"; }
+.icon-spiky-field:before { content: "\f8d6"; }
+.icon-spiky-pit:before { content: "\f8d7"; }
+.icon-spill:before { content: "\f8d8"; }
+.icon-spinal-coil:before { content: "\f8d9"; }
+.icon-spine-arrow:before { content: "\f8da"; }
+.icon-spinning-blades:before { content: "\f8db"; }
+.icon-spinning-sword:before { content: "\f8dc"; }
+.icon-spinning-top:before { content: "\f8dd"; }
+.icon-spiral-arrow:before { content: "\f8de"; }
+.icon-spiral-bloom:before { content: "\f8df"; }
+.icon-spiral-bottle:before { content: "\f8e0"; }
+.icon-spiral-shell:before { content: "\f8e1"; }
+.icon-spiral-thrust:before { content: "\f8e2"; }
+.icon-splash:before { content: "\f8e3"; }
+.icon-splash-2:before { content: "\f8e4"; }
+.icon-splashy-stream:before { content: "\f8e5"; }
+.icon-split-body:before { content: "\f8e6"; }
+.icon-split-cross:before { content: "\f8e7"; }
+.icon-splurt:before { content: "\f8e8"; }
+.icon-spoon:before { content: "\f8e9"; }
+.icon-spoted-flower:before { content: "\f8ea"; }
+.icon-spotted-arrowhead:before { content: "\f8eb"; }
+.icon-spotted-bug:before { content: "\f8ec"; }
+.icon-spotted-mushroom:before { content: "\f8ed"; }
+.icon-spotted-wound:before { content: "\f8ee"; }
+.icon-spoutnik:before { content: "\f8ef"; }
+.icon-spray:before { content: "\f8f0"; }
+.icon-sprint:before { content: "\f8f1"; }
+.icon-sprout:before { content: "\f8f2"; }
+.icon-sprout-disc:before { content: "\f8f3"; }
+.icon-spy:before { content: "\f8f4"; }
+.icon-spyglass:before { content: "\f8f5"; }
+.icon-square-bottle:before { content: "\f8f6"; }
+.icon-squib:before { content: "\f8f7"; }
+.icon-squid:before { content: "\f8f8"; }
+.icon-squid-head:before { content: "\f8f9"; }
+.icon-stack:before { content: "\f8fa"; }
+.icon-stag-head:before { content: "\f8fb"; }
+.icon-stahlhelm:before { content: "\f8fc"; }
+.icon-stairs:before { content: "\f8fd"; }
+.icon-stake-hammer:before { content: "\f8fe"; }
+.icon-stalagtite:before { content: "\f8ff"; }
+.icon-standing-potion:before { content: "\f900"; }
+.icon-star-cycle:before { content: "\f901"; }
+.icon-star-prominences:before { content: "\f902"; }
+.icon-star-pupil:before { content: "\f903"; }
+.icon-star-sattelites:before { content: "\f904"; }
+.icon-star-swirl:before { content: "\f905"; }
+.icon-stars-stack:before { content: "\f906"; }
+.icon-staryu:before { content: "\f907"; }
+.icon-static:before { content: "\f908"; }
+.icon-static-waves:before { content: "\f909"; }
+.icon-steak:before { content: "\f90a"; }
+.icon-steam-locomotive:before { content: "\f90b"; }
+.icon-steampunk-goggles:before { content: "\f90c"; }
+.icon-steel-claws:before { content: "\f90d"; }
+.icon-steel-claws-2:before { content: "\f90e"; }
+.icon-steel-door:before { content: "\f90f"; }
+.icon-steeltoe-boots:before { content: "\f910"; }
+.icon-steelwing-emblem:before { content: "\f911"; }
+.icon-steering-wheel:before { content: "\f912"; }
+.icon-stethoscope:before { content: "\f913"; }
+.icon-steyr-aug:before { content: "\f914"; }
+.icon-stick-grenade:before { content: "\f915"; }
+.icon-stick-splitting:before { content: "\f916"; }
+.icon-sticking-plaster:before { content: "\f917"; }
+.icon-stigmata:before { content: "\f918"; }
+.icon-stiletto:before { content: "\f919"; }
+.icon-stitched-wound:before { content: "\f91a"; }
+.icon-stomach:before { content: "\f91b"; }
+.icon-stomp:before { content: "\f91c"; }
+.icon-stone-axe:before { content: "\f91d"; }
+.icon-stone-block:before { content: "\f91e"; }
+.icon-stone-bridge:before { content: "\f91f"; }
+.icon-stone-crafting:before { content: "\f920"; }
+.icon-stone-pile:before { content: "\f921"; }
+.icon-stone-spear:before { content: "\f922"; }
+.icon-stone-sphere:before { content: "\f923"; }
+.icon-stone-tablet:before { content: "\f924"; }
+.icon-stone-throne:before { content: "\f925"; }
+.icon-stone-tower:before { content: "\f926"; }
+.icon-stoned-skull:before { content: "\f927"; }
+.icon-stopwatch:before { content: "\f928"; }
+.icon-stopwatch-2:before { content: "\f929"; }
+.icon-strafe:before { content: "\f92a"; }
+.icon-strawberry:before { content: "\f92b"; }
+.icon-striking-arrows:before { content: "\f92c"; }
+.icon-striking-balls:before { content: "\f92d"; }
+.icon-striking-clamps:before { content: "\f92e"; }
+.icon-striking-diamonds:before { content: "\f92f"; }
+.icon-striking-splinter:before { content: "\f930"; }
+.icon-strong:before { content: "\f931"; }
+.icon-stun-grenade:before { content: "\f932"; }
+.icon-submarine:before { content: "\f933"; }
+.icon-suckered-tentacle:before { content: "\f934"; }
+.icon-suicide:before { content: "\f935"; }
+.icon-suitcase:before { content: "\f936"; }
+.icon-suits:before { content: "\f937"; }
+.icon-sun:before { content: "\f938"; }
+.icon-sun-cloud:before { content: "\f939"; }
+.icon-sun-radiations:before { content: "\f93a"; }
+.icon-sun-spear:before { content: "\f93b"; }
+.icon-sunbeams:before { content: "\f93c"; }
+.icon-sundial:before { content: "\f93d"; }
+.icon-sunglasses:before { content: "\f93e"; }
+.icon-sunken-eye:before { content: "\f93f"; }
+.icon-sunrise:before { content: "\f940"; }
+.icon-super-mushroom:before { content: "\f941"; }
+.icon-supersonic-arrow:before { content: "\f942"; }
+.icon-supersonic-bullet:before { content: "\f943"; }
+.icon-surprised:before { content: "\f944"; }
+.icon-surprised-skull:before { content: "\f945"; }
+.icon-suspicious:before { content: "\f946"; }
+.icon-sverd-i-fjell:before { content: "\f947"; }
+.icon-swallow:before { content: "\f948"; }
+.icon-swamp:before { content: "\f949"; }
+.icon-swan:before { content: "\f94a"; }
+.icon-swan-breeze:before { content: "\f94b"; }
+.icon-swap-bag:before { content: "\f94c"; }
+.icon-swirl-ring:before { content: "\f94d"; }
+.icon-swirl-string:before { content: "\f94e"; }
+.icon-swirled-shell:before { content: "\f94f"; }
+.icon-switch-weapon:before { content: "\f950"; }
+.icon-sword-array:before { content: "\f951"; }
+.icon-sword-break:before { content: "\f952"; }
+.icon-sword-clash:before { content: "\f953"; }
+.icon-sword-hilt:before { content: "\f954"; }
+.icon-sword-in-stone:before { content: "\f955"; }
+.icon-sword-slice:before { content: "\f956"; }
+.icon-sword-smithing:before { content: "\f957"; }
+.icon-sword-spade:before { content: "\f958"; }
+.icon-sword-spin:before { content: "\f959"; }
+.icon-swordman:before { content: "\f95a"; }
+.icon-swordwoman:before { content: "\f95b"; }
+.icon-syringe:before { content: "\f95c"; }
+.icon-syringe-2:before { content: "\f95d"; }
+.icon-t-brick:before { content: "\f95e"; }
+.icon-table:before { content: "\f95f"; }
+.icon-tabletop-players:before { content: "\f960"; }
+.icon-tank:before { content: "\f961"; }
+.icon-tank-tread:before { content: "\f962"; }
+.icon-tap:before { content: "\f963"; }
+.icon-target-arrows:before { content: "\f964"; }
+.icon-target-dummy:before { content: "\f965"; }
+.icon-target-laser:before { content: "\f966"; }
+.icon-target-shot:before { content: "\f967"; }
+.icon-targeted:before { content: "\f968"; }
+.icon-targeting:before { content: "\f969"; }
+.icon-tattered-banner:before { content: "\f96a"; }
+.icon-taurus:before { content: "\f96b"; }
+.icon-teapot:before { content: "\f96c"; }
+.icon-tear-tracks:before { content: "\f96d"; }
+.icon-techno-heart:before { content: "\f96e"; }
+.icon-telefrag:before { content: "\f96f"; }
+.icon-telepathy:before { content: "\f970"; }
+.icon-teleport:before { content: "\f971"; }
+.icon-templar-heart:before { content: "\f972"; }
+.icon-templar-shield:before { content: "\f973"; }
+.icon-temptation:before { content: "\f974"; }
+.icon-tennis-ball:before { content: "\f975"; }
+.icon-tentacle-heart:before { content: "\f976"; }
+.icon-tentacle-strike:before { content: "\f977"; }
+.icon-tentacles-skull:before { content: "\f978"; }
+.icon-tentacurl:before { content: "\f979"; }
+.icon-terror:before { content: "\f97a"; }
+.icon-tesla:before { content: "\f97b"; }
+.icon-tesla-coil:before { content: "\f97c"; }
+.icon-tesla-turret:before { content: "\f97d"; }
+.icon-test-tubes:before { content: "\f97e"; }
+.icon-theater-curtains:before { content: "\f97f"; }
+.icon-thermometer-cold:before { content: "\f980"; }
+.icon-thermometer-hot:before { content: "\f981"; }
+.icon-thermometer-scale:before { content: "\f982"; }
+.icon-think:before { content: "\f983"; }
+.icon-third-eye:before { content: "\f984"; }
+.icon-thor-fist:before { content: "\f985"; }
+.icon-thor-hammer:before { content: "\f986"; }
+.icon-thorn-helix:before { content: "\f987"; }
+.icon-thorned-arrow:before { content: "\f988"; }
+.icon-thorny-tentacle:before { content: "\f989"; }
+.icon-thorny-vine:before { content: "\f98a"; }
+.icon-three-keys:before { content: "\f98b"; }
+.icon-three-leaves:before { content: "\f98c"; }
+.icon-throne-king:before { content: "\f98d"; }
+.icon-thrown-charcoal:before { content: "\f98e"; }
+.icon-thrown-daggers:before { content: "\f98f"; }
+.icon-thrown-knife:before { content: "\f990"; }
+.icon-thrown-spear:before { content: "\f991"; }
+.icon-thrust:before { content: "\f992"; }
+.icon-thumb-down:before { content: "\f993"; }
+.icon-thumb-up:before { content: "\f994"; }
+.icon-thunder-blade:before { content: "\f995"; }
+.icon-thunder-skull:before { content: "\f996"; }
+.icon-thunder-struck:before { content: "\f997"; }
+.icon-thunderball:before { content: "\f998"; }
+.icon-tic-tac-toe:before { content: "\f999"; }
+.icon-tick:before { content: "\f99a"; }
+.icon-tie:before { content: "\f99b"; }
+.icon-tied-scroll:before { content: "\f99c"; }
+.icon-tiger:before { content: "\f99d"; }
+.icon-time-bomb:before { content: "\f99e"; }
+.icon-time-trap:before { content: "\f99f"; }
+.icon-tinker:before { content: "\f9a0"; }
+.icon-tipi:before { content: "\f9a1"; }
+.icon-toad-teeth:before { content: "\f9a2"; }
+.icon-tomahawk:before { content: "\f9a3"; }
+.icon-tombstone:before { content: "\f9a4"; }
+.icon-tombstone-2:before { content: "\f9a5"; }
+.icon-tooth:before { content: "\f9a6"; }
+.icon-top-hat:before { content: "\f9a7"; }
+.icon-top-paw:before { content: "\f9a8"; }
+.icon-torch:before { content: "\f9a9"; }
+.icon-tornado:before { content: "\f9aa"; }
+.icon-tornado-discs:before { content: "\f9ab"; }
+.icon-torpedo:before { content: "\f9ac"; }
+.icon-tortoise:before { content: "\f9ad"; }
+.icon-totem:before { content: "\f9ae"; }
+.icon-totem-head:before { content: "\f9af"; }
+.icon-toucan:before { content: "\f9b0"; }
+.icon-tower-bridge:before { content: "\f9b1"; }
+.icon-tower-fall:before { content: "\f9b2"; }
+.icon-trade:before { content: "\f9b3"; }
+.icon-traffic-cone:before { content: "\f9b4"; }
+.icon-traffic-lights-green:before { content: "\f9b5"; }
+.icon-traffic-lights-orange:before { content: "\f9b6"; }
+.icon-traffic-lights-ready-to-go:before { content: "\f9b7"; }
+.icon-traffic-lights-red:before { content: "\f9b8"; }
+.icon-trample:before { content: "\f9b9"; }
+.icon-transform:before { content: "\f9ba"; }
+.icon-transfuse:before { content: "\f9bb"; }
+.icon-transportation-rings:before { content: "\f9bc"; }
+.icon-trash-can:before { content: "\f9bd"; }
+.icon-tread:before { content: "\f9be"; }
+.icon-treasure-map:before { content: "\f9bf"; }
+.icon-trebuchet:before { content: "\f9c0"; }
+.icon-tree-beehive:before { content: "\f9c1"; }
+.icon-tree-branch:before { content: "\f9c2"; }
+.icon-trefoil-lily:before { content: "\f9c3"; }
+.icon-trefoil-shuriken:before { content: "\f9c4"; }
+.icon-trench-spade:before { content: "\f9c5"; }
+.icon-tribal-mask:before { content: "\f9c6"; }
+.icon-trident:before { content: "\f9c7"; }
+.icon-triforce:before { content: "\f9c8"; }
+.icon-trigger-hurt:before { content: "\f9c9"; }
+.icon-trilobite:before { content: "\f9ca"; }
+.icon-triorb:before { content: "\f9cb"; }
+.icon-triple-beak:before { content: "\f9cc"; }
+.icon-triple-claws:before { content: "\f9cd"; }
+.icon-triple-corn:before { content: "\f9ce"; }
+.icon-triple-lock:before { content: "\f9cf"; }
+.icon-triple-needle:before { content: "\f9d0"; }
+.icon-triple-plier:before { content: "\f9d1"; }
+.icon-triple-scratches:before { content: "\f9d2"; }
+.icon-triple-skulls:before { content: "\f9d3"; }
+.icon-triple-yin:before { content: "\f9d4"; }
+.icon-tripwire:before { content: "\f9d5"; }
+.icon-triquetra:before { content: "\f9d6"; }
+.icon-trireme:before { content: "\f9d7"; }
+.icon-trojan-horse:before { content: "\f9d8"; }
+.icon-troll:before { content: "\f9d9"; }
+.icon-tron-arrow:before { content: "\f9da"; }
+.icon-trophy:before { content: "\f9db"; }
+.icon-tropical-fish:before { content: "\f9dc"; }
+.icon-trousers:before { content: "\f9dd"; }
+.icon-trousers-2:before { content: "\f9de"; }
+.icon-trowel:before { content: "\f9df"; }
+.icon-truck:before { content: "\f9e0"; }
+.icon-tumor:before { content: "\f9e1"; }
+.icon-tune-pitch:before { content: "\f9e2"; }
+.icon-turd:before { content: "\f9e3"; }
+.icon-turret:before { content: "\f9e4"; }
+.icon-turtle:before { content: "\f9e5"; }
+.icon-turtle-shell:before { content: "\f9e6"; }
+.icon-tv:before { content: "\f9e7"; }
+.icon-twirly-flower:before { content: "\f9e8"; }
+.icon-twister:before { content: "\f9e9"; }
+.icon-two-feathers:before { content: "\f9ea"; }
+.icon-two-shadows:before { content: "\f9eb"; }
+.icon-tyre:before { content: "\f9ec"; }
+.icon-ubisoft-sun:before { content: "\f9ed"; }
+.icon-udder:before { content: "\f9ee"; }
+.icon-ufo:before { content: "\f9ef"; }
+.icon-ultrasound:before { content: "\f9f0"; }
+.icon-umbrella:before { content: "\f9f1"; }
+.icon-umbrella-bayonet:before { content: "\f9f2"; }
+.icon-uncertainty:before { content: "\f9f3"; }
+.icon-underhand:before { content: "\f9f4"; }
+.icon-unfriendly-fire:before { content: "\f9f5"; }
+.icon-unicorn:before { content: "\f9f6"; }
+.icon-union-jack:before { content: "\f9f7"; }
+.icon-unlit-bomb:before { content: "\f9f8"; }
+.icon-unlit-candelabra:before { content: "\f9f9"; }
+.icon-unlocking:before { content: "\f9fa"; }
+.icon-unplugged:before { content: "\f9fb"; }
+.icon-unstable-orb:before { content: "\f9fc"; }
+.icon-unstable-projectile:before { content: "\f9fd"; }
+.icon-usa-flag:before { content: "\f9fe"; }
+.icon-usable:before { content: "\f9ff"; }
+.icon-uzi:before { content: "\fa00"; }
+.icon-valley:before { content: "\fa01"; }
+.icon-van-damme-split:before { content: "\fa02"; }
+.icon-vanilla-flower:before { content: "\fa03"; }
+.icon-velocipede:before { content: "\fa04"; }
+.icon-vertical-banner:before { content: "\fa05"; }
+.icon-vertical-flip:before { content: "\fa06"; }
+.icon-vial:before { content: "\fa07"; }
+.icon-vibrating-ball:before { content: "\fa08"; }
+.icon-viking-church:before { content: "\fa09"; }
+.icon-viking-head:before { content: "\fa0a"; }
+.icon-viking-helmet:before { content: "\fa0b"; }
+.icon-viking-longhouse:before { content: "\fa0c"; }
+.icon-viking-shield:before { content: "\fa0d"; }
+.icon-vile-fluid:before { content: "\fa0e"; }
+.icon-village:before { content: "\fa0f"; }
+.icon-vine-flower:before { content: "\fa10"; }
+.icon-vine-leaf:before { content: "\fa11"; }
+.icon-vine-whip:before { content: "\fa12"; }
+.icon-vintage-robot:before { content: "\fa13"; }
+.icon-viola:before { content: "\fa14"; }
+.icon-virgo:before { content: "\fa15"; }
+.icon-virus:before { content: "\fa16"; }
+.icon-visored-helm:before { content: "\fa17"; }
+.icon-volcano:before { content: "\fa18"; }
+.icon-volleyball-ball:before { content: "\fa19"; }
+.icon-vomiting:before { content: "\fa1a"; }
+.icon-voodoo-doll:before { content: "\fa1b"; }
+.icon-vortex:before { content: "\fa1c"; }
+.icon-vote:before { content: "\fa1d"; }
+.icon-vulture:before { content: "\fa1e"; }
+.icon-walkie-talkie:before { content: "\fa1f"; }
+.icon-walking-boot:before { content: "\fa20"; }
+.icon-walrus-head:before { content: "\fa21"; }
+.icon-war-axe:before { content: "\fa22"; }
+.icon-warlock-eye:before { content: "\fa23"; }
+.icon-warp-pipe:before { content: "\fa24"; }
+.icon-wasp-sting:before { content: "\fa25"; }
+.icon-watch:before { content: "\fa26"; }
+.icon-watchtower:before { content: "\fa27"; }
+.icon-water-bolt:before { content: "\fa28"; }
+.icon-water-drop:before { content: "\fa29"; }
+.icon-water-fountain:before { content: "\fa2a"; }
+.icon-water-splash:before { content: "\fa2b"; }
+.icon-watering-can:before { content: "\fa2c"; }
+.icon-watermelon:before { content: "\fa2d"; }
+.icon-wave-crest:before { content: "\fa2e"; }
+.icon-wave-strike:before { content: "\fa2f"; }
+.icon-wavy-chains:before { content: "\fa30"; }
+.icon-wavy-itinerary:before { content: "\fa31"; }
+.icon-wax-seal:before { content: "\fa32"; }
+.icon-web-spit:before { content: "\fa33"; }
+.icon-weight:before { content: "\fa34"; }
+.icon-weight-crush:before { content: "\fa35"; }
+.icon-weight-lifting-down:before { content: "\fa36"; }
+.icon-weight-lifting-up:before { content: "\fa37"; }
+.icon-well:before { content: "\fa38"; }
+.icon-werewolf:before { content: "\fa39"; }
+.icon-western-hat:before { content: "\fa3a"; }
+.icon-wheat:before { content: "\fa3b"; }
+.icon-wheelbarrow:before { content: "\fa3c"; }
+.icon-whip:before { content: "\fa3d"; }
+.icon-whiplash:before { content: "\fa3e"; }
+.icon-whirlwind:before { content: "\fa3f"; }
+.icon-whistle:before { content: "\fa40"; }
+.icon-white-book:before { content: "\fa41"; }
+.icon-white-cat:before { content: "\fa42"; }
+.icon-white-tower:before { content: "\fa43"; }
+.icon-wide-arrow-dunk:before { content: "\fa44"; }
+.icon-wildfires:before { content: "\fa45"; }
+.icon-william-tell:before { content: "\fa46"; }
+.icon-wind-hole:before { content: "\fa47"; }
+.icon-wind-slap:before { content: "\fa48"; }
+.icon-wind-turbine:before { content: "\fa49"; }
+.icon-windmill:before { content: "\fa4a"; }
+.icon-windpump:before { content: "\fa4b"; }
+.icon-windy-stripes:before { content: "\fa4c"; }
+.icon-wine-glass:before { content: "\fa4d"; }
+.icon-wing-cloak:before { content: "\fa4e"; }
+.icon-winged-arrow:before { content: "\fa4f"; }
+.icon-winged-emblem:before { content: "\fa50"; }
+.icon-winged-leg:before { content: "\fa51"; }
+.icon-winged-shield:before { content: "\fa52"; }
+.icon-winged-sword:before { content: "\fa53"; }
+.icon-wingfoot:before { content: "\fa54"; }
+.icon-witch-flight:before { content: "\fa55"; }
+.icon-wizard-staff:before { content: "\fa56"; }
+.icon-wolf-head:before { content: "\fa57"; }
+.icon-wolf-howl:before { content: "\fa58"; }
+.icon-wolf-trap:before { content: "\fa59"; }
+.icon-wolverine-claws:before { content: "\fa5a"; }
+.icon-woman-elf-face:before { content: "\fa5b"; }
+.icon-wood-axe:before { content: "\fa5c"; }
+.icon-wood-club:before { content: "\fa5d"; }
+.icon-wood-pile:before { content: "\fa5e"; }
+.icon-wooden-clogs:before { content: "\fa5f"; }
+.icon-wooden-crate:before { content: "\fa60"; }
+.icon-wooden-door:before { content: "\fa61"; }
+.icon-wooden-helmet:before { content: "\fa62"; }
+.icon-wooden-pegleg:before { content: "\fa63"; }
+.icon-wooden-sign:before { content: "\fa64"; }
+.icon-world:before { content: "\fa65"; }
+.icon-worm-mouth:before { content: "\fa66"; }
+.icon-worried-eyes:before { content: "\fa67"; }
+.icon-wrapped-heart:before { content: "\fa68"; }
+.icon-wrapped-sweet:before { content: "\fa69"; }
+.icon-wrapping-star:before { content: "\fa6a"; }
+.icon-wrecking-ball:before { content: "\fa6b"; }
+.icon-wrench:before { content: "\fa6c"; }
+.icon-wyvern:before { content: "\fa6d"; }
+.icon-yin-yang:before { content: "\fa6e"; }
+.icon-z-brick:before { content: "\fa6f"; }
+.icon-zebra-shield:before { content: "\fa70"; }
+.icon-zeppelin:before { content: "\fa71"; }
+.icon-zeus-sword:before { content: "\fa72"; }
+.icon-zig-arrow:before { content: "\fa73"; }
+.icon-zigzag-cage:before { content: "\fa74"; }
+.icon-zigzag-leaf:before { content: "\fa75"; }
+.icon-zigzag-tune:before { content: "\fa76"; }
