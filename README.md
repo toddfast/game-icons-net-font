@@ -32,4 +32,4 @@ On OSX, the Illustrator root directory can be found in your `/Applications` dire
 
 ### Use in desktop applications
 
-To use the fonts in other local applications, install the font using your operating system's font installation feature. For example, on OSX double-click the `.ttf` font file in Font Book and then choose "Install Font".
+To use the fonts in other local applications, install the font using your operating system's font installation feature. For example, on OSX double-click the `.ttf` font file to open it in Font Book and then choose "Install Font".
