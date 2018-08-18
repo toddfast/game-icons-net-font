@@ -30,6 +30,10 @@ Then, copy the font file to the following location and restart Illustrator:
 
 On OSX, the Illustrator root directory can be found in your `/Applications` directory.
 
+Once installed, within Illustrator, first select a text frame object and enter text editing mode (where the caret is visible). Then, choose `Type > Glyphs` from the top menu to open the Glyphs palette, select the appropriate `game-icons-net-<datestamp>` font from the drop-down box, and double-click any displayed glyph to insert it at the caret location.
+
 ### Use in desktop applications
 
 To use the fonts in other local applications, install the font using your operating system's font installation feature. For example, on OSX double-click the `.ttf` font file to open it in Font Book and then choose "Install Font".
+
+Within an application, you'll need to use the feature that allows you to insert symbols or glyphs, or you can use your operating system's font browser to browse glyphs and copy/paste them into the application.
