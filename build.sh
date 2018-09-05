@@ -19,7 +19,25 @@ echo "Unpacking archive..."
 unzip -qu game-icons.net-$today.svg.zip
 
 mkdir -p glyphs
-find icons -name '*.svg' -type f -exec sh -c 'cp "$@" "$0"' ./glyphs {} +
+# find icons -name '*.svg' -type f -exec sh -c 'cp -i "$@" "$0"' ./glyphs {} +
+
+# See: 
+# http://tldp.org/LDP/abs/html/string-manipulation.html
+# https://www.cyberciti.biz/faq/bash-for-loop/
+# https://stackoverflow.com/questions/3362920/get-just-the-filename-from-a-path-in-a-bash-script
+
+for f in $(find icons -name \*.svg -type f) 
+do
+     # Target file name is the hash
+#    echo $f "./glyphs/"$(md5 -q -s $f).svg
+     # Both of these replace the / in the full path with _, but the sort order is fubar
+#    echo $f "./glyphs/"$(echo $f | tr / _)
+#    echo $f "./glyphs/"${f//[\/]/_}
+
+    # Append the md5 hash to the short file name to preserve sort order
+    cp $f "./glyphs/"$(basename ${f%.*})_$(md5 -q -s $f).svg
+done
+
 find ../assets/index -name '*.svg' -type f -exec sh -c 'cp "$@" "$0"' ./glyphs {} +
 
 rm -r icons
