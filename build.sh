@@ -53,3 +53,6 @@ echo ""
 echo "    $(pwd)/game-icons-net-$today/game-icons-net-$today.ttf"
 echo ""
 
+mkdir -p ../builds
+zip -r ../builds/game-icons-net-font-$today.zip ./game-icons-net-$today
+cp -r ../builds/game-icons-net-font-$today.zip ../builds/game-icons-net-font-latest.zip
