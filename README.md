@@ -18,7 +18,7 @@ The original icons and the contents of this archive are provided under the Creat
 
 If you are doing this for the first time, you can just grab the latest font:
 
-    `/distro/game-icons-net-font-latest.zip`
+    /distro/game-icons-net-font-latest.zip
 
 If you are looking for an updated version of the font with newer glyphs, you will need to pick a date-stamped version of the font to install from the `distro` directory of this repo. (Generally you will still want the latest version, unless you are trying to synchronize with other people on a specific version.)
 
@@ -30,7 +30,7 @@ To install the font, follow the instructions listed below:
 
 To use the font in Adobe Illustrator, copy the TrueType font file you want to use,
 
-    `game-icons-net-<datestamp>.ttf`
+    game-icons-net-<datestamp>.ttf
 
 to the following location and restart Illustrator:
 
