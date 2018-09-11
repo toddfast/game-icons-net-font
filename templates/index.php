@@ -33,6 +33,7 @@
 <body>
 
 <h1>Game-icons.net Icon Font Preview (game-icons-net-<?= $argv[1] ?>)</h1>
+<p>View the <a href="README.html">README file</a>.</p>
 
 <?php
 	$start = 61696; // F100
@@ -50,6 +51,8 @@
 	}
 ?>
 
+<p>
+<p style="clear: both;">View the <a href="README.html">README file</a>.</p>
 
 </body>
 </html>

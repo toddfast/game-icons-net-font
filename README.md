@@ -2,15 +2,23 @@
 
 It has become a popular technique to encode scalable vector icons as fonts. Once these icons are converted to a font, they can be conveniently inserted into your own text using any application that supports fonts, just like the wingding or symbol fonts that came with your operating system.
 
-This repository contains date-stamped font versions of the 3000+ scalable vector icons from [Game-icons.net](http://game-icons.net) made using [FontCustom](https://github.com/FontCustom/fontcustom), as well as a script to download the latest icons and generate a new font. The original icons and the contents of this repository are provided under the Creative Commons [Attribution 3.0 Unported (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/) license.
+This repository contains date-stamped font versions of the 3000+ scalable vector icons from [Game-icons.net](http://game-icons.net) made using [FontCustom](https://github.com/FontCustom/fontcustom), as well as a script to download the latest icons and generate a new font.
+
+## About
+
+This project was created by Todd Fast <todd@toddfast.com>.
+
+You can find the latest version of this project at [https://github.com/toddfast/game-icons-net-font](https://github.com/toddfast/game-icons-net-font).
+
+## License
+
+The original icons and the contents of this archive are provided under the Creative Commons [Attribution 3.0 Unported (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/) license.
 
 ## Installation and Usage
 
-To install the font, follow the instructions listed below. You will need to pick one or more date-stamped versions of the font to install. Each version will look like a separate, individual font to your system. This scheme ensures that use of older versions of the font are not disturbed by newer versions.
+You will need to pick a date-stamped versions of the font to install. Each version will look like a separate, individual font to your system. This scheme ensures that use of older versions of the font are not disturbed by newer versions.
 
-Once installed, you can use this font just like any other font in any application on your computer that supports fonts. In addition, they can also be used like other FontCustom fonts in HTML pages.
-
-Please note, if you send a document created on your computer to someone else and it contains glyphs from this font, the document will not render properly unless the recipient has the same font version installed. You can also send them the font file with instructions on how to install it (or point them to this repo), but as an easier solution, some document formats like PDF allow you to embed fonts and potentially avoid this problem.
+From the `distro` directory of this repo, download the archive of your desired version of the font and unpack it locally. To install the font, follow the instructions listed below:
 
 ### Use in Adobe Illustrator
 
@@ -28,14 +36,13 @@ Once installed, within Illustrator, first select a text frame object and enter t
 
 ### Use in other desktop applications
 
-To use the font in local applications that do not support application-specific font installation, install the font using your operating system's font installation feature. For example, on OSX, double-click the `.ttf` font file to open it in Font Book and then choose "Install Font". Note, you may receive a warning that the font is corrupted, but I've been able to use such fonts without problems.
+To use the font in local applications that do not support application-specific font installation, install the font using your operating system's font installation feature. For example, on OSX, double-click the `.ttf` font file to open it in Font Book and then choose "Install Font". Note, you may receive a warning that the font has some issues, but I've been able to use such fonts without problems. YMMV.
 
-Within an application, you'll need to use the feature that allows you to insert symbols or glyphs, or you can use your operating system's font browser to browse glyphs and copy/paste them into the application.
-
+Once installed, you can use this font just like any other font in any application on your computer that supports fonts. Within an application, you'll need to use the feature that allows you to insert symbols or glyphs, or you can use your operating system's font browser to browse glyphs and copy/paste them into the application.
 
 ### Use in HTML
 
-To use in HTML, you will want to clone this repo to get all the font-related files, identify which font file you want to use (according to date stamp), and then follow FontCustom's instructions at [https://github.com/FontCustom/fontcustom](https://github.com/FontCustom/fontcustom).
+To use in HTML, follow FontCustom's instructions at [https://github.com/FontCustom/fontcustom](https://github.com/FontCustom/fontcustom).
 
 ## Locating Glyphs
 
@@ -49,7 +56,9 @@ To find a specific glyph, search for the icon you want to use on [game-icons.net
 
 This custom font is generated as a TrueType font and should be broadly compatible with any system that uses TrueType fonts.
 
-Please note, for techical reasons, **font files generated from different icon sets are unfortunately not compatible with one another**. This means that if you try to switch versions of the font to get access to new glyphs, existing glyhs will shift to new glyphs and will have to be relocated.
+Please note, if you send a document created on your computer to someone else and it contains glyphs from this font, the document will not render properly unless the recipient has the same font version installed. You can also send them the font file with instructions on how to install it (or point them to this repo), but as an easier solution, some document formats like PDF allow you to embed fonts and potentially avoid this problem.
+
+Also note that, for techical reasons, **font files generated from different icon sets are unfortunately not compatible with one another**. This means that if you try to switch versions of the font to get access to new glyphs, existing glyhs will shift to new glyphs and will have to be relocated.
 
 The reason for this problem is that the codepoints used for the glyphs is not stable across versions of the font. While it would be possible to preserve codepoint information, due to the limitations of FontCustom, new glyphs would be appended at the end of the font, making finding glyphs considerably harder since they would no longer be alphabetically sorted.
 
