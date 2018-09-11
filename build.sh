@@ -44,9 +44,12 @@ rm -r icons
 
 fontcustom compile glyphs --name "game-icons-net-$today" --no-hash
 
+php -f ../templates/index.php $today > ./game-icons-net-$today/index.html 
+
 echo ""
 echo "To complete installation, copy or link the following font file into"
 echo "the Illustrator/Fonts directory and restart Illustsrator:"
 echo ""
 echo "    $(pwd)/game-icons-net-$today/game-icons-net-$today.ttf"
 echo ""
+
