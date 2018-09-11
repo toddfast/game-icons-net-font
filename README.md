@@ -20,7 +20,7 @@ If you are doing this for the first time, you can just grab the latest font:
 
 [`/distro/game-icons-net-font-latest.zip`](https://github.com/toddfast/game-icons-net-font/raw/master/distro/game-icons-net-font-latest.zip) (click to download)
 
-If you are looking for an updated version of the font with newer glyphs, you will need to pick a date-stamped version of the font to install from the `distro` directory of this repo. (Generally you will still want the latest version, unless you are trying to synchronize with other people on a specific version.)
+If you are looking for an updated version of the font with newer glyphs, you will need to pick a date-stamped version of the font to install from the [`distro`](https://github.com/toddfast/game-icons-net-font/tree/master/distro) directory of this repo. (Generally you will still want the latest version, unless you are trying to synchronize with other people on a specific version.)
 
 Download the archive of your desired version and unpack it locally. Note, each version will look like a separate, individual font to your system. This scheme ensures that use of older versions of the font are not disturbed by newer versions.
 
