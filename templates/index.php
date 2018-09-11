@@ -9,6 +9,7 @@
     	padding: 8px;
     	min-width: 64px;
     	text-align: center;
+    	font-family: monospace;
     }
 
     span { 
