@@ -16,19 +16,25 @@ The original icons and the contents of this archive are provided under the Creat
 
 ## Installation and Usage
 
-You will need to pick a date-stamped versions of the font to install. Each version will look like a separate, individual font to your system. This scheme ensures that use of older versions of the font are not disturbed by newer versions.
+If you are doing this for the first time, you can just grab the latest font:
 
-From the `distro` directory of this repo, download the archive of your desired version of the font and unpack it locally. To install the font, follow the instructions listed below:
+    `/distro/game-icons-net-font-latest.zip`
+
+If you are looking for an updated version of the font with newer glyphs, you will need to pick a date-stamped version of the font to install from the `distro` directory of this repo. (Generally you will still want the latest version, unless you are trying to synchronize with other people on a specific version.)
+
+Download the archive of your desired version and unpack it locally. Note, each version will look like a separate, individual font to your system. This scheme ensures that use of older versions of the font are not disturbed by newer versions.
+
+To install the font, follow the instructions listed below:
 
 ### Use in Adobe Illustrator
 
-To use the font in Adobe Illustrator, identify the TrueType font file you want to use in this repo:
+To use the font in Adobe Illustrator, copy the TrueType font file you want to use,
 
-`/<datestamp>/game-icons-net-<datestamp>/game-icons-net-<datestamp>.ttf`
+    `game-icons-net-<datestamp>.ttf`
 
-Then, copy the font file to the following location and restart Illustrator:
+to the following location and restart Illustrator:
 
-	<Adobe Illustrator root directory>/Fonts
+	/<Adobe Illustrator root directory>/Fonts
 
 On OSX, the Illustrator root directory can be found in your `/Applications` directory.
 
