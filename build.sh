@@ -17,7 +17,7 @@ then
 	echo "$today.zip found; skipping download."
 else
 	echo "Downloading archive..."
-	curl https://game-icons.net/archives/svg/zip/000000/transparent/game-icons.net.svg.zip > game-icons.net-$today.svg.zip
+	curl -L https://game-icons.net/archives/svg/zip/000000/transparent/game-icons.net.svg.zip > game-icons.net-$today.svg.zip
 fi
 
 echo "Unpacking archive..."
@@ -26,12 +26,12 @@ unzip -qu game-icons.net-$today.svg.zip
 mkdir -p glyphs
 # find icons -name '*.svg' -type f -exec sh -c 'cp -i "$@" "$0"' ./glyphs {} +
 
-# See: 
+# See:
 # http://tldp.org/LDP/abs/html/string-manipulation.html
 # https://www.cyberciti.biz/faq/bash-for-loop/
 # https://stackoverflow.com/questions/3362920/get-just-the-filename-from-a-path-in-a-bash-script
 
-for f in $(find icons -name \*.svg -type f) 
+for f in $(find icons -name \*.svg -type f)
 do
      # Target file name is the hash
 #    echo $f "./glyphs/"$(md5 -q -s $f).svg
@@ -50,8 +50,8 @@ rm -r icons
 fontcustom compile glyphs --name "game-icons-net-$today" --no-hash
 
 # Generate docs
-php -f ../../templates/index.php $today > ./game-icons-net-$today/index.html 
-php -f ../../templates/index.php $today > ./game-icons-net-$today/index.html 
+php -f ../../templates/index.php $today > ./game-icons-net-$today/index.html
+php -f ../../templates/index.php $today > ./game-icons-net-$today/index.html
 php -f ../../templates/README.md.php $today > ./game-icons-net-$today/README.md
 grip ./game-icons-net-$today/README.md --export ./game-icons-net-$today/README.html
 
