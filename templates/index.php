@@ -37,9 +37,9 @@
 
 <?php
 //	$start = 61696; // F100
-	$start = 57600; // E100
+	$start = 57344; // E000, start of the Unicode PUA
 //	$end = 65083; // FE3B
-	$end = 65535;
+	$end = 63743; // End of Unicode PUA
 
 	for ($i = $start; $i < $end; $i++) { 
 		echo('<div>');

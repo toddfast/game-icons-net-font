@@ -51,6 +51,12 @@ The reason for this problem is that the codepoints used for the glyphs is not st
 
 Instead, I suggest installing a newer font version as needed alongside the older font version to get access to newer glyphs, and use both the older and newer versions in your application until you have an opportunity to relocate glyphs in the older font version to the newer font version.
 
+### Changed code points
+
+Beginning with version 20200315, the starting code point for the icon glyphs is `0xe000`. In previous versions, it was `0xf100`. This change should hopefully be transparent to users. It became necessary as the size of the icon collection exceeded the capacity of the font. This same problem will occur in the future as the game-icons.net collection exceeds 6,400 icons.
+
+This change required using a patched version of FontCustom to adjust the default starting code point in order to ensure all icons could fit within the Unicode Private Use Area. The required patch is in the `fontcustom-2.0.0` Ruby gem, on line 47 of `fontcustom-2.0.0/lib/fontcustom/generator/font.rb`. Without this change, the resulting font file would not work on Windows and could experience other compatibility issues.
+
 ## About
 
 This project was created by Todd Fast <todd@toddfast.com>.
