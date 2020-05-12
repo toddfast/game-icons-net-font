@@ -69,3 +69,9 @@ Also note that, for techical reasons, **font files generated from different icon
 The reason for this problem is that the codepoints used for the glyphs is not stable across versions of the font. While it would be possible to preserve codepoint information, due to the limitations of FontCustom, new glyphs would be appended at the end of the font, making finding glyphs considerably harder since they would no longer be alphabetically sorted.
 
 Instead, I suggest installing a newer font version as needed alongside the older font version to get access to newer glyphs, and use both the older and newer versions in your application until you have an opportunity to relocate glyphs in the older font version to the newer font version.
+
+### Changed code points
+
+Beginning with version 20200315, the starting code point for the icon glyphs is `0xe100`. In previous versions, it was `0xf100`. This change should hopefully be transparent to users. It became necessary as the size of the icon collection exceeded the capacity of the font. This same problem will occur in the future as the game-icons.net collection exceeds ~7,900 icons.
+
+This change required using a patched version of FontCustom to adjust the default starting code point in order to ensure all icons could fit within the Unicode Private Use Area. The required patch is in the `fontcustom-2.0.0` Ruby gem, on line 47 of `fontcustom-2.0.0/lib/fontcustom/generator/font.rb`. Without this change, the resulting font file would not work on Windows and could experience other compatibility issues.

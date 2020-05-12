@@ -36,7 +36,8 @@
 <p>View the <a href="README.html">README file</a>.</p>
 
 <?php
-	$start = 61696; // F100
+//	$start = 61696; // F100
+	$start = 57600; // E100
 //	$end = 65083; // FE3B
 	$end = 65535;
 
