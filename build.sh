@@ -47,6 +47,7 @@ find ../../assets/index -name '*.svg' -type f -exec sh -c 'cp "$@" "$0"' ./glyph
 
 rm -r icons
 
+echo "Invoking fontcustom"
 fontcustom compile glyphs --name "game-icons-net-$today" --no-hash
 
 # Generate docs
